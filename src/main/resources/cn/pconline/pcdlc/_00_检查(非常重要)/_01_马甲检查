@@ -1,0 +1,57 @@
+1. passport_id和dl_developer_id 都没有
+SELECT COUNT(dl_master_id) FROM dl_master_info WHERE status = 1
+AND dl_developer_id = 0
+AND passport_id = 0
+#
+
+SELECT COUNT(dl_master_id) FROM dl_master_info WHERE status = 1
+AND dl_developer_id IS NULL
+AND passport_id = 0
+#  1
+
+SELECT COUNT(dl_master_id) FROM dl_master_info WHERE status = 1
+AND dl_developer_id = 0
+AND passport_id IS NULL
+#
+
+SELECT COUNT(dl_master_id) FROM dl_master_info WHERE status = 1
+AND dl_developer_id IS NULL
+AND passport_id IS NULL
+#
+
+2. 下载终端页不显示或显示不全
+# 2.1 情况一.不显示
+# is_user 不等于 1
+# 总
+SELECT COUNT(dl_master_id) FROM dl_master_info WHERE status = 1
+AND (passport_id > 0 OR dl_developer_id > 0)
+AND is_user = 0
+#30
+
+SELECT COUNT(dl_master_id) FROM dl_master_info WHERE status = 1
+AND is_user = 0
+#31
+
+# 拆成两种情况
+SELECT COUNT(dl_master_id) FROM dl_master_info WHERE status = 1
+AND passport_id > 0
+AND is_user = 0
+#0
+
+SELECT COUNT(dl_master_id) FROM dl_master_info WHERE status = 1
+AND dl_developer_id > 0
+AND is_user = 0
+#30
+
+todo - 解决: UPDATE dl_master_info SET is_user = 1 WHERE status = 1 AND is_user = 0 #
+
+# 2.1 情况二.显示不全
+# is_user 不等于 1
+# 总
+SELECT mi.passport_id, mi.is_user, d.passport_id, d.passport_name FROM dl_master_info mi LEFT JOIN  dl_developer d ON mi.dl_developer_id = d.dl_developer_id
+WHERE mi.dl_master_id = 1357799;
+#
+
+SELECT mi.passport_id, mi.is_user, pu.id, pu.account_name FROM dl_master_info mi LEFT JOIN passport_user pu ON mi.passport_id = pu.id
+WHERE mi.dl_master_id = 1357799;
+#

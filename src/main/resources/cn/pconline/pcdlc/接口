@@ -1,0 +1,22 @@
+1.马甲账号
+
+应用: 下载后台
+1.1 批量添加马甲账号
+参数默认: ?type=0&order=false
+ps: type=0 ==> passport_id=0
+ps: type=1 ==> passport_id IS NULL
+ps: order 排序与否
+192.168.242.79:8080/api/v1/batchAddPassport.do?type=0&order=false
+
+1.2 批量添加开发者(导入数据)马甲账号
+参数默认: ?from=1&order=false
+ps: from=1 ==> create_by IN (79396, 7)
+ps: order 排序与否
+192.168.242.79:8080/api/v1/batchAddPassport2Developer.do?from=0&order=false
+
+
+
+
+
+
+
