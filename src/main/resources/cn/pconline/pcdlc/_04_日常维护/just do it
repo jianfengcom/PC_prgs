@@ -1,0 +1,9 @@
+手游电脑版母包
+搜:
+手游电脑版这边的客户反馈他们的母包
+
+
+https://ftp.pconline.com.cn/pub/download/201010/maldner_20200831/terminator/%E8%B0%B7%E6%AD%8C%E6%B5%8F%E8%A7%88%E5%99%A8%28Google+Chrome%29_85.0.4183.83@1918_51614.exe?md5=MN5cGmqhVLimAlZen-D8xg&expires=1599201415
+https://ftp.pconline.com.cn/pub/download/201010/maldner_20200831/terminator/%E7%99%BE%E5%BA%A6%E4%BA%91%E7%AE%A1%E5%AE%B6_7.0.4.11@1918_353207.exe?md5=T6wuOufsfUmJcd1wcBAk0A&expires=1599200624
+
+^/pub/download/201010/maldner_(\d+)/terminator/(.*).exe

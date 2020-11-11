@@ -1,0 +1,209 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema",
+  "title": "APP json structure schema definition for 0.8",
+  "description": "This is a schema that matches APP json of 0.8, Validate json use https://www.jsonschemavalidator.net",
+  "type": "object",
+  "properties": {
+    "appId": {
+      "type": "string",
+      "minLength": 1,
+	  "description": "AppId已弃用"
+    },
+    "identifier": {
+      "type": "string",
+      "minLength": 1,
+	  "description": "App包名,必填"
+    },
+    "appLicense": {
+      "type": "string",
+      "minLength": 1,
+	  "description": "App ICP备案号,非必填"
+    },
+    "appName": {
+      "type": "string",
+      "minLength": 1,
+	  "description": "App名称,必填"
+    },
+    "appCategory": {
+      "type": "string",
+      "minLength": 1,
+	  "description": "App分类, 填写要求：appCategory、appCategoryId二者必填其中一"
+    },
+    "appCategoryId": {
+      "type": "string",
+      "minLength": 1,
+	  "description": "App分类ID, 填写要求：appCategory、appCategoryId二者必填其中一"
+    },
+    "appLanguage": {
+      "type": "string",
+      "enum": [
+        "1",
+        "2",
+        "3"
+      ],
+	  "description": "App语种,非必填,枚举值：1中文 2英文 3其他"
+    },
+    "appDescription": {
+      "type": "string",
+      "minLength": 1,
+	  "description": "APP的描述信息（商店中展示的APP描述信息）,必填"
+    },
+    "firstOnlineTime": {
+      "type": "string",
+      "pattern": "^((\\d{2}(([02468][048])|([13579][26]))[\\-/\\s]?((((0?[13578])|(1[02]))[\\-/\\s]?((0?[1-9])|([1-2][0-9])|(3[01])))|(((0?[469])|(11))[\\-/\\s]?((0?[1-9])|([1-2][0-9])|(30)))|(0?2[\\-/\\s]?((0?[1-9])|([1-2][0-9])))))|(\\d{2}(([02468][1235679])|([13579][01345789]))[\\-/\\s]?((((0?[13578])|(1[02]))[\\-/\\s]?((0?[1-9])|([1-2][0-9])|(3[01])))|(((0?[469])|(11))[\\-/\\s]?((0?[1-9])|([1-2][0-9])|(30)))|(0?2[\\-/\\s]?((0?[1-9])|(1[0-9])|(2[0-8]))))))(\\s(((0?[0-9])|([1][0-9])|([2][0-4])):([0-5]?[0-9])((\\s)|(:([0-5]?[0-9])))))?$",
+      "description": "APP首次上架时间,必填,格式:YYYY-MM-DD HH:MM:SS,即APP在商店中第一次上架的时间,APP多次上下架后该时间不可变"
+    },
+    "developerInformation": {
+	  "description": "开发者信息",
+      "type": "object",
+      "properties": {
+        "name": {
+          "type": "string",
+          "minLength": 1,
+		  "description": "开发者名称,必填"
+        },
+        "provinceId": {
+          "type": "number",
+          "minimum": 0,
+		  "description": "开发者所在省份ID,省份ID为基础代码,非必填"
+        }
+      },
+      "required": [
+        "name"
+      ]
+    },
+    "versionInformation": {
+	  "description": "APP版本信息,版本信息是一个数组结构,一个APP会有多个版本,商店在架的APP版本信息是必填项,APP历史版本信息为非必填项",
+      "type": "array",
+      "items": {
+        "type": "object",
+        "id": "version",
+        "properties": {
+          "versionCode": {
+            "type": "string",
+            "minLength": 1,
+			"description": "versionCode,必填,该属性为字符串,值为整数"
+          },
+          "versionName": {
+            "type": "string",
+            "minLength": 1,
+			"description": "versionName(版本号),必填"
+          },
+          "signatureMD5": {
+            "type": "string",
+            "minLength": 1,
+			"description": "MD5签名,非必填"
+          },
+          "signatureSHA1": {
+            "type": "string",
+            "minLength": 1,
+			"description": "SHA1签名,非必填"
+          },
+          "releaseNote": {
+            "type": "string",
+            "minLength": 1,
+			"description": "版本发布或更新说明,非必填"
+          },
+          "appFileSizeKb": {
+            "type": "number",
+            "minimum": 0,
+			"description": "APP安装文件大小,必填,单位KiB"
+          },
+          "downloadUrl": {
+            "type": "string",
+            "format": "uri-template",
+			"description": "APP安装文件下载HTTP URL地址,必填,必须为可下载的链接地址"
+          },
+          "onlineStatus": {
+            "type": "integer",
+            "enum": [
+              0,
+              1
+            ],
+			"description": "该版本的在架状态,必填,枚举值：0 已下架；1在架"
+          },
+          "onlineTime": {
+            "type": "string",
+            "pattern": "^((\\d{2}(([02468][048])|([13579][26]))[\\-/\\s]?((((0?[13578])|(1[02]))[\\-/\\s]?((0?[1-9])|([1-2][0-9])|(3[01])))|(((0?[469])|(11))[\\-/\\s]?((0?[1-9])|([1-2][0-9])|(30)))|(0?2[\\-/\\s]?((0?[1-9])|([1-2][0-9])))))|(\\d{2}(([02468][1235679])|([13579][01345789]))[\\-/\\s]?((((0?[13578])|(1[02]))[\\-/\\s]?((0?[1-9])|([1-2][0-9])|(3[01])))|(((0?[469])|(11))[\\-/\\s]?((0?[1-9])|([1-2][0-9])|(30)))|(0?2[\\-/\\s]?((0?[1-9])|(1[0-9])|(2[0-8]))))))(\\s(((0?[0-9])|([1][0-9])|([2][0-4])):([0-5]?[0-9])((\\s)|(:([0-5]?[0-9])))))?$",
+            "description": "该版本的上架时间,必填,格式:YYYY-MM-DD HH:MM:SS"
+          },
+          "offlineTime": {
+            "type": "string",
+            "pattern": "^((\\d{2}(([02468][048])|([13579][26]))[\\-/\\s]?((((0?[13578])|(1[02]))[\\-/\\s]?((0?[1-9])|([1-2][0-9])|(3[01])))|(((0?[469])|(11))[\\-/\\s]?((0?[1-9])|([1-2][0-9])|(30)))|(0?2[\\-/\\s]?((0?[1-9])|([1-2][0-9])))))|(\\d{2}(([02468][1235679])|([13579][01345789]))[\\-/\\s]?((((0?[13578])|(1[02]))[\\-/\\s]?((0?[1-9])|([1-2][0-9])|(3[01])))|(((0?[469])|(11))[\\-/\\s]?((0?[1-9])|([1-2][0-9])|(30)))|(0?2[\\-/\\s]?((0?[1-9])|(1[0-9])|(2[0-8]))))))(\\s(((0?[0-9])|([1][0-9])|([2][0-4])):([0-5]?[0-9])((\\s)|(:([0-5]?[0-9])))))?$",
+			"description": "该版本的下架时间,当onlineStatus=0时必填,格式:YYYY-MM-DD HH:MM:SS"
+          },
+          "appIconBase64": {
+            "type": "string",
+            "minLength": 1,
+			"description": "APP图标文件Base64字符串,必填"
+          },
+          "appIconUrl": {
+            "type": "string",
+            "format": "uri-template",
+			"description": "APP图标URL,必填,该URL必须是一个可正常访问的图片链接"
+          },
+          "screenshots": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "format": "uri-template"
+            },
+            "minItems": 0,
+			"description": "APP截图,必填,类型:数组,APP商店中展示的该APP的多张截图URL"
+          }
+        },
+        "required": [
+          "versionCode",
+          "versionName",
+          "appFileSizeKb",
+          "downloadUrl",
+          "onlineStatus",
+		  "onlineTime",
+          "appIconBase64",
+          "appIconUrl",
+		  "screenshots"
+        ]
+      },
+      "additionalItems": false,
+      "minItems": 1
+    },
+    "statisticsInformation": {
+	  "description": "APP统计信息,必填",
+      "type": "object",
+      "properties": {
+        "firstDownloadAmount": {
+          "type": "number",
+          "minimum": 0,
+		  "description": "APP首次上架当天的下载量,非必填"
+        },
+        "downloadAmount": {
+          "type": "number",
+          "minimum": 0,
+		  "description": "APP累计下载量,必填"
+        }
+      },
+      "required": [
+        "downloadAmount"
+      ]
+    }
+  },
+  "anyOf": [
+    {
+      "required": [
+        "appCategory"
+      ]
+    },
+    {
+      "required": [
+        "appCategoryId"
+      ]
+    }
+  ],
+  "required": [
+    "identifier",
+    "appName",
+    "appDescription",
+    "firstOnlineTime"
+  ],
+  "additionalProperties": false
+}

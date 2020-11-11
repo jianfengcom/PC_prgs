@@ -1,0 +1,11 @@
+## 全量
+select count(1) from dl_front_master where status = 1
+and dl_channel_id in (1, 1481, 876, 2266, 2162, 2, 1520, 1706, 1942)
+
+
+## 位置 160机器
+/data/html/pcdlc/partner/baidu/baidusitemap
+
+
+## 接口
+dlSitemapTask.jsp

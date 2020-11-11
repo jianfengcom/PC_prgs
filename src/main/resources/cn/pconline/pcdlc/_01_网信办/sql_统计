@@ -1,0 +1,25 @@
+45 + 74 + 124 + 180 + 29 = 452
+## buildJsonFile: 已处理的App总数
+一共出现次数: 452
+
+
+sql:当天未推送的数据
+SELECT * FROM cac_un_push WHERE create_time >= '2020-07-21 15:50:00'
+
+sql:线上总数: 451610
+SELECT count(fm.dl_master_id) FROM dl_master_info mi, dl_front_master fm WHERE fm.dl_master_id=mi.dl_master_id
+AND fm.dl_channel_id = 1481
+AND fm.status=1 AND fm.skip_top=0 AND mi.closed=0
+ORDER BY fm.dl_master_id
+
+sql:未备案的数据
+SELECT * FROM cac_un_report
+
+com.chinat2t21738yuneb.templte
+海南海洋渔业
+
+
+
+
+
+

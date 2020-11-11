@@ -1,0 +1,72 @@
+电脑网-下载中心静态(pconline-dl)[resin]  - 下载dl前台
+电脑网-下载中心静态(pconline-dl)[resin-admin]  - 下载dl新后台242.79
+电脑网-手机下载(pconline-wapdl)[resin]  - 软件下载wap
+电脑网-下载中心动态(pconline-dlc2)[resin]  - 下载dlc2前台
+电脑网-下载中心静态(pconline-dl)[resin-4]  - 下载定时任务机器238.160
+
+
+
+2020,07,28 15点
+全量更新了
+admin
+developer
+intf
+template2017
+wap1
+WEB-INF
+
+
+
+0728
+72-01
+ClientMasterService
+developer.jsp
+sydnb_info.jsp
+developer.jsp
+CACInteractController
+CACInteractService
+UnReportHandleVo
+download_button_area.jsp
+check_account_status.jsp
+choose_os.jsp
+dlinfo_dnb.jsp
+CADataPushController
+
+0820
+t2015
+t2017
+
+
+
+
+
+
+
+
+
+2020,07,29
+dlc2 -
+ClientMasterService
+sydnb_info.jsp
+developer.jsp
+download_button_area.jsp
+
+
+
+##
+check_account_status.jsp
+CACInteractController
+CACInteractService
+UnReportHandleVo
+
+
+
+new-spider CACInteractController, CACInteractService
+
+
+https://dlc2.pconline.com.cn/filedown4_91088_313932459/k8KaZUuX/youkuclient_setup_8.0.3.8@1918_91088.exe
+https://ftp.pconline.com.cn/pub/download/201010/maldner_20200811/terminator/youkuclient_setup_8.0.3.8@1918_91088.exe?md5=TT7zjLwmQN4asNvtu00feQ&expires=1598342016
+
+
+// 2.48 官方完整版
+// 3.3 build 123371

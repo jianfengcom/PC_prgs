@@ -1,0 +1,16 @@
+# 全量生成json文件
+SELECT fm.dl_master_id FROM dl_master_info mi, dl_front_master fm WHERE
+fm.dl_master_id=mi.dl_master_id
+AND fm.dl_channel_id = 1481
+AND fm.`status` = 1
+AND fm.skip_top = 0
+AND mi.closed = 0
+AND fm.dl_master_id IN (2022844, 1870362, 1784602, 795471, 2008108)
+
+# 检测生成单个json
+http://192.168.241.116:8081/api/master.do?masterId=1263104
+
+# 提供给网信办的接口
+https://dl.pconline.com.cn/api/v1.3/master/android/detail.do?masterId=2769331
+
+# 处理未备案接口

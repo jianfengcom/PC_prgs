@@ -1,0 +1,50 @@
+{
+  "identifier": "com.yingsoft.ksbao.Activity",
+  "appName": "考试宝典",
+  "appCategory": "考试,电子书,图书,教育学习,考试",
+  "appDescription": "你为考试而来，我为考试而生！",
+  "firstOnlineTime": "2013-07-23 22:00:00",
+  "developerInformation": {
+    "name": "英腾教育科技股份有限公司"
+  },
+  "versionInformation": [
+    {
+      "versionCode": "144",
+      "versionName": "8.16.8",
+      "appFileSizeKb": 49462,
+      "downloadUrl": "http://baidu.com/data/52c09c5639.apk",
+      "onlineStatus": 0,
+      "onlineTime": "2020-04-01 10:11:30",
+      "offlineTime": "2020-04-09 12:00:00",
+      "appIconBase64": "/9j/4AAQS...",
+      "appIconUrl": "http://gdown.baidu.com/img/0/512_512/7c5e48328f2.png",
+      "screenshots": [
+        "http://gdown.baidu.com/img/0/1080_1920/7813195a41d66a363b7d32807dea8b40.jpg",
+        "http://gdown.baidu.com/img/0/1080_1920/bb37a2e930da0011085f773bf525ab21.jpg",
+        "http://gdown.baidu.com/img/0/1080_1920/1b9049307ca1a6f6f78e908f85b0d3cc.jpg",
+        "http://gdown.baidu.com/img/0/1080_1920/a44851fadce4bea7a041394efbfb1566.jpg",
+        "http://gdown.baidu.com/img/0/1080_1920/c2e75d341159bd0437d63094357b51ee.jpg"
+      ]
+    },
+    {
+      "versionCode": "145",
+      "versionName": "8.17.0",
+      "appFileSizeKb": 52063,
+      "downloadUrl": "http://gdown.baidu.com/e67ae217726.apk",
+      "onlineStatus": 1,
+      "onlineTime": "2020-04-24 10:11:30",
+      "appIconBase64": "/9j/4AAQS...",
+      "appIconUrl": "http://gdown.baidu.com/img/0/512_512/628f2.png",
+      "screenshots": [
+        "http://gdown.baidu.com/img/0/1080_1920/7813195a41d66a363b7d32807dea8b40.jpg",
+        "http://gdown.baidu.com/img/0/1080_1920/bb37a2e930da0011085f773bf525ab21.jpg",
+        "http://gdown.baidu.com/img/0/1080_1920/1b9049307ca1a6f6f78e908f85b0d3cc.jpg",
+        "http://gdown.baidu.com/img/0/1080_1920/a44851fadce4bea7a041394efbfb1566.jpg",
+        "http://gdown.baidu.com/img/0/1080_1920/c2e75d341159bd0437d63094357b51ee.jpg"
+      ]
+    }
+  ],
+  "statisticsInformation": {
+    "downloadAmount": 118151
+  }
+}

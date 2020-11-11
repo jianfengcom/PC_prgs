@@ -1,0 +1,33 @@
+## 最终兵器
+https://g.pconline.com.cn/dl/pc/361619.html
+下载地址：https://openbox.mobilem.360.cn/channel/getUrl?src=8976834&app=zs
+
+
+## 参考安卓:
+https://g.pconline.com.cn/dl/90422.html
+https://g.pconline.com.cn/dl/ios/  不知道为什么跳不到android主页
+
+
+本地:
+http://192.168.30.56:9991/loadMasterDetail.do?masterId=65433&preview=true&asdfgh=abc1594781557254
+.extF .install
+
+
+18号前的密钥
+渠道号：8976787
+密钥: ae4e4faacb6210c59d1945122ac22def
+链接：http://openbox.mobilem.360.cn/SpeedDownload/getSpeedUrl?&from=8976787
+
+豌豆荚的文档
+https://github.com/ppfe/pdlh/blob/master/%E8%B1%8C%E8%B1%86%E8%8D%9A%E5%8C%85%E7%AB%99%E9%A1%B9%E7%9B%AE%E5%AF%B9%E5%A4%96%E6%96%87%E6%A1%A3.md能打开吗
+
+知科技
+https://t-dl.pconline.com.cn/loadMasterDetail.do?masterId=65433&preview=true&asdfgh=abc1594951045900
+
+360助手没有我们的软件处理
+https://t-dl.pconline.com.cn/loadMasterDetail.do?masterId=2519063&preview=true&asdfgh=abc1594951045900
+
+豌豆荚我们的措施是，加了一段参数让豌豆荚那边识别不了，所以下的都是我们的文件
+
+最终上线
+https://g.pconline.com.cn/dl/65380.html

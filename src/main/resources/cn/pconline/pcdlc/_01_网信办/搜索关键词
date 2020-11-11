@@ -1,0 +1,20 @@
+Exception in thread "pool-2-thread-3" java.lang.OutOfMemoryError: Java heap space
+Exception in thread "pool-2-thread-7" java.lang.OutOfMemoryError: GC overhead limit exceeded
+
+
+## buildJsonFile: 已处理的App总数:
+## run-处理数据时发生错误,位置在:
+
+22:35:12
+
+
+不正确使用线程池导致java堆溢出java.lang.OutOfMemoryError: Java heap space
+https://blog.csdn.net/shaobo7705601/article/details/78341339
+
+线程池之ThreadPoolExecutor使用
+https://www.jianshu.com/p/f030aa5d7a28
+
+
+#线程
+MyTask[name=282] is running
+my-thread-419 has been created
