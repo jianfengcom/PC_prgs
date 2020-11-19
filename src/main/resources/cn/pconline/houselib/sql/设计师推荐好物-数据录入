@@ -1,0 +1,14 @@
+UPDATE lib_rank_brand SET create_by = 'admin',
+update_by = 'admin',
+status = 1,
+create_time = '2020-11-19 10:28:36',
+update_time = '2020-11-19 10:28:36'
+WHERE update_by IS NULL;
+
+
+UPDATE lib_rank_product SET create_by = 'admin',
+update_by = 'admin',
+status = 1,
+create_time = '2020-11-19 10:28:36',
+update_time = '2020-11-19 10:28:36'
+WHERE update_by IS NULL;
