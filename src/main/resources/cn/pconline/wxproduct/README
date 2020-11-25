@@ -1,0 +1,9 @@
+一开始的时候, 生成api
+curl 192.168.243.248:9001/baidu/buildApi
+
+提交api
+1. submit_api.txt
+2. curl 192.168.243.248:9001/baidu/submitApi
+
+提交日志
+2020-11-25
