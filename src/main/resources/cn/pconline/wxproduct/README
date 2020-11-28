@@ -5,5 +5,10 @@ curl 192.168.243.248:9001/baidu/buildApi
 1. submit_api.txt
 2. curl 192.168.243.248:9001/baidu/submitApi
 
+日志路径
+/data/web/wxproduct/logs
+
 提交日志
-2020-11-25
+2020-11-26
+2020-11-27
+2020-11-28
