@@ -1,0 +1,6 @@
+爬虫主表下载文件15天过期, 需要修改下载状态
+
+安卓
+curl 192.168.242.79:8080/intf/resetClientSpiderMaster.jsp
+日志路径
+cd /data/LOG/resin_pconline-dl/log
