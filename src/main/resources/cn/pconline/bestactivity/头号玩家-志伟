@@ -9,5 +9,8 @@ SELECT * FROM pcbest_account_ecard_share WHERE help_id = 'h2'
 2. 记录
 SELECT * FROM pcbest_account_ecard WHERE wx_id = 'oAzmN5UFaDsd0mUWVGcjzEdVV9_0'
 
+3. 领卡
+SELECT * FROM pcbest_ecard WHERE passport_id = 43861991
+
 
 名称和passportId太像了

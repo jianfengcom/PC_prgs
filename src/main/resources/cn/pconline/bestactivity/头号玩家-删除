@@ -1,0 +1,8 @@
+
+
+DELETE FROM pcbest_account_ecard WHERE wx_id = 'oAzmN5UjIX8dpno3PIecbW345FYU';
+DELETE FROM pcbest_account_ecard_share WHERE share_id = 'oAzmN5UjIX8dpno3PIecbW345FYU';
+DELETE FROM pcbest_account_ecard_share WHERE help_id = 'oAzmN5UjIX8dpno3PIecbW345FYU';
+
+
+删除后记得清除缓存
