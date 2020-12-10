@@ -1,0 +1,13 @@
+志伟
+wx43861991 43861991
+oAzmN5UFaDsd0mUWVGcjzEdVV9_0
+
+
+1. h2的助力
+SELECT * FROM pcbest_account_ecard_share WHERE help_id = 'h2'
+
+2. 记录
+SELECT * FROM pcbest_account_ecard WHERE wx_id = 'oAzmN5UFaDsd0mUWVGcjzEdVV9_0'
+
+
+名称和passportId太像了
