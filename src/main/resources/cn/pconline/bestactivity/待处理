@@ -1,0 +1,5 @@
+SELECT * FROM pcbest_account_ecard_share WHERE share_id = 'oAzmN5R21pDXjtRbI3RzDmvvtWfY'
+
+处理:
+1.重发
+2.处理相关日志

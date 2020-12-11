@@ -1,0 +1,81 @@
+[2020-12-11 08:00:05.257] 2020-12-11 08:00:05,256 [http-app-a-8080-2$1555871460] INFO  syslog - 开始插入数据
+[2020-12-11 08:00:05.257] 2020-12-11 08:00:05,257 [http-app-a-8080-2$1555871460] INFO  syslog - 定时生成虚拟中奖用户记录任务结束
+[2020-12-11 08:00:44.913] help.jsp 1-5 = 当前助力数-总助力数
+[2020-12-11 08:08:47.990] 2020-12-11 08:08:47,988 [http-app-a-8080-3$2072342517] ERROR cn.pconline.best.activity.service.AccountEcardService - AccountEcardService-login error!
+[2020-12-11 08:08:47.990] org.springframework.dao.DataIntegrityViolationException: PreparedStatementCallback; SQL [INSERT INTO pcbest_account_ecard  (passport_id, wx_id, `name`, head_icon, share_acount, help_acount, ecard_status, update_time, create_time)  VALUES (?, ?, ?, ?, 0, 0, 0, NOW(), NOW())]; Data truncation: Data too long for column 'name' at row 1; nested exception is com.mysql.jdbc.MysqlDataTruncation: Data truncation: Data too long for column 'name' at row 1
+[2020-12-11 08:08:47.990] 	at org.springframework.jdbc.support.SQLStateSQLExceptionTranslator.doTranslate(SQLStateSQLExceptionTranslator.java:101)
+[2020-12-11 08:08:47.990] 	at org.springframework.jdbc.support.AbstractFallbackSQLExceptionTranslator.translate(AbstractFallbackSQLExceptionTranslator.java:72)
+[2020-12-11 08:08:47.990] 	at org.springframework.jdbc.support.AbstractFallbackSQLExceptionTranslator.translate(AbstractFallbackSQLExceptionTranslator.java:80)
+[2020-12-11 08:08:47.990] 	at org.springframework.jdbc.support.AbstractFallbackSQLExceptionTranslator.translate(AbstractFallbackSQLExceptionTranslator.java:80)
+[2020-12-11 08:08:47.990] 	at org.springframework.jdbc.core.JdbcTemplate.execute(JdbcTemplate.java:603)
+[2020-12-11 08:08:47.990] 	at org.springframework.jdbc.core.JdbcTemplate.update(JdbcTemplate.java:812)
+[2020-12-11 08:08:47.990] 	at org.springframework.jdbc.core.JdbcTemplate.update(JdbcTemplate.java:868)
+[2020-12-11 08:08:47.990] 	at org.springframework.jdbc.core.JdbcTemplate.update(JdbcTemplate.java:876)
+[2020-12-11 08:08:47.990] 	at org.springframework.jdbc.core.JdbcTemplate$$FastClassByCGLIB$$a4771cb8.invoke(<generated>)
+[2020-12-11 08:08:47.990] 	at org.springframework.cglib.proxy.MethodProxy.invoke(MethodProxy.java:204)
+[2020-12-11 08:08:47.990] 	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.invokeJoinpoint(CglibAopProxy.java:698)
+[2020-12-11 08:08:47.990] 	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:150)
+[2020-12-11 08:08:47.990] 	at org.springframework.aop.aspectj.MethodInvocationProceedingJoinPoint.proceed(MethodInvocationProceedingJoinPoint.java:80)
+[2020-12-11 08:08:47.990] 	at org.gelivable.web.AopSqlMonitor.monitor(AopSqlMonitor.java:33)
+[2020-12-11 08:08:47.990] 	at sun.reflect.GeneratedMethodAccessor43.invoke(Unknown Source)
+[2020-12-11 08:08:47.990] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+[2020-12-11 08:08:47.990] 	at java.lang.reflect.Method.invoke(Method.java:597)
+[2020-12-11 08:08:47.990] 	at org.springframework.aop.aspectj.AbstractAspectJAdvice.invokeAdviceMethodWithGivenArgs(AbstractAspectJAdvice.java:621)
+[2020-12-11 08:08:47.990] 	at org.springframework.aop.aspectj.AbstractAspectJAdvice.invokeAdviceMethod(AbstractAspectJAdvice.java:610)
+[2020-12-11 08:08:47.990] 	at org.springframework.aop.aspectj.AspectJAroundAdvice.invoke(AspectJAroundAdvice.java:65)
+[2020-12-11 08:08:47.990] 	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:172)
+[2020-12-11 08:08:47.990] 	at org.springframework.aop.interceptor.ExposeInvocationInterceptor.invoke(ExposeInvocationInterceptor.java:91)
+[2020-12-11 08:08:47.990] 	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:172)
+[2020-12-11 08:08:47.990] 	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:631)
+[2020-12-11 08:08:47.990] 	at org.springframework.jdbc.core.JdbcTemplate$$EnhancerByCGLIB$$1fc38677.update(<generated>)
+[2020-12-11 08:08:47.990] 	at cn.pconline.best.activity.service.AccountEcardService.login(AccountEcardService.java:290)
+[2020-12-11 08:08:47.990] 	at _jsp._intf._accountEcard._help__jsp._jspService(_help__jsp.java:92)
+[2020-12-11 08:08:47.990] 	at com.caucho.jsp.JavaPage.service(JavaPage.java:61)
+[2020-12-11 08:08:47.990] 	at com.caucho.jsp.Page.pageservice(Page.java:587)
+[2020-12-11 08:08:47.990] 	at com.caucho.server.dispatch.PageFilterChain.doFilter(PageFilterChain.java:195)
+[2020-12-11 08:08:47.990] 	at org.gelivable.web.EnvFilter.doFilter(EnvFilter.java:83)
+[2020-12-11 08:08:47.990] 	at com.caucho.server.dispatch.FilterFilterChain.doFilter(FilterFilterChain.java:87)
+[2020-12-11 08:08:47.990] 	at org.gelivable.web.gzip.GZIPFilter.doFilter(GZIPFilter.java:85)
+[2020-12-11 08:08:47.990] 	at org.gelivable.web.gzip.Filter.doFilter(Filter.java:72)
+[2020-12-11 08:08:47.990] 	at com.caucho.server.dispatch.FilterFilterChain.doFilter(FilterFilterChain.java:87)
+[2020-12-11 08:08:47.990] 	at com.caucho.server.webapp.WebAppFilterChain.doFilter(WebAppFilterChain.java:187)
+[2020-12-11 08:08:47.990] 	at com.caucho.server.dispatch.ServletInvocation.service(ServletInvocation.java:265)
+[2020-12-11 08:08:47.990] 	at com.caucho.server.http.HttpRequest.handleRequest(HttpRequest.java:273)
+[2020-12-11 08:08:47.990] 	at com.caucho.server.port.TcpConnection.run(TcpConnection.java:682)
+[2020-12-11 08:08:47.990] 	at com.caucho.util.ThreadPool$Item.runTasks(ThreadPool.java:730)
+[2020-12-11 08:08:47.990] 	at com.caucho.util.ThreadPool$Item.run(ThreadPool.java:649)
+[2020-12-11 08:08:47.990] 	at java.lang.Thread.run(Thread.java:662)
+[2020-12-11 08:08:47.990] Caused by: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Data too long for column 'name' at row 1
+[2020-12-11 08:08:47.990] 	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3833)
+[2020-12-11 08:08:47.990] 	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3771)
+[2020-12-11 08:08:47.990] 	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:2435)
+[2020-12-11 08:08:47.990] 	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2582)
+[2020-12-11 08:08:47.990] 	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2535)
+[2020-12-11 08:08:47.990] 	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:1911)
+[2020-12-11 08:08:47.990] 	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:2145)
+[2020-12-11 08:08:47.990] 	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:2081)
+[2020-12-11 08:08:47.990] 	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:2066)
+[2020-12-11 08:08:47.990] 	at com.mysql.jdbc.jdbc2.optional.PreparedStatementWrapper.executeUpdate(PreparedStatementWrapper.java:728)
+[2020-12-11 08:08:47.990] 	at com.caucho.sql.UserPreparedStatement.executeUpdate(UserPreparedStatement.java:107)
+[2020-12-11 08:08:47.990] 	at com.caucho.sql.UserPreparedStatement.executeUpdate(UserPreparedStatement.java:107)
+[2020-12-11 08:08:47.990] 	at org.springframework.jdbc.core.JdbcTemplate$2.doInPreparedStatement(JdbcTemplate.java:818)
+[2020-12-11 08:08:47.990] 	at org.springframework.jdbc.core.JdbcTemplate$2.doInPreparedStatement(JdbcTemplate.java:812)
+[2020-12-11 08:08:47.990] 	at org.springframework.jdbc.core.JdbcTemplate.execute(JdbcTemplate.java:587)
+[2020-12-11 08:08:47.990] 	... 37 more
+[2020-12-11 08:08:48.022] help.jsp 2-3 = 当前助力数-总助力数
+[2020-12-11 08:10:06.762] 2020-12-11 08:10:06,762 [http-app-a-8080-10$968634702] INFO  syslog - 开始插入数据
+[2020-12-11 08:10:06.765] 2020-12-11 08:10:06,763 [http-app-a-8080-10$968634702] INFO  syslog - 定时生成虚拟中奖用户记录任务结束
+[2020-12-11 08:20:02.869] 2020-12-11 08:20:02,869 [http-app-a-8080-3$2072342517] INFO  syslog - 开始插入数据
+[2020-12-11 08:20:02.876] 2020-12-11 08:20:02,876 [http-app-a-8080-3$2072342517] INFO  syslog - 定时生成虚拟中奖用户记录任务结束
+[2020-12-11 08:23:49.540] help.jsp 1-1 = 当前助力数-总助力数
+[2020-12-11 08:29:04.721] ADD_GOLD_SCORE_30985011：成功加分/金币/等级
+[2020-12-11 08:30:04.179] 2020-12-11 08:30:04,178 [http-app-a-8080-2$1881577971] INFO  syslog - 开始插入数据
+[2020-12-11 08:30:04.181] 2020-12-11 08:30:04,180 [http-app-a-8080-2$1881577971] INFO  syslog - 定时生成虚拟中奖用户记录任务结束
+[2020-12-11 08:37:48.514] help.jsp 1-3 = 当前助力数-总助力数
+[2020-12-11 08:40:05.544] 2020-12-11 08:40:05,543 [http-app-a-8080-11$1179107200] INFO  syslog - 开始插入数据
+[2020-12-11 08:40:05.545] 2020-12-11 08:40:05,545 [http-app-a-8080-11$1179107200] INFO  syslog - 定时生成虚拟中奖用户记录任务结束
+[2020-12-11 08:47:10.121] ADD_GOLD_SCORE_20678：成功加分/金币/等级
+[2020-12-11 08:48:56.926] ADD_GOLD_SCORE_27777346：成功加分/金币/等级
+[2020-12-11 08:50:07.081] 2020-12-11 08:50:07,080 [http-app-a-8080-3$2072342517] INFO  syslog - 开始插入数据
+[2020-12-11 08:50:07.083] 2020-12-11 08:50:07,083 [http-app-a-8080-3$2072342517] INFO  syslog - 定时生成虚拟中奖用户记录任务结束
+[2020-12-11 08:51:52.897] help.jsp 1-5 = 当前助力数-总助力数
