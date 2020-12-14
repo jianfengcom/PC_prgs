@@ -1,0 +1,7 @@
+UPDATE dl_client_master_spider c SET c.apk_status = 0
+WHERE 1 = 1
+AND c.master_type = 1481
+AND c.apk_status = 1
+AND c.need_download = 1
+AND c.site_type = 20
+AND c.update_date < '2020-10-25 00:00:00'
