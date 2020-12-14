@@ -1,0 +1,40 @@
+1. 起始
+叶晓彬(Wood) 5-13
+安卓爬取
+源站点为360手机助手的软件下载失败数量80%以上，公司网络不用代理打不开360手机助手的网站
+爬取页示例：http://zhushou.360.cn/detail/index/soft_id/4165879
+
+2. 爬取文件出错
+叶晓彬(Wood) 9-7
+安卓爬取
+360站点，爬取的文件出错了，看了下360那边，应该是更新了代码，我们下载的是他们的360手机助手，然后通过手机助手再下载目标软件（类似下载器）。
+http://zhushou.360.cn/detail/index/soft_id/4284393
+wap页面的话还是可以下载到正确的目标文件的
+ps: 1. PC端不直接提供目标文件下载; 2. 文件下载转换成wap的页面抓一下apk
+
+
+PC：http://zhushou.360.cn/detail/index/soft_id/4143081
+WAP：http://m.app.so.com/detail/&id=4143081
+
+PC：http://zhushou.360.cn/detail/index/soft_id/4036154
+https://app.api.sj.360.cn/url/download/id/4036154/from/web_detail
+WAP：http://m.app.so.com/detail/&id=4036154
+1:
+http://s.shouji.qihucdn.com/201014/dc57eefbedbb7b8a2240d09bc3ebe8ea/com.elink.elinkykb_213.apk?en=curpage%3Dopenbox_wap_detail%26exp%3D1608519722%26from%3Dopenbox_mintf_getAppInfoByIds%26m2%3D%26ts%3D1607914922%26tok%3D373713dfe06b7c26677c26ae6ac103a1%26v%3D%26f%3Dz.apk
+2:
+http://s.shouji.qihucdn.com/201014/dc57eefbedbb7b8a2240d09bc3ebe8ea/com.elink.elinkykb_213.apk?en=curpage%3Dopenbox_wap_detail%26exp%3D1608519933%26from%3Dopenbox_mintf_getAppInfoByIds%26m2%3D%26ts%3D1607915133%26tok%3D04ca1983c503dfcc2ac2beee9cd6695b%26v%3D%26f%3Dz.apk
+
+pc
+zhushou360://type=apk&marketid=10000001&refer=thirdlink&name=%E4%BA%91%E5%8D%97%E7%9C%81%E6%8A%80%E8%83%BD%E5%9F%B9%E8%AE%AD%E9%80%9A&icon=http://p18.qhimg.com/t016ed4b11441aa376f.png&appmd5=c12236b07dc75d68bed0d460a731716b&softid=4143081&appadb=&url=https://app.api.sj.360.cn/url/download/id/4143081/from/web_detail
+https://app.api.sj.360.cn/url/download/id/4143081/from/web_detail
+
+
+爬虫
+ClientMasterSpider.setApkDownloadUrl()
+
+下载
+pcdlc_upload
+/intf/download360AssistantApk.jsp
+下载列表:
+SELECT dl_client_master_spider_id, create_date, update_date FROM `dl_client_master_spider`
+WHERE apk_status= 0 and master_type= 1481 and site_type= 20 ORDER BY update_date desc limit 0,100
