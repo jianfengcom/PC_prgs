@@ -1,0 +1,9 @@
+/data/crontask/3314/yybAndroidSpider.sh
+
+SPIDER_SH_LOG=/data/LOG/spider_sh_log
+TASK_NAME=yybSpider
+$ANT_HOME/bin/ant -buildfile $PUBLISH_HOME/build.xml $TASK_NAME >> $SPIDER_SH_LOG/$TASK_NAME.log  2>&1
+
+
+https://sj.qq.com/myapp/detail.htm?apkName=com.tencent.mm&info=44EB2953E4D628D24358E129B9D90D3D
+https://sj.qq.com/myapp/detail.htm?apkName=com.qhdn.jiankong
