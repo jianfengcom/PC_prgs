@@ -5,3 +5,7 @@ AND c.apk_status = 1
 AND c.need_download = 1
 AND c.site_type = 20
 AND c.update_date < '2020-10-25 00:00:00'
+
+
+SELECT dl_client_master_spider_id, `name`, apk_download_url, create_date, update_date FROM `dl_client_master_spider`
+WHERE apk_status= 0 and master_type= 1481 and site_type= 20 ORDER BY update_date desc
