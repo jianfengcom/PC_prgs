@@ -24,6 +24,19 @@ SELECT * FROM dl_front_master WHERE dl_master_id = 2802481
 SELECT * FROM dl_master_info WHERE dl_master_id = 2802481
 iOS下载 -- 无
 
+
+3. 解决方法:
+if(clientMasterSpider != null && clientMasterSpider.getPic() != null){
+    pics = clientMasterSpider.getPic().split(",");
+}
+拓印扫描仪 发布
+SELECT * FROM dl_client_master_spider WHERE dl_client_master_spider_id = 5218313 -- apple_id:595563753
+select * from dl_master_info_ios where apple_id = 595563753 -- dl_master_id:2802484
+
+SELECT * FROM dl_front_master WHERE dl_master_id = 2802484
+SELECT * FROM dl_master_info WHERE dl_master_id = 2802484
+
+
 stdout
 2020-12-16 20:19:25.798
 stderr
