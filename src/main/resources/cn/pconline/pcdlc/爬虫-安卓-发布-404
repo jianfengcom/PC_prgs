@@ -1,7 +1,9 @@
 ClientMasterSpider
 
 命令: /admin/batchIosClientMasterSpider.do
+SELECT * FROM dl_client_master_spider WHERE name = ''
 
+1.
 传奇无双移动版 发布
 SELECT * FROM dl_client_master_spider WHERE dl_client_master_spider_id = 5218221 -- apple_id:1478870142
 select * from dl_master_info_ios where apple_id = 1478870142 -- dl_master_id:2802480
@@ -9,3 +11,10 @@ select * from dl_master_info_ios where apple_id = 1478870142 -- dl_master_id:280
 
 SELECT * FROM dl_front_master WHERE dl_master_id = 2802480
 SELECT * FROM dl_master_info WHERE dl_master_id = 2802480
+
+
+2.
+河池字牌    发布
+SELECT * FROM dl_client_master_spider WHERE dl_client_master_spider_id = 5218248 -- apple_id:1516399967
+select * from dl_master_info_ios where apple_id = 1516399967 -- 无
+iOS下载 -- 无
