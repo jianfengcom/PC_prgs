@@ -1,6 +1,48 @@
 爬取成功
 
+1.
 MIHOYO人工桌面
 软件ID: 2802384
 http://www.pc6.com/softview/SoftView_856641.html
-http://8dx.pc6.com/hc6/N0vaDesktop_v1.1.2.0.exe
+http://8dx.pc6.com/hc6/N0vaDesktop_v1.1.2.0.exe -- 不能直接下载(403)
+
+todo admin/spiderMaster.do?url=?&urls=
+爬虫结果展示: return "spider/spiderMaster.jsp?isSpiderSuccess=" + isSpiderSuccess + "&failUrl=" + failUrl.toString();
+
+[2020-12-15 17:07:37.380] 发起爬虫请求：http://192.168.10.35:8081//spider.do?url=http://www.pc6.com/softview/SoftView_856641.html
+[2020-12-15 17:07:48.959] 得到爬虫结果：{"code":200,"currentTime":1608023268962,"data":[{"result":"success","url":"http://www.pc6.com/softview/SoftView_856641.html"}],"msg":"成功"}
+
+
+todo SpiderController -- pcdlc-spider
+ChinazSoftProccessor.siteDomain
+CrskySoftProcess.siteDomain
+DownZaPcSoftProcessor.siteDomain
+OnlinedownPcSoftProcessor.siteDomain
+Cr173SoftProccessor.siteDomain
+(url.contains(Pc6SoftProccessor.siteDomain) && !url.contains(Pc6Processor.siteDomain)
+TencentSoftProcess.siteDomain
+UpanPcSoftProcessor.siteDomain
+return spiderPc(url);
+
+MinappProcessor.siteDomain
+url.contains(Pc6Processor.siteDomain
+return spiderMiniapp(url);
+
+ItunesProcessor.siteDomain
+return spiderIos(url);
+
+url.contains(MeizuSpiderProcessor.siteDomain
+url.contains(MiSpiderProcessor.siteDomain
+url.contains(WandoujiaSpiderProcessor.siteDomain
+url.contains(YybSpiderProcessor.siteDomain
+return spiderAndroid(url);
+
+AndroidWandoujiaModel -- getBasePageProcessor() return new WandoujiaSpiderProcessor();
+WandoujiaSpiderProcessor.process(Page page) --  解析终端页页面  page.putField("logo", logo);
+AndroidSpiderPipeline.process( ResultItems resultItems, Task task ) : 解析终端页得到的数据 创建或更新 spiderDataAndroid -- androidSpiderDataService.update(androidMasterJsonModel);
+-- spiderDataAndroid
+
+spider.addPipeline(androidSpiderPipeline);
+addUrl(spider, androidModel.getBaseUrl(), urls); -- urls=爬取的链接(终端页)数组
+spider.run(); -- Spider.this.processRequest(request); -- Page page = this.downloader.download(request, this); -- onDownloadSuccess(request, page);  --  pageProcessor.process(page);
+-- pipelines.iterator(); pipeline.process(page.getResultItems(), this);
