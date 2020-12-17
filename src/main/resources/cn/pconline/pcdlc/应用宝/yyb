@@ -1,3 +1,4 @@
+定时任务名称:【安卓】应用宝爬取任务
 /data/crontask/3314/yybAndroidSpider.sh
 
 SPIDER_SH_LOG=/data/LOG/spider_sh_log
@@ -5,5 +6,16 @@ TASK_NAME=yybSpider
 $ANT_HOME/bin/ant -buildfile $PUBLISH_HOME/build.xml $TASK_NAME >> $SPIDER_SH_LOG/$TASK_NAME.log  2>&1
 
 
-https://sj.qq.com/myapp/detail.htm?apkName=com.tencent.mm&info=44EB2953E4D628D24358E129B9D90D3D
-https://sj.qq.com/myapp/detail.htm?apkName=com.qhdn.jiankong
+BaseAndroidSpider.main -- pcdlc-spider
+DL_FROM_MEIZU = 33
+DL_FROM_MI = 32
+DL_FROM_ANDROID_YYB = 3
+spider.addUrl(androidModel.getBaseUrl() + spiderDataAndroid.getPackageName()); // 应用宝的终端页链接有的已变, 有的需要加上&info=?, 有的跳wap端
+
+
+select * from dl_spider_data_android where is_got != -1 and is_block = 0
+and create_date >= '2020-01-10 00:00:00'
+
+select id, `name`, from_url, package_name, got_data_date from dl_spider_data_android where is_got != -1 and is_block = 0
+and from_url LIKE 'http:\/\/sj.qq.com%'
+and got_data_date <= '2020-01-10 00:00:00'
