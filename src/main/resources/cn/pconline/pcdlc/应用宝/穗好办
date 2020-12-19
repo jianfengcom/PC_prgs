@@ -1,7 +1,12 @@
 叶晓彬(Wood) 12-15 15:32:22
 不是我们的问题，是他们改了，以前这个网址是PC端的，现在自动跳转到wap版了：https://a.app.qq.com/o/simple.jsp?pkgname=com.sy.government
 
+解决思路: 拼接上&info=
+
 wap: https://a.app.qq.com/o/simple.jsp?pkgname=com.sy.government
 对应的pc版: https://sj.qq.com/myapp/detail.htm?apkName=com.sy.government&info=551C3E68632611D7B93BFEED6773BA5E
+
+wap apk下载链接: http://imtt.dd.qq.com/16891/apk/551C3E68632611D7B93BFEED6773BA5E.apk?fsname=com.sy.government_2.1.6_266.apk&hsr=4d5s
+对应的pc版 apk下载链接: https://imtt.dd.qq.com/16891/apk/551C3E68632611D7B93BFEED6773BA5E.apk?fsname=com.sy.government_2.1.6_266.apk&csr=1bbd
 
 
