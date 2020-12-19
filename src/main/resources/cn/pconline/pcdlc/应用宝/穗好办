@@ -10,3 +10,24 @@ wap apk下载链接: http://imtt.dd.qq.com/16891/apk/551C3E68632611D7B93BFEED677
 对应的pc版 apk下载链接: https://imtt.dd.qq.com/16891/apk/551C3E68632611D7B93BFEED6773BA5E.apk?fsname=com.sy.government_2.1.6_266.apk&csr=1bbd
 
 
+
+
+AndroidSpiderPipeline
+YybSpiderProcessor
+
+
+痛点: sourceUrl
+YybSpiderProcessor page.putField("sourceUrl", page.getUrl().get()); -->
+spiderDataAndroid.setJsonData(JSON.toJSON(androidMasterJsonModel).toString());
+spiderDataAndroid.setFromUrl(androidMasterJsonModel.getSourceUrl());
+
+痛点:page.getUrl()
+AndroidSpiderPipeline
+String softUrl = page.getUrl().toString();
+page.putField("softUrl", softUrl);
+
+page.putField("sourceUrl", page.getUrl().get());
+
+#softUrl=https://sj.qq.com/myapp/detail.htm?apkName=com.sy.government
+
+
