@@ -19,3 +19,5 @@ and create_date >= '2020-01-10 00:00:00'
 select id, `name`, from_url, package_name, got_data_date from dl_spider_data_android where is_got != -1 and is_block = 0
 and from_url LIKE 'http:\/\/sj.qq.com%'
 and got_data_date <= '2020-01-10 00:00:00'
+
+select id, `name`, from_url, package_name, got_data_date from dl_spider_data_android where package_name = 'com.icbc.invest'

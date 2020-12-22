@@ -1,7 +1,7 @@
 1.
-UPDATE dl_spider_data_android SET spider_target = 41, from_url = 'https://a.app.qq.com/o/simple.jsp?pkgname=com.icbc.invest' WHERE package_name='com.icbc.invest' LIMIT 1
+UPDATE dl_spider_data_android SET spider_target = 41, from_url = 'https://a.app.qq.com/o/simple.jsp?pkgname=com.icbc.invest' WHERE package_name='com.icbc.invest' LIMIT 1;
 备注 from_url:应用宝wap端 下载链接
 
 2.
-UPDATE dl_client_master_spider SET site_type = 41, resource_url = 'https://a.app.qq.com/o/simple.jsp?pkgname=com.tencent.wework' WHERE package = 'com.tencent.wework'
+UPDATE dl_client_master_spider SET site_type = 41, resource_url = 'https://a.app.qq.com/o/simple.jsp?pkgname=com.tencent.wework' WHERE package = 'com.tencent.wework';
 备注 resource_url:应用宝wap端 下载链接

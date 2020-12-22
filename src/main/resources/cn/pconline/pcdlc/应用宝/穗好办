@@ -10,6 +10,18 @@ wap apk下载链接: http://imtt.dd.qq.com/16891/apk/551C3E68632611D7B93BFEED677
 对应的pc版 apk下载链接: https://imtt.dd.qq.com/16891/apk/551C3E68632611D7B93BFEED6773BA5E.apk?fsname=com.sy.government_2.1.6_266.apk&csr=1bbd
 
 
+===== Wap start =====
+wap端的apk信息:
+System.out.println(page.getHtml().xpath("//body/script[2]").toString());
+
+json格式化:
+http://www.json.cn/
+
+修改:
+a.app.qq.com
+pkgname
+===== Wap end =====
+
 
 
 AndroidSpiderPipeline

@@ -13,6 +13,13 @@ todo admin/spiderMaster.do?url=?&urls=
 [2020-12-15 17:07:48.959] 得到爬虫结果：{"code":200,"currentTime":1608023268962,"data":[{"result":"success","url":"http://www.pc6.com/softview/SoftView_856641.html"}],"msg":"成功"}
 
 
+===== 应用宝PC&Wap start =====
+http://192.168.10.35:8081//spider.do?url=https://sj.qq.com/myapp/detail.htm?apkName=com.sy.government&info=551C3E68632611D7B93BFEED6773BA5E
+替换url: url=https://a.app.qq.com/o/simple.jsp?pkgname=com.sy.government
+localhost:9090
+===== 应用宝PC&Wap end =====
+
+
 todo SpiderController -- pcdlc-spider
 ChinazSoftProccessor.siteDomain
 CrskySoftProcess.siteDomain
