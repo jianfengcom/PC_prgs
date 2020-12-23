@@ -1,0 +1,8 @@
+admin/batchAndroidClientMasterSpider.do
+modify
+
+1.
+ClientMasterSpiderApp clientApk = clientMasterSpider.getClientMasterSpiderApp(); -> dl_client_master_spider_app (apk包信息)
+
+2.
+没有dl_spider_data_android 这个实体
