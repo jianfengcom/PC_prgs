@@ -7,5 +7,5 @@ http://bestactivity.pconline.com.cn/intf/accountEcard/share_progress.jsp?openId=
 http://bestactivity.pconline.com.cn/intf/accountEcard/note.jsp?passportId=46962406&ecardNumber=E866-7B09-D816-A755
 
 分享/助力列表
-SELECT * FROM pcbest_account_ecard_share WHERE share_id = 'oAzmN5UjIX8dpno3PIecbW345FYU'
+SELECT * FROM pcbest_account_ecard_share WHERE share_id = 'oAzmN5d96gsoOdcztt7wNjVKe7es'
 SELECT * FROM pcbest_account_ecard_share WHERE help_id = 'oAzmN5UjIX8dpno3PIecbW345FYU'
