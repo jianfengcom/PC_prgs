@@ -1,0 +1,1009 @@
+[2020-12-23 18:00:06.179] 2020-12-23 18:00:06,179 [http-app-a-8080-1$1303781564] INFO  org.gelivable.web.EnvFilter - /util/monitorUnrarCommand.jsp,23,DR0DU0CR0CU0,192.168.10.40
+[2020-12-23 18:00:06.179] 
+[2020-12-23 18:00:07.763] contrKeyName30downloading
+[2020-12-23 18:00:07.829] []
+[2020-12-23 18:00:07.830] 所用秒数：0
+[2020-12-23 18:00:07.830] 2020-12-23 18:00:07,830 [http-app-a-8080-1$1030596509] INFO  org.gelivable.web.EnvFilter - /intf/downloadCommonPcFile.jsp,77,DR0DU0CR0CU0,192.168.11.231
+[2020-12-23 18:00:07.830] 
+[2020-12-23 18:00:11.314] 所用秒数：0
+[2020-12-23 18:00:11.314] 2020-12-23 18:00:11,314 [http-app-a-8080-1$2084943234] INFO  org.gelivable.web.EnvFilter - /intf/downloadPptFile.jsp,15,DR0DU0CR0CU0,192.168.244.52
+[2020-12-23 18:00:11.314] 
+[2020-12-23 18:00:13.589] contrKeyName1downloading
+[2020-12-23 18:00:13.646] []
+[2020-12-23 18:00:13.646] 所用秒数：0
+[2020-12-23 18:00:13.646] 2020-12-23 18:00:13,646 [http-app-a-8080-1$1030596509] INFO  org.gelivable.web.EnvFilter - /intf/downloadCommonPcFile.jsp,57,DR0DU0CR0CU0,192.168.11.231
+[2020-12-23 18:00:13.646] 
+[2020-12-23 18:00:13.693] contrKeyName31downloading
+[2020-12-23 18:00:13.755] []
+[2020-12-23 18:00:13.755] 所用秒数：0
+[2020-12-23 18:00:13.755] 2020-12-23 18:00:13,755 [http-app-a-8080-1$2084943234] INFO  org.gelivable.web.EnvFilter - /intf/downloadCommonPcFile.jsp,63,DR0DU0CR0CU0,192.168.11.231
+[2020-12-23 18:00:13.755] 
+[2020-12-23 18:01:02.715] 2020-12-23 18:01:02,715 [http-app-a-8080-1$1030596509] INFO  org.gelivable.web.EnvFilter - /util/monitorUnrarCommand.jsp,22,DR0DU0CR0CU0,192.168.244.52
+[2020-12-23 18:01:02.715] 
+[2020-12-23 18:02:00.966] 2020-12-23 18:02:00,966 [http-app-a-8080-3$1949252670] INFO  org.gelivable.web.EnvFilter - /util/monitorUnrarCommand.jsp,22,DR0DU0CR0CU0,192.168.10.40
+[2020-12-23 18:02:00.966] 
+[2020-12-23 18:03:04.173] 2020-12-23 18:03:04,173 [http-app-a-8080-2$1864038994] INFO  org.gelivable.web.EnvFilter - /util/monitorUnrarCommand.jsp,29,DR0DU0CR0CU0,192.168.11.238
+[2020-12-23 18:03:04.173] 
+[2020-12-23 18:04:03.075] 2020-12-23 18:04:03,075 [http-app-a-8080-2$63393030] INFO  syslog - getClientMasterSpiderUrl =====> http://192.168.238.160:8080/getClientMasterSpider.do?siteType=20&minute=10
+[2020-12-23 18:04:03.101] 2020-12-23 18:04:03,101 [http-app-a-8080-14$988034052] INFO  org.gelivable.web.EnvFilter - /util/monitorUnrarCommand.jsp,23,DR0DU0CR0CU0,192.168.244.52
+[2020-12-23 18:04:03.101] 
+[2020-12-23 18:04:03.114] 2020-12-23 18:04:03,114 [http-app-a-8080-2$63393030] INFO  syslog - getClientMasterSpider resp result =====> []
+[2020-12-23 18:04:03.115] 2020-12-23 18:04:03,115 [http-app-a-8080-2$63393030] INFO  org.gelivable.web.EnvFilter - /intf/download360AssistantApk.jsp,40,DR0DU0CR0CU0,192.168.244.52
+[2020-12-23 18:04:03.115] 
+[2020-12-23 18:05:02.216] 2020-12-23 18:05:02,216 [http-app-a-8080-2$988034052] INFO  org.gelivable.web.EnvFilter - /util/monitorUnrarCommand.jsp,23,DR0DU0CR0CU0,192.168.11.231
+[2020-12-23 18:05:02.216] 
+[2020-12-23 18:06:02.345] 2020-12-23 18:06:02,344 [http-app-a-8080-2$1030596509] INFO  syslog - clientPCMasterSpiderUrl =====> http://192.168.238.160:8080/getClientPCMasterSpider.do?total=500&siteType=8
+[2020-12-23 18:06:02.390] 2020-12-23 18:06:02,390 [http-app-a-8080-2$1030596509] INFO  org.gelivable.web.EnvFilter - /intf/downloadFeiFanPcFile.jsp,45,DR0DU0CR0CU0,192.168.11.231
+[2020-12-23 18:06:02.390] 
+[2020-12-23 18:06:06.476] 2020-12-23 18:06:06,476 [http-app-a-8080-2$988034052] INFO  org.gelivable.web.EnvFilter - /util/monitorUnrarCommand.jsp,23,DR0DU0CR0CU0,192.168.10.40
+[2020-12-23 18:06:06.476] 
+[2020-12-23 18:07:03.582] 2020-12-23 18:07:03,582 [http-app-a-8080-2$1864038994] INFO  org.gelivable.web.EnvFilter - /util/monitorUnrarCommand.jsp,23,DR0DU0CR0CU0,192.168.244.52
+[2020-12-23 18:07:03.582] 
+[2020-12-23 18:08:02.609] 2020-12-23 18:08:02,609 [http-app-a-8080-2$1030596509] INFO  org.gelivable.web.EnvFilter - /util/monitorUnrarCommand.jsp,23,DR0DU0CR0CU0,192.168.11.231
+[2020-12-23 18:08:02.609] 
+[2020-12-23 18:09:04.907] 2020-12-23 18:09:04,907 [http-app-a-8080-2$1864038994] INFO  org.gelivable.web.EnvFilter - /util/monitorUnrarCommand.jsp,23,DR0DU0CR0CU0,192.168.11.238
+[2020-12-23 18:09:04.907] 
+[2020-12-23 18:10:03.999] 2020-12-23 18:10:03,999 [http-app-a-8080-2$63393030] INFO  org.gelivable.web.EnvFilter - /util/monitorUnrarCommand.jsp,23,DR0DU0CR0CU0,192.168.244.52
+[2020-12-23 18:10:03.999] 
+[2020-12-23 18:10:09.126] contrKeyName22downloading
+[2020-12-23 18:10:09.200] []
+[2020-12-23 18:10:09.201] 所用秒数：0
+[2020-12-23 18:10:09.201] 2020-12-23 18:10:09,201 [http-app-a-8080-2$1030596509] INFO  org.gelivable.web.EnvFilter - /intf/downloadCommonPcFile.jsp,75,DR0DU0CR0CU0,192.168.244.52
+[2020-12-23 18:10:09.201] 
+[2020-12-23 18:10:12.094] 2020-12-23 18:10:12,094 [http-app-a-8080-2$1864038994] INFO  syslog - getClientMasterSpiderUrl =====> http://192.168.238.160:8080/getClientMasterSpider.do?siteType=41&minute=10
+[2020-12-23 18:10:12.961] 2020-12-23 18:10:12,961 [http-app-a-8080-2$1864038994] INFO  syslog - getClientMasterSpider resp result =====> [{"id":5228876,"packageName":"cn.artstudent.app","apkDownloadUrl":"https://www.wandoujia.com/apps/7045953/download/dot?ch=detail_qr_dl&pos=detail-ndownload-cn.artstudent.app"},{"id":5228874,"packageName":"com.youdao.course","apkDownloadUrl":"https://www.wandoujia.com/apps/6652932/download/dot?ch=detail_qr_dl&pos=detail-ndownload-com.youdao.course"},{"id":5228873,"packageName":"com.snda.lantern.wifilocating","apkDownloadUrl":"https://www.wandoujia.com/apps/7925445/download/dot?ch=detail_qr_dl&pos=detail-ndownload-com.snda.lantern.wifilocating"},{"id":5228751,"packageName":"com.tencent.huajing","apkDownloadUrl":"http://app.flyme.cn/games/public/download.json?app_id=3321299"},{"id":5228744,"packageName":"com.baidu.homework","apkDownloadUrl":"http://app.flyme.cn/games/public/download.json?app_id=1784004"},{"id":5228722,"packageName":"com.sdhs.easy.high.road","apkDownloadUrl":"http://app.flyme.cn/games/public/download.json?app_id=2018344"},{"id":5228717,"packageName":"com.lanjingren.ivwen","apkDownloadUrl":"http://app.flyme.cn/games/public/download.json?app_id=2594553"},{"id":5228714,"packageName":"com.ss.android.ugc.livelite","apkDownloadUrl":"http://app.flyme.cn/apps/public/download.json?app_id=3208155"},{"id":5228445,"packageName":"com.tencent.tv.qie","apkDownloadUrl":"http://imtt.dd.qq.com/16891/apk/055D02A26575911703B24ABFECF7FB4C.apk?fsname=com.tencent.tv.qie_6.9.3_10060093.apk&hsr=4d5s"},{"id":5228443,"packageName":"com.tencent.wework","apkDownloadUrl":"http://imtt.dd.qq.com/16891/apk/D4FF6F799CDD020E053BDFD331781306.apk?fsname=com.tencent.wework_3.1.0_14014.apk&hsr=4d5s"},{"id":5228442,"packageName":"com.woyue.batchat","apkDownloadUrl":"http://imtt.dd.qq.com/16891/apk/EF68EAC77B3BABA522778FC95FE55C31.apk?fsname=com.woyue.batchat_2.3.4_86.apk&hsr=4d5s"},{"id":5228441,"packageName":"com.sy.government","apkDownloadUrl":"http://imtt.dd.qq.com/16891/apk/551C3E68632611D7B93BFEED6773BA5E.apk?fsname=com.sy.government_2.1.6_266.apk&hsr=4d5s"},{"id":5228001,"packageName":"com.baidu.duer.superapp","apkDownloadUrl":"http://app.flyme.cn/apps/public/download.json?app_id=3232717"},{"id":5227721,"packageName":"com.chinaso.so","apkDownloadUrl":"http://app.flyme.cn/games/public/download.json?app_id=2459592"},{"id":5227706,"packageName":"com.fenbi.android.solar","apkDownloadUrl":"http://app.flyme.cn/games/public/download.json?app_id=1914584"},{"id":5227615,"packageName":"com.jingdong.app.mall","apkDownloadUrl":"http://app.flyme.cn/games/public/download.json?app_id=1816353"},{"id":5224711,"packageName":"com.unionpay","apkDownloadUrl":"http://app.flyme.cn/apps/public/download.json?app_id=1763083"},{"id":5222756,"packageName":"cn.gzmovement","apkDownloadUrl":"http://app.flyme.cn/apps/public/download.json?app_id=3040283"},{"id":5222754,"packageName":"com.hunantv.imgo.activity","apkDownloadUrl":"http://app.flyme.cn/apps/public/download.json?app_id=601011"},{"id":5222751,"packageName":"com.ishowedu.peiyin","apkDownloadUrl":"http://app.flyme.cn/apps/public/download.json?app_id=1913253"},{"id":5222717,"packageName":"com.ifreetalk.ftalk","apkDownloadUrl":"http://app.flyme.cn/apps/public/download.json?app_id=934008"},{"id":5222712,"packageName":"com.tencent.qt.sns","apkDownloadUrl":"http://app.flyme.cn/apps/public/download.json?app_id=1893548"},{"id":5221181,"packageName":"com.cctv.cctv5ultimate","apkDownloadUrl":"http://app.flyme.cn/games/public/download.json?app_id=1855042"},{"id":5221178,"packageName":"cn.xiaochuankeji.tieba","apkDownloadUrl":"http://app.flyme.cn/games/public/download.json?app_id=1967418"},{"id":5221176,"packageName":"cn.wps.moffice_eng","apkDownloadUrl":"http://app.flyme.cn/games/public/download.json?app_id=282010"},{"id":5221174,"packageName":"com.dou_pai.DouPai","apkDownloadUrl":"http://app.flyme.cn/games/public/download.json?app_id=1999566"},{"id":5221172,"packageName":"com.meitu.meiyancamera","apkDownloadUrl":"http://app.flyme.cn/games/public/download.json?app_id=888353"},{"id":5221171,"packageName":"com.yiban.app","apkDownloadUrl":"http://app.flyme.cn/games/public/download.json?app_id=1915280"},{"id":5195152,"packageName":"com.android.dazhihui","apkDownloadUrl":"http://app.flyme.cn/games/public/download.json?app_id=1849738"}]
+[2020-12-23 18:10:12.961] 2020-12-23 18:10:12,961 [http-app-a-8080-2$1864038994] INFO  syslog - json data =====> {"apkDownloadUrl":"https://www.wandoujia.com/apps/7045953/download/dot?ch=detail_qr_dl&pos=detail-ndownload-cn.artstudent.app","id":5228876,"packageName":"cn.artstudent.app"}
+[2020-12-23 18:10:12.962] apkDownloadUrl:https://www.wandoujia.com/apps/7045953/download/dot?ch=detail_qr_dl&pos=detail-ndownload-cn.artstudent.app
+[2020-12-23 18:10:12.962] 2020-12-23 18:10:12,962 [http-app-a-8080-2$1864038994] INFO  syslog - http download file~ savePath[/data1/devupload/web/apkdoanload] apkDownloadUrl[https://www.wandoujia.com/apps/7045953/download/dot?ch=detail_qr_dl&pos=detail-ndownload-cn.artstudent.app] fileName[1608718212970.apk]
+[2020-12-23 18:10:12.962] 2020-12-23 18:10:12,962 [http-app-a-8080-2$1864038994] INFO  downFielZaLog - httpDownload~ savePath[/data1/devupload/web/apkdoanload]  downloadUrl[https://www.wandoujia.com/apps/7045953/download/dot?ch=detail_qr_dl&pos=detail-ndownload-cn.artstudent.app]  fileName[1608718212970.apk]
+[2020-12-23 18:10:12.966] connect success
+[2020-12-23 18:10:12.971] read success, status:200
+[2020-12-23 18:10:13.591] 2020-12-23 18:10:13,591 [http-app-a-8080-2$1864038994] INFO  downFielZaLog - httpDownload~ saveFilePath[/data1/devupload/web/apkdoanload/1608718212970.apk]
+[2020-12-23 18:10:26.816] 2020-12-23 18:10:26,816 [http-app-a-8080-2$1864038994] INFO  downFielZaLog - httpDownload~ download and save file success!
+[2020-12-23 18:10:27.754] 2020-12-23 18:10:27,753 [Thread-31271] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: BROADCAST_PACKAGE_ADDED
+[2020-12-23 18:10:27.754] 2020-12-23 18:10:27,754 [Thread-31271] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: BROADCAST_PACKAGE_CHANGED
+[2020-12-23 18:10:27.754] 2020-12-23 18:10:27,754 [Thread-31271] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: BROADCAST_PACKAGE_INSTALL
+[2020-12-23 18:10:27.754] 2020-12-23 18:10:27,754 [Thread-31271] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: BROADCAST_PACKAGE_REPLACED
+[2020-12-23 18:10:27.754] 2020-12-23 18:10:27,754 [Thread-31271] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: MIPUSH_RECEIVE
+[2020-12-23 18:10:27.754] 2020-12-23 18:10:27,754 [Thread-31271] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: REQUEST_INSTALL_PACKAGES
+[2020-12-23 18:10:27.754] 2020-12-23 18:10:27,754 [Thread-31271] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: RECEIVE
+[2020-12-23 18:10:27.754] 2020-12-23 18:10:27,754 [Thread-31271] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: RECEIVE
+[2020-12-23 18:10:27.754] 2020-12-23 18:10:27,754 [Thread-31271] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: MESSAGE
+[2020-12-23 18:10:27.754] 2020-12-23 18:10:27,754 [Thread-31271] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: C2D_MESSAGE
+[2020-12-23 18:10:27.754] 2020-12-23 18:10:27,754 [Thread-31271] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: RECIEVE_MCS_MESSAGE
+[2020-12-23 18:10:27.754] 2020-12-23 18:10:27,754 [Thread-31271] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: GetuiService.cn.artstudent.app
+[2020-12-23 18:10:27.754] 2020-12-23 18:10:27,754 [Thread-31271] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: FOREGROUND_SERVICE
+[2020-12-23 18:10:27.754] 2020-12-23 18:10:27,754 [Thread-31271] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: RECEIVE_MSG
+[2020-12-23 18:10:27.754] 2020-12-23 18:10:27,754 [Thread-31271] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: BROADCAST_PACKAGE_ADDED
+[2020-12-23 18:10:27.754] 2020-12-23 18:10:27,754 [Thread-31271] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: BROADCAST_PACKAGE_CHANGED
+[2020-12-23 18:10:27.754] 2020-12-23 18:10:27,754 [Thread-31271] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: BROADCAST_PACKAGE_INSTALL
+[2020-12-23 18:10:27.754] 2020-12-23 18:10:27,754 [Thread-31271] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: BROADCAST_PACKAGE_REPLACED
+[2020-12-23 18:10:27.754] 2020-12-23 18:10:27,754 [Thread-31271] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: MIPUSH_RECEIVE
+[2020-12-23 18:10:27.754] 2020-12-23 18:10:27,754 [Thread-31271] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: REQUEST_INSTALL_PACKAGES
+[2020-12-23 18:10:27.754] 2020-12-23 18:10:27,754 [Thread-31271] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: RECEIVE
+[2020-12-23 18:10:27.754] 2020-12-23 18:10:27,754 [Thread-31271] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: RECEIVE
+[2020-12-23 18:10:27.754] 2020-12-23 18:10:27,754 [Thread-31271] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: MESSAGE
+[2020-12-23 18:10:27.754] 2020-12-23 18:10:27,754 [Thread-31271] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: RECIEVE_MCS_MESSAGE
+[2020-12-23 18:10:27.754] 2020-12-23 18:10:27,754 [Thread-31271] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: GetuiService.cn.artstudent.app
+[2020-12-23 18:10:27.754] 2020-12-23 18:10:27,754 [Thread-31271] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: FOREGROUND_SERVICE
+[2020-12-23 18:10:27.754] 2020-12-23 18:10:27,754 [Thread-31271] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: RECEIVE_MSG
+[2020-12-23 18:10:27.754] 2020-12-23 18:10:27,754 [Thread-31271] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: SYSTEM_OVERLAY_WINDOW
+[2020-12-23 18:10:27.754] 2020-12-23 18:10:27,754 [Thread-31271] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: FLAG_GRANT_READ_URI_PERMISSION
+[2020-12-23 18:10:27.754] 2020-12-23 18:10:27,754 [Thread-31271] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: READ_SETTINGS
+[2020-12-23 18:10:27.754] 2020-12-23 18:10:27,754 [Thread-31271] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: READ
+[2020-12-23 18:10:27.754] 2020-12-23 18:10:27,754 [Thread-31271] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: WRITE
+[2020-12-23 18:10:27.754] 2020-12-23 18:10:27,754 [Thread-31271] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: READ_SETTINGS
+[2020-12-23 18:10:27.754] 2020-12-23 18:10:27,754 [Thread-31271] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: UPDATE_SHORTCUT
+[2020-12-23 18:10:27.754] 2020-12-23 18:10:27,754 [Thread-31271] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: BROADCAST_BADGE
+[2020-12-23 18:10:27.754] 2020-12-23 18:10:27,754 [Thread-31271] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: PROVIDER_INSERT_BADGE
+[2020-12-23 18:10:27.754] 2020-12-23 18:10:27,754 [Thread-31271] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: UPDATE_COUNT
+[2020-12-23 18:10:27.754] 2020-12-23 18:10:27,754 [Thread-31271] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: UPDATE_BADGE
+[2020-12-23 18:10:27.754] 2020-12-23 18:10:27,754 [Thread-31271] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: CHANGE_BADGE
+[2020-12-23 18:10:27.754] 2020-12-23 18:10:27,754 [Thread-31271] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: READ_SETTINGS
+[2020-12-23 18:10:27.754] 2020-12-23 18:10:27,754 [Thread-31271] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: READ_APP_BADGE
+[2020-12-23 18:10:27.754] 2020-12-23 18:10:27,754 [Thread-31271] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: READ_SETTINGS
+[2020-12-23 18:10:27.754] 2020-12-23 18:10:27,754 [Thread-31271] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: BADGE_COUNT_READ
+[2020-12-23 18:10:27.754] 2020-12-23 18:10:27,754 [Thread-31271] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: BADGE_COUNT_WRITE
+[2020-12-23 18:10:28.226] 2020-12-23 18:10:28,226 [http-app-a-8080-2$1864038994] INFO  syslog - clientMasterSpiderAppSaveUrl =====> http://192.168.238.160:8080/clientMasterSpiderAppSave.do
+[2020-12-23 18:10:28.683] 2020-12-23 18:10:28,683 [http-app-a-8080-2$1864038994] INFO  syslog - clientMasterSpiderAppSave resp reult =====> success
+[2020-12-23 18:10:28.683] 下载、读取cn.artstudent.app:success
+[2020-12-23 18:10:28.683] 2020-12-23 18:10:28,683 [http-app-a-8080-2$1864038994] INFO  syslog - json data =====> {"apkDownloadUrl":"https://www.wandoujia.com/apps/6652932/download/dot?ch=detail_qr_dl&pos=detail-ndownload-com.youdao.course","id":5228874,"packageName":"com.youdao.course"}
+[2020-12-23 18:10:28.683] apkDownloadUrl:https://www.wandoujia.com/apps/6652932/download/dot?ch=detail_qr_dl&pos=detail-ndownload-com.youdao.course
+[2020-12-23 18:10:28.683] 2020-12-23 18:10:28,683 [http-app-a-8080-2$1864038994] INFO  syslog - http download file~ savePath[/data1/devupload/web/apkdoanload] apkDownloadUrl[https://www.wandoujia.com/apps/6652932/download/dot?ch=detail_qr_dl&pos=detail-ndownload-com.youdao.course] fileName[1608718228686.apk]
+[2020-12-23 18:10:28.684] 2020-12-23 18:10:28,684 [http-app-a-8080-2$1864038994] INFO  downFielZaLog - httpDownload~ savePath[/data1/devupload/web/apkdoanload]  downloadUrl[https://www.wandoujia.com/apps/6652932/download/dot?ch=detail_qr_dl&pos=detail-ndownload-com.youdao.course]  fileName[1608718228686.apk]
+[2020-12-23 18:10:28.684] connect success
+[2020-12-23 18:10:28.685] read success, status:200
+[2020-12-23 18:10:29.230] 2020-12-23 18:10:29,229 [http-app-a-8080-2$1864038994] INFO  downFielZaLog - httpDownload~ saveFilePath[/data1/devupload/web/apkdoanload/1608718228686.apk]
+[2020-12-23 18:10:39.072] 2020-12-23 18:10:39,071 [http-app-a-8080-2$1864038994] INFO  downFielZaLog - httpDownload~ download and save file success!
+[2020-12-23 18:10:39.747] 2020-12-23 18:10:39,747 [Thread-31272] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: ACCESS_DOWNLOAD_MANAGER
+[2020-12-23 18:10:39.747] 2020-12-23 18:10:39,747 [Thread-31272] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: RECEIVE_MSG
+[2020-12-23 18:10:39.747] 2020-12-23 18:10:39,747 [Thread-31272] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: REQUEST_INSTALL_PACKAGES
+[2020-12-23 18:10:39.747] 2020-12-23 18:10:39,747 [Thread-31272] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: MIPUSH_RECEIVE
+[2020-12-23 18:10:39.747] 2020-12-23 18:10:39,747 [Thread-31272] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: RECIEVE_MCS_MESSAGE
+[2020-12-23 18:10:39.747] 2020-12-23 18:10:39,747 [Thread-31272] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: RECIEVE_MCS_MESSAGE
+[2020-12-23 18:10:39.747] 2020-12-23 18:10:39,747 [Thread-31272] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: READ_MEDIA_AUDIO
+[2020-12-23 18:10:39.747] 2020-12-23 18:10:39,747 [Thread-31272] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: READ_MEDIA_IMAGES
+[2020-12-23 18:10:39.747] 2020-12-23 18:10:39,747 [Thread-31272] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: READ_MEDIA_VIDEO
+[2020-12-23 18:10:39.747] 2020-12-23 18:10:39,747 [Thread-31272] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: FOREGROUND_SERVICE
+[2020-12-23 18:10:39.747] 2020-12-23 18:10:39,747 [Thread-31272] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: RECEIVE
+[2020-12-23 18:10:39.747] 2020-12-23 18:10:39,747 [Thread-31272] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: MESSAGE
+[2020-12-23 18:10:39.747] 2020-12-23 18:10:39,747 [Thread-31272] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: RECEIVE
+[2020-12-23 18:10:39.747] 2020-12-23 18:10:39,747 [Thread-31272] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: C2D_MESSAGE
+[2020-12-23 18:10:39.747] 2020-12-23 18:10:39,747 [Thread-31272] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: READ
+[2020-12-23 18:10:39.747] 2020-12-23 18:10:39,747 [Thread-31272] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: WRITE
+[2020-12-23 18:10:39.747] 2020-12-23 18:10:39,747 [Thread-31272] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: READ_SETTINGS
+[2020-12-23 18:10:39.747] 2020-12-23 18:10:39,747 [Thread-31272] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: UPDATE_SHORTCUT
+[2020-12-23 18:10:39.747] 2020-12-23 18:10:39,747 [Thread-31272] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: BROADCAST_BADGE
+[2020-12-23 18:10:39.747] 2020-12-23 18:10:39,747 [Thread-31272] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: PROVIDER_INSERT_BADGE
+[2020-12-23 18:10:39.747] 2020-12-23 18:10:39,747 [Thread-31272] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: UPDATE_COUNT
+[2020-12-23 18:10:39.747] 2020-12-23 18:10:39,747 [Thread-31272] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: UPDATE_BADGE
+[2020-12-23 18:10:39.747] 2020-12-23 18:10:39,747 [Thread-31272] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: CHANGE_BADGE
+[2020-12-23 18:10:39.747] 2020-12-23 18:10:39,747 [Thread-31272] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: READ_SETTINGS
+[2020-12-23 18:10:39.747] 2020-12-23 18:10:39,747 [Thread-31272] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: READ_APP_BADGE
+[2020-12-23 18:10:39.747] 2020-12-23 18:10:39,747 [Thread-31272] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: READ_SETTINGS
+[2020-12-23 18:10:39.747] 2020-12-23 18:10:39,747 [Thread-31272] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: BADGE_COUNT_READ
+[2020-12-23 18:10:39.747] 2020-12-23 18:10:39,747 [Thread-31272] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: BADGE_COUNT_WRITE
+[2020-12-23 18:10:39.747] 2020-12-23 18:10:39,747 [Thread-31272] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: INTERACT_ACROSS_USERS
+[2020-12-23 18:10:39.814] 2020-12-23 18:10:39,814 [http-app-a-8080-2$1864038994] INFO  syslog - clientMasterSpiderAppSaveUrl =====> http://192.168.238.160:8080/clientMasterSpiderAppSave.do
+[2020-12-23 18:10:39.889] 2020-12-23 18:10:39,889 [http-app-a-8080-2$1864038994] INFO  syslog - clientMasterSpiderAppSave resp reult =====> success
+[2020-12-23 18:10:39.889] 下载、读取com.youdao.course:success
+[2020-12-23 18:10:39.889] 2020-12-23 18:10:39,889 [http-app-a-8080-2$1864038994] INFO  syslog - json data =====> {"apkDownloadUrl":"https://www.wandoujia.com/apps/7925445/download/dot?ch=detail_qr_dl&pos=detail-ndownload-com.snda.lantern.wifilocating","id":5228873,"packageName":"com.snda.lantern.wifilocating"}
+[2020-12-23 18:10:39.889] apkDownloadUrl:https://www.wandoujia.com/apps/7925445/download/dot?ch=detail_qr_dl&pos=detail-ndownload-com.snda.lantern.wifilocating
+[2020-12-23 18:10:39.889] 2020-12-23 18:10:39,889 [http-app-a-8080-2$1864038994] INFO  syslog - http download file~ savePath[/data1/devupload/web/apkdoanload] apkDownloadUrl[https://www.wandoujia.com/apps/7925445/download/dot?ch=detail_qr_dl&pos=detail-ndownload-com.snda.lantern.wifilocating] fileName[1608718239893.apk]
+[2020-12-23 18:10:39.889] 2020-12-23 18:10:39,889 [http-app-a-8080-2$1864038994] INFO  downFielZaLog - httpDownload~ savePath[/data1/devupload/web/apkdoanload]  downloadUrl[https://www.wandoujia.com/apps/7925445/download/dot?ch=detail_qr_dl&pos=detail-ndownload-com.snda.lantern.wifilocating]  fileName[1608718239893.apk]
+[2020-12-23 18:10:39.890] connect success
+[2020-12-23 18:10:39.891] read success, status:200
+[2020-12-23 18:10:40.446] 2020-12-23 18:10:40,446 [http-app-a-8080-2$1864038994] INFO  downFielZaLog - httpDownload~ saveFilePath[/data1/devupload/web/apkdoanload/1608718239893.apk]
+[2020-12-23 18:10:46.435] 2020-12-23 18:10:46,435 [http-app-a-8080-2$1864038994] INFO  downFielZaLog - httpDownload~ download and save file success!
+[2020-12-23 18:10:46.865] 2020-12-23 18:10:46,865 [Thread-31273] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: READ_SETTINGS
+[2020-12-23 18:10:46.865] 2020-12-23 18:10:46,865 [Thread-31273] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: BAIDU_LOCATION_SERVICE
+[2020-12-23 18:10:46.865] 2020-12-23 18:10:46,865 [Thread-31273] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: ACCESS_GPS
+[2020-12-23 18:10:46.865] 2020-12-23 18:10:46,865 [Thread-31273] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: SEND_DOWNLOAD_COMPLETED_INTENTS
+[2020-12-23 18:10:46.865] 2020-12-23 18:10:46,865 [Thread-31273] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: READ_SETTINGS
+[2020-12-23 18:10:46.865] 2020-12-23 18:10:46,865 [Thread-31273] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: PACKAGE_USAGE_STATS
+[2020-12-23 18:10:46.865] 2020-12-23 18:10:46,865 [Thread-31273] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: INSTALL_SHORTCUT
+[2020-12-23 18:10:46.865] 2020-12-23 18:10:46,865 [Thread-31273] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: CHANGE_BADGE
+[2020-12-23 18:10:46.865] 2020-12-23 18:10:46,865 [Thread-31273] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: READ
+[2020-12-23 18:10:46.865] 2020-12-23 18:10:46,865 [Thread-31273] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: WRITE
+[2020-12-23 18:10:46.865] 2020-12-23 18:10:46,865 [Thread-31273] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: UNINSTALL_SHORTCUT
+[2020-12-23 18:10:46.865] 2020-12-23 18:10:46,865 [Thread-31273] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: INSTALL_SHORTCUT
+[2020-12-23 18:10:46.865] 2020-12-23 18:10:46,865 [Thread-31273] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: INSTALL_SHORTCUT
+[2020-12-23 18:10:46.865] 2020-12-23 18:10:46,865 [Thread-31273] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: UNINSTALL_SHORTCUT
+[2020-12-23 18:10:46.865] 2020-12-23 18:10:46,865 [Thread-31273] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: UNINSTALL_SHORTCUT
+[2020-12-23 18:10:46.865] 2020-12-23 18:10:46,865 [Thread-31273] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: READ_SETTINGS
+[2020-12-23 18:10:46.865] 2020-12-23 18:10:46,865 [Thread-31273] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: READ_SETTINGS
+[2020-12-23 18:10:46.865] 2020-12-23 18:10:46,865 [Thread-31273] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: READ_SETTINGS
+[2020-12-23 18:10:46.865] 2020-12-23 18:10:46,865 [Thread-31273] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: READ_SETTINGS
+[2020-12-23 18:10:46.865] 2020-12-23 18:10:46,865 [Thread-31273] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: READ_SETTINGS
+[2020-12-23 18:10:46.865] 2020-12-23 18:10:46,865 [Thread-31273] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: READ_SETTINGS
+[2020-12-23 18:10:46.865] 2020-12-23 18:10:46,865 [Thread-31273] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: READ_SETTINGS
+[2020-12-23 18:10:46.865] 2020-12-23 18:10:46,865 [Thread-31273] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: READ_SETTINGS
+[2020-12-23 18:10:46.865] 2020-12-23 18:10:46,865 [Thread-31273] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: READ_SETTINGS
+[2020-12-23 18:10:46.865] 2020-12-23 18:10:46,865 [Thread-31273] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: READ_SETTINGS
+[2020-12-23 18:10:46.865] 2020-12-23 18:10:46,865 [Thread-31273] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: READ_SETTINGS
+[2020-12-23 18:10:46.865] 2020-12-23 18:10:46,865 [Thread-31273] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: 
+[2020-12-23 18:10:46.865] 2020-12-23 18:10:46,865 [Thread-31273] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: READ_SETTINGS
+[2020-12-23 18:10:46.865] 2020-12-23 18:10:46,865 [Thread-31273] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: READ_SETTINGS
+[2020-12-23 18:10:46.865] 2020-12-23 18:10:46,865 [Thread-31273] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: READ_SETTINGS
+[2020-12-23 18:10:46.865] 2020-12-23 18:10:46,865 [Thread-31273] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: READ_SETTINGS
+[2020-12-23 18:10:46.865] 2020-12-23 18:10:46,865 [Thread-31273] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: READ_SETTINGS
+[2020-12-23 18:10:46.866] 2020-12-23 18:10:46,866 [Thread-31273] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: READ_SETTINGS
+[2020-12-23 18:10:46.866] 2020-12-23 18:10:46,866 [Thread-31273] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: READ_SETTINGS
+[2020-12-23 18:10:46.866] 2020-12-23 18:10:46,866 [Thread-31273] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: READ_SETTINGS
+[2020-12-23 18:10:46.866] 2020-12-23 18:10:46,866 [Thread-31273] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: READ_SETTINGS
+[2020-12-23 18:10:46.866] 2020-12-23 18:10:46,866 [Thread-31273] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: READ_SETTINGS
+[2020-12-23 18:10:46.866] 2020-12-23 18:10:46,866 [Thread-31273] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: READ_SETTINGS
+[2020-12-23 18:10:46.866] 2020-12-23 18:10:46,866 [Thread-31273] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: READ_SETTINGS
+[2020-12-23 18:10:46.866] 2020-12-23 18:10:46,866 [Thread-31273] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: READ_SETTINGS
+[2020-12-23 18:10:46.866] 2020-12-23 18:10:46,866 [Thread-31273] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: REQUEST_INSTALL_PACKAGES
+[2020-12-23 18:10:46.866] 2020-12-23 18:10:46,866 [Thread-31273] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: KW_SDK_BROADCAST
+[2020-12-23 18:10:46.866] 2020-12-23 18:10:46,866 [Thread-31273] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: 
+[2020-12-23 18:10:46.866] 2020-12-23 18:10:46,866 [Thread-31273] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: pseudo.ACTION_CALL
+[2020-12-23 18:10:46.866] 2020-12-23 18:10:46,866 [Thread-31273] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: FOREGROUND_SERVICE
+[2020-12-23 18:10:46.866] 2020-12-23 18:10:46,866 [Thread-31273] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: MIPUSH_RECEIVE
+[2020-12-23 18:10:46.866] 2020-12-23 18:10:46,866 [Thread-31273] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: RECIEVE_MCS_MESSAGE
+[2020-12-23 18:10:46.866] 2020-12-23 18:10:46,866 [Thread-31273] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: RECIEVE_MCS_MESSAGE
+[2020-12-23 18:10:46.866] 2020-12-23 18:10:46,866 [Thread-31273] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: 
+[2020-12-23 18:10:46.866] 2020-12-23 18:10:46,866 [Thread-31273] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: GET_COMMON_DATA
+[2020-12-23 18:10:46.866] 2020-12-23 18:10:46,866 [Thread-31273] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: PROCESS_PUSH_MSG
+[2020-12-23 18:10:46.866] 2020-12-23 18:10:46,866 [Thread-31273] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: PUSH_PROVIDER
+[2020-12-23 18:10:46.941] 2020-12-23 18:10:46,941 [http-app-a-8080-2$1864038994] INFO  syslog - clientMasterSpiderAppSaveUrl =====> http://192.168.238.160:8080/clientMasterSpiderAppSave.do
+[2020-12-23 18:10:47.125] 2020-12-23 18:10:47,125 [http-app-a-8080-2$1864038994] INFO  syslog - clientMasterSpiderAppSave resp reult =====> success
+[2020-12-23 18:10:47.125] 下载、读取com.snda.lantern.wifilocating:success
+[2020-12-23 18:10:47.125] 2020-12-23 18:10:47,125 [http-app-a-8080-2$1864038994] INFO  syslog - json data =====> {"apkDownloadUrl":"http://app.flyme.cn/games/public/download.json?app_id=3321299","id":5228751,"packageName":"com.tencent.huajing"}
+[2020-12-23 18:10:47.125] apkDownloadUrl:http://app.flyme.cn/games/public/download.json?app_id=3321299
+[2020-12-23 18:10:47.125] 2020-12-23 18:10:47,125 [http-app-a-8080-2$1864038994] INFO  syslog - http download file~ savePath[/data1/devupload/web/apkdoanload] apkDownloadUrl[http://app.flyme.cn/games/public/download.json?app_id=3321299] fileName[1608718247128.apk]
+[2020-12-23 18:10:47.125] 2020-12-23 18:10:47,125 [http-app-a-8080-2$1864038994] INFO  downFielZaLog - httpDownload~ savePath[/data1/devupload/web/apkdoanload]  downloadUrl[http://app.flyme.cn/games/public/download.json?app_id=3321299]  fileName[1608718247128.apk]
+[2020-12-23 18:10:47.126] connect success
+[2020-12-23 18:10:47.127] read success, status:200
+[2020-12-23 18:10:47.141] 2020-12-23 18:10:47,141 [http-app-a-8080-2$1864038994] INFO  downFielZaLog - httpDownload~ saveFilePath[/data1/devupload/web/apkdoanload/1608718247128.apk]
+[2020-12-23 18:10:47.142] 2020-12-23 18:10:47,142 [http-app-a-8080-2$1864038994] INFO  downFielZaLog - httpDownload~ download and save file success!
+[2020-12-23 18:10:47.246] 2020-12-23 18:10:47,246 [http-app-a-8080-2$1864038994] INFO  syslog - clientMasterSpiderAppSaveUrl =====> http://192.168.238.160:8080/clientMasterSpiderAppSave.do
+[2020-12-23 18:10:47.393] 2020-12-23 18:10:47,393 [http-app-a-8080-2$1864038994] INFO  syslog - clientMasterSpiderAppSave resp reult =====> fail
+[2020-12-23 18:10:47.393] 下载、读取com.tencent.huajing:fail
+[2020-12-23 18:10:47.393] 2020-12-23 18:10:47,393 [http-app-a-8080-2$1864038994] INFO  syslog - json data =====> {"apkDownloadUrl":"http://app.flyme.cn/games/public/download.json?app_id=1784004","id":5228744,"packageName":"com.baidu.homework"}
+[2020-12-23 18:10:47.393] apkDownloadUrl:http://app.flyme.cn/games/public/download.json?app_id=1784004
+[2020-12-23 18:10:47.393] 2020-12-23 18:10:47,393 [http-app-a-8080-2$1864038994] INFO  syslog - http download file~ savePath[/data1/devupload/web/apkdoanload] apkDownloadUrl[http://app.flyme.cn/games/public/download.json?app_id=1784004] fileName[1608718247398.apk]
+[2020-12-23 18:10:47.393] 2020-12-23 18:10:47,393 [http-app-a-8080-2$1864038994] INFO  downFielZaLog - httpDownload~ savePath[/data1/devupload/web/apkdoanload]  downloadUrl[http://app.flyme.cn/games/public/download.json?app_id=1784004]  fileName[1608718247398.apk]
+[2020-12-23 18:10:47.393] connect success
+[2020-12-23 18:10:47.394] read success, status:200
+[2020-12-23 18:10:47.408] 2020-12-23 18:10:47,408 [http-app-a-8080-2$1864038994] INFO  downFielZaLog - httpDownload~ saveFilePath[/data1/devupload/web/apkdoanload/1608718247398.apk]
+[2020-12-23 18:10:47.410] 2020-12-23 18:10:47,410 [http-app-a-8080-2$1864038994] INFO  downFielZaLog - httpDownload~ download and save file success!
+[2020-12-23 18:10:47.514] 2020-12-23 18:10:47,513 [http-app-a-8080-2$1864038994] INFO  syslog - clientMasterSpiderAppSaveUrl =====> http://192.168.238.160:8080/clientMasterSpiderAppSave.do
+[2020-12-23 18:10:47.652] 2020-12-23 18:10:47,652 [http-app-a-8080-2$1864038994] INFO  syslog - clientMasterSpiderAppSave resp reult =====> fail
+[2020-12-23 18:10:47.652] 下载、读取com.baidu.homework:fail
+[2020-12-23 18:10:47.653] 2020-12-23 18:10:47,653 [http-app-a-8080-2$1864038994] INFO  syslog - json data =====> {"apkDownloadUrl":"http://app.flyme.cn/games/public/download.json?app_id=2018344","id":5228722,"packageName":"com.sdhs.easy.high.road"}
+[2020-12-23 18:10:47.653] apkDownloadUrl:http://app.flyme.cn/games/public/download.json?app_id=2018344
+[2020-12-23 18:10:47.653] 2020-12-23 18:10:47,653 [http-app-a-8080-2$1864038994] INFO  syslog - http download file~ savePath[/data1/devupload/web/apkdoanload] apkDownloadUrl[http://app.flyme.cn/games/public/download.json?app_id=2018344] fileName[1608718247662.apk]
+[2020-12-23 18:10:47.653] 2020-12-23 18:10:47,653 [http-app-a-8080-2$1864038994] INFO  downFielZaLog - httpDownload~ savePath[/data1/devupload/web/apkdoanload]  downloadUrl[http://app.flyme.cn/games/public/download.json?app_id=2018344]  fileName[1608718247662.apk]
+[2020-12-23 18:10:47.653] connect success
+[2020-12-23 18:10:47.654] read success, status:200
+[2020-12-23 18:10:47.671] 2020-12-23 18:10:47,671 [http-app-a-8080-2$1864038994] INFO  downFielZaLog - httpDownload~ saveFilePath[/data1/devupload/web/apkdoanload/1608718247662.apk]
+[2020-12-23 18:10:47.673] 2020-12-23 18:10:47,673 [http-app-a-8080-2$1864038994] INFO  downFielZaLog - httpDownload~ download and save file success!
+[2020-12-23 18:10:47.777] 2020-12-23 18:10:47,777 [http-app-a-8080-2$1864038994] INFO  syslog - clientMasterSpiderAppSaveUrl =====> http://192.168.238.160:8080/clientMasterSpiderAppSave.do
+[2020-12-23 18:10:47.903] 2020-12-23 18:10:47,902 [http-app-a-8080-2$1864038994] INFO  syslog - clientMasterSpiderAppSave resp reult =====> fail
+[2020-12-23 18:10:47.903] 下载、读取com.sdhs.easy.high.road:fail
+[2020-12-23 18:10:47.903] 2020-12-23 18:10:47,903 [http-app-a-8080-2$1864038994] INFO  syslog - json data =====> {"apkDownloadUrl":"http://app.flyme.cn/games/public/download.json?app_id=2594553","id":5228717,"packageName":"com.lanjingren.ivwen"}
+[2020-12-23 18:10:47.903] apkDownloadUrl:http://app.flyme.cn/games/public/download.json?app_id=2594553
+[2020-12-23 18:10:47.903] 2020-12-23 18:10:47,903 [http-app-a-8080-2$1864038994] INFO  syslog - http download file~ savePath[/data1/devupload/web/apkdoanload] apkDownloadUrl[http://app.flyme.cn/games/public/download.json?app_id=2594553] fileName[1608718247906.apk]
+[2020-12-23 18:10:47.903] 2020-12-23 18:10:47,903 [http-app-a-8080-2$1864038994] INFO  downFielZaLog - httpDownload~ savePath[/data1/devupload/web/apkdoanload]  downloadUrl[http://app.flyme.cn/games/public/download.json?app_id=2594553]  fileName[1608718247906.apk]
+[2020-12-23 18:10:47.903] connect success
+[2020-12-23 18:10:47.904] read success, status:200
+[2020-12-23 18:10:47.917] 2020-12-23 18:10:47,917 [http-app-a-8080-2$1864038994] INFO  downFielZaLog - httpDownload~ saveFilePath[/data1/devupload/web/apkdoanload/1608718247906.apk]
+[2020-12-23 18:10:47.919] 2020-12-23 18:10:47,919 [http-app-a-8080-2$1864038994] INFO  downFielZaLog - httpDownload~ download and save file success!
+[2020-12-23 18:10:48.023] 2020-12-23 18:10:48,023 [http-app-a-8080-2$1864038994] INFO  syslog - clientMasterSpiderAppSaveUrl =====> http://192.168.238.160:8080/clientMasterSpiderAppSave.do
+[2020-12-23 18:10:48.141] 2020-12-23 18:10:48,141 [http-app-a-8080-2$1864038994] INFO  syslog - clientMasterSpiderAppSave resp reult =====> fail
+[2020-12-23 18:10:48.141] 下载、读取com.lanjingren.ivwen:fail
+[2020-12-23 18:10:48.168] 2020-12-23 18:10:48,141 [http-app-a-8080-2$1864038994] INFO  syslog - json data =====> {"apkDownloadUrl":"http://app.flyme.cn/apps/public/download.json?app_id=3208155","id":5228714,"packageName":"com.ss.android.ugc.livelite"}
+[2020-12-23 18:10:48.168] apkDownloadUrl:http://app.flyme.cn/apps/public/download.json?app_id=3208155
+[2020-12-23 18:10:48.168] 2020-12-23 18:10:48,168 [http-app-a-8080-2$1864038994] INFO  syslog - http download file~ savePath[/data1/devupload/web/apkdoanload] apkDownloadUrl[http://app.flyme.cn/apps/public/download.json?app_id=3208155] fileName[1608718248170.apk]
+[2020-12-23 18:10:48.168] 2020-12-23 18:10:48,168 [http-app-a-8080-2$1864038994] INFO  downFielZaLog - httpDownload~ savePath[/data1/devupload/web/apkdoanload]  downloadUrl[http://app.flyme.cn/apps/public/download.json?app_id=3208155]  fileName[1608718248170.apk]
+[2020-12-23 18:10:48.169] connect success
+[2020-12-23 18:10:48.169] read success, status:200
+[2020-12-23 18:10:48.187] 2020-12-23 18:10:48,187 [http-app-a-8080-2$1864038994] INFO  downFielZaLog - httpDownload~ saveFilePath[/data1/devupload/web/apkdoanload/1608718248170.apk]
+[2020-12-23 18:10:48.189] 2020-12-23 18:10:48,189 [http-app-a-8080-2$1864038994] INFO  downFielZaLog - httpDownload~ download and save file success!
+[2020-12-23 18:10:48.293] 2020-12-23 18:10:48,293 [http-app-a-8080-2$1864038994] INFO  syslog - clientMasterSpiderAppSaveUrl =====> http://192.168.238.160:8080/clientMasterSpiderAppSave.do
+[2020-12-23 18:10:48.410] 2020-12-23 18:10:48,410 [http-app-a-8080-2$1864038994] INFO  syslog - clientMasterSpiderAppSave resp reult =====> fail
+[2020-12-23 18:10:48.410] 下载、读取com.ss.android.ugc.livelite:fail
+[2020-12-23 18:10:48.410] 2020-12-23 18:10:48,410 [http-app-a-8080-2$1864038994] INFO  syslog - json data =====> {"apkDownloadUrl":"http://imtt.dd.qq.com/16891/apk/055D02A26575911703B24ABFECF7FB4C.apk?fsname=com.tencent.tv.qie_6.9.3_10060093.apk&hsr=4d5s","id":5228445,"packageName":"com.tencent.tv.qie"}
+[2020-12-23 18:10:48.410] apkDownloadUrl:http://imtt.dd.qq.com/16891/apk/055D02A26575911703B24ABFECF7FB4C.apk?fsname=com.tencent.tv.qie_6.9.3_10060093.apk&hsr=4d5s
+[2020-12-23 18:10:48.410] 2020-12-23 18:10:48,410 [http-app-a-8080-2$1864038994] INFO  syslog - http download file~ savePath[/data1/devupload/web/apkdoanload] apkDownloadUrl[http://imtt.dd.qq.com/16891/apk/055D02A26575911703B24ABFECF7FB4C.apk?fsname=com.tencent.tv.qie_6.9.3_10060093.apk&hsr=4d5s] fileName[1608718248411.apk]
+[2020-12-23 18:10:48.410] 2020-12-23 18:10:48,410 [http-app-a-8080-2$1864038994] INFO  downFielZaLog - httpDownload~ savePath[/data1/devupload/web/apkdoanload]  downloadUrl[http://imtt.dd.qq.com/16891/apk/055D02A26575911703B24ABFECF7FB4C.apk?fsname=com.tencent.tv.qie_6.9.3_10060093.apk&hsr=4d5s]  fileName[1608718248411.apk]
+[2020-12-23 18:10:48.411] connect success
+[2020-12-23 18:10:48.411] read success, status:200
+[2020-12-23 18:10:48.589] 2020-12-23 18:10:48,589 [http-app-a-8080-2$1864038994] INFO  downFielZaLog - httpDownload~ saveFilePath[/data1/devupload/web/apkdoanload/1608718248411.apk]
+[2020-12-23 18:11:03.857] 2020-12-23 18:11:03,857 [http-app-a-8080-3$2084943234] INFO  org.gelivable.web.EnvFilter - /util/monitorUnrarCommand.jsp,22,DR0DU0CR0CU0,192.168.10.41
+[2020-12-23 18:11:03.857] 
+[2020-12-23 18:11:15.346] 2020-12-23 18:11:15,346 [http-app-a-8080-2$1864038994] INFO  downFielZaLog - httpDownload~ download and save file success!
+[2020-12-23 18:11:15.748] 2020-12-23 18:11:15,748 [Thread-31279] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: READ_PHONE_NUMBERS
+[2020-12-23 18:11:15.748] 2020-12-23 18:11:15,748 [Thread-31279] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: FOREGROUND_SERVICE
+[2020-12-23 18:11:15.748] 2020-12-23 18:11:15,748 [Thread-31279] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: SYSTEM_OVERLAY_WINDOW
+[2020-12-23 18:11:15.748] 2020-12-23 18:11:15,748 [Thread-31279] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: REQUEST_INSTALL_PACKAGES
+[2020-12-23 18:11:15.748] 2020-12-23 18:11:15,748 [Thread-31279] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: READ_SETTINGS
+[2020-12-23 18:11:15.748] 2020-12-23 18:11:15,748 [Thread-31279] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: MIPUSH_RECEIVE
+[2020-12-23 18:11:15.748] 2020-12-23 18:11:15,748 [Thread-31279] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: RECEIVE
+[2020-12-23 18:11:15.748] 2020-12-23 18:11:15,748 [Thread-31279] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: C2D_MESSAGE
+[2020-12-23 18:11:15.837] 2020-12-23 18:11:15,836 [http-app-a-8080-2$1864038994] INFO  syslog - clientMasterSpiderAppSaveUrl =====> http://192.168.238.160:8080/clientMasterSpiderAppSave.do
+[2020-12-23 18:11:16.054] 2020-12-23 18:11:16,054 [http-app-a-8080-2$1864038994] INFO  syslog - clientMasterSpiderAppSave resp reult =====> success
+[2020-12-23 18:11:16.054] 下载、读取com.tencent.tv.qie:success
+[2020-12-23 18:11:16.054] 2020-12-23 18:11:16,054 [http-app-a-8080-2$1864038994] INFO  syslog - json data =====> {"apkDownloadUrl":"http://imtt.dd.qq.com/16891/apk/D4FF6F799CDD020E053BDFD331781306.apk?fsname=com.tencent.wework_3.1.0_14014.apk&hsr=4d5s","id":5228443,"packageName":"com.tencent.wework"}
+[2020-12-23 18:11:16.054] apkDownloadUrl:http://imtt.dd.qq.com/16891/apk/D4FF6F799CDD020E053BDFD331781306.apk?fsname=com.tencent.wework_3.1.0_14014.apk&hsr=4d5s
+[2020-12-23 18:11:16.054] 2020-12-23 18:11:16,054 [http-app-a-8080-2$1864038994] INFO  syslog - http download file~ savePath[/data1/devupload/web/apkdoanload] apkDownloadUrl[http://imtt.dd.qq.com/16891/apk/D4FF6F799CDD020E053BDFD331781306.apk?fsname=com.tencent.wework_3.1.0_14014.apk&hsr=4d5s] fileName[1608718276061.apk]
+[2020-12-23 18:11:16.054] 2020-12-23 18:11:16,054 [http-app-a-8080-2$1864038994] INFO  downFielZaLog - httpDownload~ savePath[/data1/devupload/web/apkdoanload]  downloadUrl[http://imtt.dd.qq.com/16891/apk/D4FF6F799CDD020E053BDFD331781306.apk?fsname=com.tencent.wework_3.1.0_14014.apk&hsr=4d5s]  fileName[1608718276061.apk]
+[2020-12-23 18:11:16.055] connect success
+[2020-12-23 18:11:16.056] read success, status:200
+[2020-12-23 18:11:16.064] 2020-12-23 18:11:16,064 [http-app-a-8080-2$1864038994] INFO  downFielZaLog - httpDownload~ saveFilePath[/data1/devupload/web/apkdoanload/1608718276061.apk]
+[2020-12-23 18:11:32.758] 2020-12-23 18:11:32,758 [http-app-a-8080-2$1864038994] INFO  downFielZaLog - httpDownload~ download and save file success!
+[2020-12-23 18:11:33.997] 2020-12-23 18:11:33,997 [Thread-31280] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: READ_SETTINGS
+[2020-12-23 18:11:33.997] 2020-12-23 18:11:33,997 [Thread-31280] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: CHANGE_BADGE
+[2020-12-23 18:11:33.997] 2020-12-23 18:11:33,997 [Thread-31280] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: sec.SDK_LAUNCHER
+[2020-12-23 18:11:33.997] 2020-12-23 18:11:33,997 [Thread-31280] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: REQUEST_INSTALL_PACKAGES
+[2020-12-23 18:11:33.997] 2020-12-23 18:11:33,997 [Thread-31280] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: INSTALL_SHORTCUT
+[2020-12-23 18:11:33.997] 2020-12-23 18:11:33,997 [Thread-31280] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: UNINSTALL_SHORTCUT
+[2020-12-23 18:11:33.997] 2020-12-23 18:11:33,997 [Thread-31280] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: READ_SETTINGS
+[2020-12-23 18:11:33.997] 2020-12-23 18:11:33,997 [Thread-31280] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: RICHMEDIA_PROVIDER
+[2020-12-23 18:11:33.997] 2020-12-23 18:11:33,997 [Thread-31280] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: ALARM_LOCK
+[2020-12-23 18:11:33.997] 2020-12-23 18:11:33,997 [Thread-31280] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: READ_APP_BADGE
+[2020-12-23 18:11:33.997] 2020-12-23 18:11:33,997 [Thread-31280] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: UPDATE_SHORTCUT
+[2020-12-23 18:11:33.997] 2020-12-23 18:11:33,997 [Thread-31280] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: BROADCAST_BADGE
+[2020-12-23 18:11:33.997] 2020-12-23 18:11:33,997 [Thread-31280] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: USE_FULL_SCREEN_INTENT
+[2020-12-23 18:11:33.997] 2020-12-23 18:11:33,997 [Thread-31280] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: FOREGROUND_SERVICE
+[2020-12-23 18:11:33.997] 2020-12-23 18:11:33,997 [Thread-31280] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: REQUEST_IGNORE_BATTERY_OPTIMIZATIONS
+[2020-12-23 18:11:33.997] 2020-12-23 18:11:33,997 [Thread-31280] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: ACCESS_INTERFACE
+[2020-12-23 18:11:33.997] 2020-12-23 18:11:33,997 [Thread-31280] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: MIPUSH_RECEIVE
+[2020-12-23 18:11:33.997] 2020-12-23 18:11:33,997 [Thread-31280] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: RECIEVE_MCS_MESSAGE
+[2020-12-23 18:11:33.997] 2020-12-23 18:11:33,997 [Thread-31280] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: 
+[2020-12-23 18:11:33.997] 2020-12-23 18:11:33,997 [Thread-31280] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: RECOVERY
+[2020-12-23 18:11:33.997] 2020-12-23 18:11:33,997 [Thread-31280] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: USE_BIOMETRIC
+[2020-12-23 18:11:33.997] 2020-12-23 18:11:33,997 [Thread-31280] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: USE_FINGERPRINT
+[2020-12-23 18:11:33.998] 2020-12-23 18:11:33,997 [Thread-31280] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: 
+[2020-12-23 18:11:33.998] 2020-12-23 18:11:33,998 [Thread-31280] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: READ_SETTINGS
+[2020-12-23 18:11:33.998] 2020-12-23 18:11:33,998 [Thread-31280] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: 
+[2020-12-23 18:11:33.998] 2020-12-23 18:11:33,998 [Thread-31280] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: 
+[2020-12-23 18:11:33.998] 2020-12-23 18:11:33,998 [Thread-31280] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: ACCESS_NOTIFICATION_POLICY
+[2020-12-23 18:11:33.998] 2020-12-23 18:11:33,998 [Thread-31280] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: ACCESS_SOTER_KEYSTORE
+[2020-12-23 18:11:33.998] 2020-12-23 18:11:33,998 [Thread-31280] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: USE_FACERECOGNITION
+[2020-12-23 18:11:33.998] 2020-12-23 18:11:33,998 [Thread-31280] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: PROCESS_PUSH_MSG
+[2020-12-23 18:11:33.998] 2020-12-23 18:11:33,998 [Thread-31280] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: PUSH_PROVIDER
+[2020-12-23 18:11:33.998] 2020-12-23 18:11:33,998 [Thread-31280] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: GET_COMMON_DATA
+[2020-12-23 18:11:34.025] 2020-12-23 18:11:34,025 [http-app-a-8080-2$1864038994] INFO  syslog - clientMasterSpiderAppSaveUrl =====> http://192.168.238.160:8080/clientMasterSpiderAppSave.do
+[2020-12-23 18:11:34.224] 2020-12-23 18:11:34,224 [http-app-a-8080-2$1864038994] INFO  syslog - clientMasterSpiderAppSave resp reult =====> success
+[2020-12-23 18:11:34.225] 下载、读取com.tencent.wework:success
+[2020-12-23 18:11:34.225] 2020-12-23 18:11:34,225 [http-app-a-8080-2$1864038994] INFO  syslog - json data =====> {"apkDownloadUrl":"http://imtt.dd.qq.com/16891/apk/EF68EAC77B3BABA522778FC95FE55C31.apk?fsname=com.woyue.batchat_2.3.4_86.apk&hsr=4d5s","id":5228442,"packageName":"com.woyue.batchat"}
+[2020-12-23 18:11:34.225] apkDownloadUrl:http://imtt.dd.qq.com/16891/apk/EF68EAC77B3BABA522778FC95FE55C31.apk?fsname=com.woyue.batchat_2.3.4_86.apk&hsr=4d5s
+[2020-12-23 18:11:34.225] 2020-12-23 18:11:34,225 [http-app-a-8080-2$1864038994] INFO  syslog - http download file~ savePath[/data1/devupload/web/apkdoanload] apkDownloadUrl[http://imtt.dd.qq.com/16891/apk/EF68EAC77B3BABA522778FC95FE55C31.apk?fsname=com.woyue.batchat_2.3.4_86.apk&hsr=4d5s] fileName[1608718294230.apk]
+[2020-12-23 18:11:34.225] 2020-12-23 18:11:34,225 [http-app-a-8080-2$1864038994] INFO  downFielZaLog - httpDownload~ savePath[/data1/devupload/web/apkdoanload]  downloadUrl[http://imtt.dd.qq.com/16891/apk/EF68EAC77B3BABA522778FC95FE55C31.apk?fsname=com.woyue.batchat_2.3.4_86.apk&hsr=4d5s]  fileName[1608718294230.apk]
+[2020-12-23 18:11:34.226] connect success
+[2020-12-23 18:11:34.227] read success, status:200
+[2020-12-23 18:11:34.243] 2020-12-23 18:11:34,243 [http-app-a-8080-2$1864038994] INFO  downFielZaLog - httpDownload~ saveFilePath[/data1/devupload/web/apkdoanload/1608718294230.apk]
+[2020-12-23 18:11:41.302] 2020-12-23 18:11:41,302 [http-app-a-8080-2$1864038994] INFO  downFielZaLog - httpDownload~ download and save file success!
+[2020-12-23 18:11:41.746] 2020-12-23 18:11:41,746 [Thread-31281] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: CLIENT_SERVICE_PERMISSION
+[2020-12-23 18:11:41.746] 2020-12-23 18:11:41,746 [Thread-31281] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: PUSH_NOTIFICATION
+[2020-12-23 18:11:41.746] 2020-12-23 18:11:41,746 [Thread-31281] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: CHANGE_BADGE 
+[2020-12-23 18:11:41.746] 2020-12-23 18:11:41,746 [Thread-31281] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: MODIFY_AUDIO_SETTINGS 
+[2020-12-23 18:11:41.746] 2020-12-23 18:11:41,746 [Thread-31281] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: READ_PRIVILEGED_PHONE_STATE
+[2020-12-23 18:11:41.746] 2020-12-23 18:11:41,746 [Thread-31281] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: ACCESS_BACKGROUND_LOCATION
+[2020-12-23 18:11:41.746] 2020-12-23 18:11:41,746 [Thread-31281] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: REQUEST_INSTALL_PACKAGES
+[2020-12-23 18:11:41.746] 2020-12-23 18:11:41,746 [Thread-31281] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: REQUEST_IGNORE_BATTERY_OPTIMIZATIONS
+[2020-12-23 18:11:41.746] 2020-12-23 18:11:41,746 [Thread-31281] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: 
+[2020-12-23 18:11:41.746] 2020-12-23 18:11:41,746 [Thread-31281] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: 
+[2020-12-23 18:11:41.746] 2020-12-23 18:11:41,746 [Thread-31281] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: RECIEVE_MCS_MESSAGE
+[2020-12-23 18:11:41.746] 2020-12-23 18:11:41,746 [Thread-31281] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: RECIEVE_MCS_MESSAGE
+[2020-12-23 18:11:41.746] 2020-12-23 18:11:41,746 [Thread-31281] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: RECEIVE
+[2020-12-23 18:11:41.746] 2020-12-23 18:11:41,746 [Thread-31281] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: MESSAGE
+[2020-12-23 18:11:41.746] 2020-12-23 18:11:41,746 [Thread-31281] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: RECEIVE
+[2020-12-23 18:11:41.746] 2020-12-23 18:11:41,746 [Thread-31281] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: C2D_MESSAGE
+[2020-12-23 18:11:41.746] 2020-12-23 18:11:41,746 [Thread-31281] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: MIPUSH_RECEIVE
+[2020-12-23 18:11:41.747] 2020-12-23 18:11:41,747 [Thread-31281] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: FOREGROUND_SERVICE
+[2020-12-23 18:11:41.747] 2020-12-23 18:11:41,747 [Thread-31281] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: action.openhpactivity
+[2020-12-23 18:11:41.747] 2020-12-23 18:11:41,747 [Thread-31281] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: USE_FINGERPRINT
+[2020-12-23 18:11:41.747] 2020-12-23 18:11:41,747 [Thread-31281] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: USE_BIOMETRIC
+[2020-12-23 18:11:41.747] 2020-12-23 18:11:41,747 [Thread-31281] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: 
+[2020-12-23 18:11:41.747] 2020-12-23 18:11:41,747 [Thread-31281] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: WRITE_USE_APP_FEATURE_SURVEY
+[2020-12-23 18:11:41.747] 2020-12-23 18:11:41,747 [Thread-31281] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: 
+[2020-12-23 18:11:41.747] 2020-12-23 18:11:41,747 [Thread-31281] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: PROCESS_PUSH_MSG
+[2020-12-23 18:11:41.747] 2020-12-23 18:11:41,747 [Thread-31281] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: PUSH_PROVIDER
+[2020-12-23 18:11:41.747] 2020-12-23 18:11:41,747 [Thread-31281] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: GET_COMMON_DATA
+[2020-12-23 18:11:41.834] 2020-12-23 18:11:41,834 [http-app-a-8080-2$1864038994] INFO  syslog - clientMasterSpiderAppSaveUrl =====> http://192.168.238.160:8080/clientMasterSpiderAppSave.do
+[2020-12-23 18:11:42.044] 2020-12-23 18:11:42,044 [http-app-a-8080-2$1864038994] INFO  syslog - clientMasterSpiderAppSave resp reult =====> success
+[2020-12-23 18:11:42.044] 下载、读取com.woyue.batchat:success
+[2020-12-23 18:11:42.044] 2020-12-23 18:11:42,044 [http-app-a-8080-2$1864038994] INFO  syslog - json data =====> {"apkDownloadUrl":"http://imtt.dd.qq.com/16891/apk/551C3E68632611D7B93BFEED6773BA5E.apk?fsname=com.sy.government_2.1.6_266.apk&hsr=4d5s","id":5228441,"packageName":"com.sy.government"}
+[2020-12-23 18:11:42.044] apkDownloadUrl:http://imtt.dd.qq.com/16891/apk/551C3E68632611D7B93BFEED6773BA5E.apk?fsname=com.sy.government_2.1.6_266.apk&hsr=4d5s
+[2020-12-23 18:11:42.044] 2020-12-23 18:11:42,044 [http-app-a-8080-2$1864038994] INFO  syslog - http download file~ savePath[/data1/devupload/web/apkdoanload] apkDownloadUrl[http://imtt.dd.qq.com/16891/apk/551C3E68632611D7B93BFEED6773BA5E.apk?fsname=com.sy.government_2.1.6_266.apk&hsr=4d5s] fileName[1608718302051.apk]
+[2020-12-23 18:11:42.044] 2020-12-23 18:11:42,044 [http-app-a-8080-2$1864038994] INFO  downFielZaLog - httpDownload~ savePath[/data1/devupload/web/apkdoanload]  downloadUrl[http://imtt.dd.qq.com/16891/apk/551C3E68632611D7B93BFEED6773BA5E.apk?fsname=com.sy.government_2.1.6_266.apk&hsr=4d5s]  fileName[1608718302051.apk]
+[2020-12-23 18:11:42.045] connect success
+[2020-12-23 18:11:42.046] read success, status:200
+[2020-12-23 18:11:42.057] 2020-12-23 18:11:42,057 [http-app-a-8080-2$1864038994] INFO  downFielZaLog - httpDownload~ saveFilePath[/data1/devupload/web/apkdoanload/1608718302051.apk]
+[2020-12-23 18:11:52.105] 2020-12-23 18:11:52,105 [http-app-a-8080-2$1864038994] INFO  downFielZaLog - httpDownload~ download and save file success!
+[2020-12-23 18:11:52.824] 2020-12-23 18:11:52,824 [Thread-31282] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: CHANGE_BADGE
+[2020-12-23 18:11:52.824] 2020-12-23 18:11:52,824 [Thread-31282] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: USE_BIOMETRIC
+[2020-12-23 18:11:52.824] 2020-12-23 18:11:52,824 [Thread-31282] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: USE_FINGERPRINT
+[2020-12-23 18:11:52.824] 2020-12-23 18:11:52,824 [Thread-31282] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: 
+[2020-12-23 18:11:52.824] 2020-12-23 18:11:52,824 [Thread-31282] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: RUN_INSTRUMENTATION
+[2020-12-23 18:11:52.824] 2020-12-23 18:11:52,824 [Thread-31282] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: ACCESS_BACKGROUND_LOCATION
+[2020-12-23 18:11:52.824] 2020-12-23 18:11:52,824 [Thread-31282] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: 
+[2020-12-23 18:11:52.824] 2020-12-23 18:11:52,824 [Thread-31282] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: RECEIVE
+[2020-12-23 18:11:52.824] 2020-12-23 18:11:52,824 [Thread-31282] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: QUERY_ALL_PACKAGES
+[2020-12-23 18:11:52.824] 2020-12-23 18:11:52,824 [Thread-31282] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: FOREGROUND_SERVICE
+[2020-12-23 18:11:52.824] 2020-12-23 18:11:52,824 [Thread-31282] INFO  cn.pconline.pcdlc.android.util.AaptRunner - uses permission miss zh: REQUEST_INSTALL_PACKAGES
+[2020-12-23 18:11:52.916] 2020-12-23 18:11:52,916 [http-app-a-8080-2$1864038994] INFO  syslog - clientMasterSpiderAppSaveUrl =====> http://192.168.238.160:8080/clientMasterSpiderAppSave.do
+[2020-12-23 18:11:52.955] 2020-12-23 18:11:52,955 [http-app-a-8080-2$1864038994] INFO  syslog - clientMasterSpiderAppSave resp reult =====> success
+[2020-12-23 18:11:52.955] 下载、读取com.sy.government:success
+[2020-12-23 18:11:52.955] 2020-12-23 18:11:52,955 [http-app-a-8080-2$1864038994] INFO  syslog - json data =====> {"apkDownloadUrl":"http://app.flyme.cn/apps/public/download.json?app_id=3232717","id":5228001,"packageName":"com.baidu.duer.superapp"}
+[2020-12-23 18:11:52.955] apkDownloadUrl:http://app.flyme.cn/apps/public/download.json?app_id=3232717
+[2020-12-23 18:11:52.955] 2020-12-23 18:11:52,955 [http-app-a-8080-2$1864038994] INFO  syslog - http download file~ savePath[/data1/devupload/web/apkdoanload] apkDownloadUrl[http://app.flyme.cn/apps/public/download.json?app_id=3232717] fileName[1608718312959.apk]
+[2020-12-23 18:11:52.955] 2020-12-23 18:11:52,955 [http-app-a-8080-2$1864038994] INFO  downFielZaLog - httpDownload~ savePath[/data1/devupload/web/apkdoanload]  downloadUrl[http://app.flyme.cn/apps/public/download.json?app_id=3232717]  fileName[1608718312959.apk]
+[2020-12-23 18:11:52.956] connect success
+[2020-12-23 18:11:52.957] read success, status:200
+[2020-12-23 18:11:52.969] 2020-12-23 18:11:52,969 [http-app-a-8080-2$1864038994] INFO  downFielZaLog - httpDownload~ saveFilePath[/data1/devupload/web/apkdoanload/1608718312959.apk]
+[2020-12-23 18:11:52.971] 2020-12-23 18:11:52,971 [http-app-a-8080-2$1864038994] INFO  downFielZaLog - httpDownload~ download and save file success!
+[2020-12-23 18:11:53.075] 2020-12-23 18:11:53,075 [http-app-a-8080-2$1864038994] INFO  syslog - clientMasterSpiderAppSaveUrl =====> http://192.168.238.160:8080/clientMasterSpiderAppSave.do
+[2020-12-23 18:11:53.100] 2020-12-23 18:11:53,100 [http-app-a-8080-2$1864038994] INFO  syslog - clientMasterSpiderAppSave resp reult =====> fail
+[2020-12-23 18:11:53.100] 下载、读取com.baidu.duer.superapp:fail
+[2020-12-23 18:11:53.100] 2020-12-23 18:11:53,100 [http-app-a-8080-2$1864038994] INFO  syslog - json data =====> {"apkDownloadUrl":"http://app.flyme.cn/games/public/download.json?app_id=2459592","id":5227721,"packageName":"com.chinaso.so"}
+[2020-12-23 18:11:53.100] apkDownloadUrl:http://app.flyme.cn/games/public/download.json?app_id=2459592
+[2020-12-23 18:11:53.100] 2020-12-23 18:11:53,100 [http-app-a-8080-2$1864038994] INFO  syslog - http download file~ savePath[/data1/devupload/web/apkdoanload] apkDownloadUrl[http://app.flyme.cn/games/public/download.json?app_id=2459592] fileName[1608718313108.apk]
+[2020-12-23 18:11:53.100] 2020-12-23 18:11:53,100 [http-app-a-8080-2$1864038994] INFO  downFielZaLog - httpDownload~ savePath[/data1/devupload/web/apkdoanload]  downloadUrl[http://app.flyme.cn/games/public/download.json?app_id=2459592]  fileName[1608718313108.apk]
+[2020-12-23 18:11:53.100] connect success
+[2020-12-23 18:11:53.101] read success, status:200
+[2020-12-23 18:11:53.115] 2020-12-23 18:11:53,115 [http-app-a-8080-2$1864038994] INFO  downFielZaLog - httpDownload~ saveFilePath[/data1/devupload/web/apkdoanload/1608718313108.apk]
+[2020-12-23 18:11:53.117] 2020-12-23 18:11:53,117 [http-app-a-8080-2$1864038994] INFO  downFielZaLog - httpDownload~ download and save file success!
+[2020-12-23 18:11:53.220] 2020-12-23 18:11:53,220 [http-app-a-8080-2$1864038994] INFO  syslog - clientMasterSpiderAppSaveUrl =====> http://192.168.238.160:8080/clientMasterSpiderAppSave.do
+[2020-12-23 18:11:53.244] 2020-12-23 18:11:53,244 [http-app-a-8080-2$1864038994] INFO  syslog - clientMasterSpiderAppSave resp reult =====> fail
+[2020-12-23 18:11:53.244] 下载、读取com.chinaso.so:fail
+[2020-12-23 18:11:53.244] 2020-12-23 18:11:53,244 [http-app-a-8080-2$1864038994] INFO  syslog - json data =====> {"apkDownloadUrl":"http://app.flyme.cn/games/public/download.json?app_id=1914584","id":5227706,"packageName":"com.fenbi.android.solar"}
+[2020-12-23 18:11:53.244] apkDownloadUrl:http://app.flyme.cn/games/public/download.json?app_id=1914584
+[2020-12-23 18:11:53.244] 2020-12-23 18:11:53,244 [http-app-a-8080-2$1864038994] INFO  syslog - http download file~ savePath[/data1/devupload/web/apkdoanload] apkDownloadUrl[http://app.flyme.cn/games/public/download.json?app_id=1914584] fileName[1608718313245.apk]
+[2020-12-23 18:11:53.244] 2020-12-23 18:11:53,244 [http-app-a-8080-2$1864038994] INFO  downFielZaLog - httpDownload~ savePath[/data1/devupload/web/apkdoanload]  downloadUrl[http://app.flyme.cn/games/public/download.json?app_id=1914584]  fileName[1608718313245.apk]
+[2020-12-23 18:11:53.244] connect success
+[2020-12-23 18:11:53.246] read success, status:200
+[2020-12-23 18:11:53.259] 2020-12-23 18:11:53,259 [http-app-a-8080-2$1864038994] INFO  downFielZaLog - httpDownload~ saveFilePath[/data1/devupload/web/apkdoanload/1608718313245.apk]
+[2020-12-23 18:11:53.261] 2020-12-23 18:11:53,261 [http-app-a-8080-2$1864038994] INFO  downFielZaLog - httpDownload~ download and save file success!
+[2020-12-23 18:11:53.364] 2020-12-23 18:11:53,364 [http-app-a-8080-2$1864038994] INFO  syslog - clientMasterSpiderAppSaveUrl =====> http://192.168.238.160:8080/clientMasterSpiderAppSave.do
+[2020-12-23 18:11:53.385] 2020-12-23 18:11:53,385 [http-app-a-8080-2$1864038994] INFO  syslog - clientMasterSpiderAppSave resp reult =====> fail
+[2020-12-23 18:11:53.385] 下载、读取com.fenbi.android.solar:fail
+[2020-12-23 18:11:53.385] 2020-12-23 18:11:53,385 [http-app-a-8080-2$1864038994] INFO  syslog - json data =====> {"apkDownloadUrl":"http://app.flyme.cn/games/public/download.json?app_id=1816353","id":5227615,"packageName":"com.jingdong.app.mall"}
+[2020-12-23 18:11:53.385] apkDownloadUrl:http://app.flyme.cn/games/public/download.json?app_id=1816353
+[2020-12-23 18:11:53.385] 2020-12-23 18:11:53,385 [http-app-a-8080-2$1864038994] INFO  syslog - http download file~ savePath[/data1/devupload/web/apkdoanload] apkDownloadUrl[http://app.flyme.cn/games/public/download.json?app_id=1816353] fileName[1608718313388.apk]
+[2020-12-23 18:11:53.385] 2020-12-23 18:11:53,385 [http-app-a-8080-2$1864038994] INFO  downFielZaLog - httpDownload~ savePath[/data1/devupload/web/apkdoanload]  downloadUrl[http://app.flyme.cn/games/public/download.json?app_id=1816353]  fileName[1608718313388.apk]
+[2020-12-23 18:11:53.386] connect success
+[2020-12-23 18:11:53.387] read success, status:200
+[2020-12-23 18:11:53.400] 2020-12-23 18:11:53,400 [http-app-a-8080-2$1864038994] INFO  downFielZaLog - httpDownload~ saveFilePath[/data1/devupload/web/apkdoanload/1608718313388.apk]
+[2020-12-23 18:11:53.402] 2020-12-23 18:11:53,402 [http-app-a-8080-2$1864038994] INFO  downFielZaLog - httpDownload~ download and save file success!
+[2020-12-23 18:11:53.505] 2020-12-23 18:11:53,505 [http-app-a-8080-2$1864038994] INFO  syslog - clientMasterSpiderAppSaveUrl =====> http://192.168.238.160:8080/clientMasterSpiderAppSave.do
+[2020-12-23 18:11:53.527] 2020-12-23 18:11:53,526 [http-app-a-8080-2$1864038994] INFO  syslog - clientMasterSpiderAppSave resp reult =====> fail
+[2020-12-23 18:11:53.527] 下载、读取com.jingdong.app.mall:fail
+[2020-12-23 18:11:53.527] 2020-12-23 18:11:53,527 [http-app-a-8080-2$1864038994] INFO  syslog - json data =====> {"apkDownloadUrl":"http://app.flyme.cn/apps/public/download.json?app_id=1763083","id":5224711,"packageName":"com.unionpay"}
+[2020-12-23 18:11:53.527] apkDownloadUrl:http://app.flyme.cn/apps/public/download.json?app_id=1763083
+[2020-12-23 18:11:53.527] 2020-12-23 18:11:53,527 [http-app-a-8080-2$1864038994] INFO  syslog - http download file~ savePath[/data1/devupload/web/apkdoanload] apkDownloadUrl[http://app.flyme.cn/apps/public/download.json?app_id=1763083] fileName[1608718313531.apk]
+[2020-12-23 18:11:53.527] 2020-12-23 18:11:53,527 [http-app-a-8080-2$1864038994] INFO  downFielZaLog - httpDownload~ savePath[/data1/devupload/web/apkdoanload]  downloadUrl[http://app.flyme.cn/apps/public/download.json?app_id=1763083]  fileName[1608718313531.apk]
+[2020-12-23 18:11:53.527] connect success
+[2020-12-23 18:11:53.528] read success, status:200
+[2020-12-23 18:11:53.541] 2020-12-23 18:11:53,541 [http-app-a-8080-2$1864038994] INFO  downFielZaLog - httpDownload~ saveFilePath[/data1/devupload/web/apkdoanload/1608718313531.apk]
+[2020-12-23 18:11:53.543] 2020-12-23 18:11:53,543 [http-app-a-8080-2$1864038994] INFO  downFielZaLog - httpDownload~ download and save file success!
+[2020-12-23 18:11:53.647] 2020-12-23 18:11:53,647 [http-app-a-8080-2$1864038994] INFO  syslog - clientMasterSpiderAppSaveUrl =====> http://192.168.238.160:8080/clientMasterSpiderAppSave.do
+[2020-12-23 18:11:53.680] 2020-12-23 18:11:53,680 [http-app-a-8080-2$1864038994] INFO  syslog - clientMasterSpiderAppSave resp reult =====> fail
+[2020-12-23 18:11:53.680] 下载、读取com.unionpay:fail
+[2020-12-23 18:11:53.680] 2020-12-23 18:11:53,680 [http-app-a-8080-2$1864038994] INFO  syslog - json data =====> {"apkDownloadUrl":"http://app.flyme.cn/apps/public/download.json?app_id=3040283","id":5222756,"packageName":"cn.gzmovement"}
+[2020-12-23 18:11:53.680] apkDownloadUrl:http://app.flyme.cn/apps/public/download.json?app_id=3040283
+[2020-12-23 18:11:53.680] 2020-12-23 18:11:53,680 [http-app-a-8080-2$1864038994] INFO  syslog - http download file~ savePath[/data1/devupload/web/apkdoanload] apkDownloadUrl[http://app.flyme.cn/apps/public/download.json?app_id=3040283] fileName[1608718313687.apk]
+[2020-12-23 18:11:53.680] 2020-12-23 18:11:53,680 [http-app-a-8080-2$1864038994] INFO  downFielZaLog - httpDownload~ savePath[/data1/devupload/web/apkdoanload]  downloadUrl[http://app.flyme.cn/apps/public/download.json?app_id=3040283]  fileName[1608718313687.apk]
+[2020-12-23 18:11:53.681] connect success
+[2020-12-23 18:11:53.682] read success, status:200
+[2020-12-23 18:11:53.694] 2020-12-23 18:11:53,694 [http-app-a-8080-2$1864038994] INFO  downFielZaLog - httpDownload~ saveFilePath[/data1/devupload/web/apkdoanload/1608718313687.apk]
+[2020-12-23 18:11:53.696] 2020-12-23 18:11:53,696 [http-app-a-8080-2$1864038994] INFO  downFielZaLog - httpDownload~ download and save file success!
+[2020-12-23 18:11:53.800] 2020-12-23 18:11:53,800 [http-app-a-8080-2$1864038994] INFO  syslog - clientMasterSpiderAppSaveUrl =====> http://192.168.238.160:8080/clientMasterSpiderAppSave.do
+[2020-12-23 18:11:53.822] 2020-12-23 18:11:53,822 [http-app-a-8080-2$1864038994] INFO  syslog - clientMasterSpiderAppSave resp reult =====> fail
+[2020-12-23 18:11:53.822] 下载、读取cn.gzmovement:fail
+[2020-12-23 18:11:53.822] 2020-12-23 18:11:53,822 [http-app-a-8080-2$1864038994] INFO  syslog - json data =====> {"apkDownloadUrl":"http://app.flyme.cn/apps/public/download.json?app_id=601011","id":5222754,"packageName":"com.hunantv.imgo.activity"}
+[2020-12-23 18:11:53.822] apkDownloadUrl:http://app.flyme.cn/apps/public/download.json?app_id=601011
+[2020-12-23 18:11:53.822] 2020-12-23 18:11:53,822 [http-app-a-8080-2$1864038994] INFO  syslog - http download file~ savePath[/data1/devupload/web/apkdoanload] apkDownloadUrl[http://app.flyme.cn/apps/public/download.json?app_id=601011] fileName[1608718313824.apk]
+[2020-12-23 18:11:53.822] 2020-12-23 18:11:53,822 [http-app-a-8080-2$1864038994] INFO  downFielZaLog - httpDownload~ savePath[/data1/devupload/web/apkdoanload]  downloadUrl[http://app.flyme.cn/apps/public/download.json?app_id=601011]  fileName[1608718313824.apk]
+[2020-12-23 18:11:53.822] connect success
+[2020-12-23 18:11:53.823] read success, status:200
+[2020-12-23 18:11:53.839] 2020-12-23 18:11:53,839 [http-app-a-8080-2$1864038994] INFO  downFielZaLog - httpDownload~ saveFilePath[/data1/devupload/web/apkdoanload/1608718313824.apk]
+[2020-12-23 18:11:53.841] 2020-12-23 18:11:53,840 [http-app-a-8080-2$1864038994] INFO  downFielZaLog - httpDownload~ download and save file success!
+[2020-12-23 18:11:53.944] 2020-12-23 18:11:53,944 [http-app-a-8080-2$1864038994] INFO  syslog - clientMasterSpiderAppSaveUrl =====> http://192.168.238.160:8080/clientMasterSpiderAppSave.do
+[2020-12-23 18:11:53.968] 2020-12-23 18:11:53,968 [http-app-a-8080-2$1864038994] INFO  syslog - clientMasterSpiderAppSave resp reult =====> fail
+[2020-12-23 18:11:53.968] 下载、读取com.hunantv.imgo.activity:fail
+[2020-12-23 18:11:53.968] 2020-12-23 18:11:53,968 [http-app-a-8080-2$1864038994] INFO  syslog - json data =====> {"apkDownloadUrl":"http://app.flyme.cn/apps/public/download.json?app_id=1913253","id":5222751,"packageName":"com.ishowedu.peiyin"}
+[2020-12-23 18:11:53.968] apkDownloadUrl:http://app.flyme.cn/apps/public/download.json?app_id=1913253
+[2020-12-23 18:11:53.968] 2020-12-23 18:11:53,968 [http-app-a-8080-2$1864038994] INFO  syslog - http download file~ savePath[/data1/devupload/web/apkdoanload] apkDownloadUrl[http://app.flyme.cn/apps/public/download.json?app_id=1913253] fileName[1608718313971.apk]
+[2020-12-23 18:11:53.968] 2020-12-23 18:11:53,968 [http-app-a-8080-2$1864038994] INFO  downFielZaLog - httpDownload~ savePath[/data1/devupload/web/apkdoanload]  downloadUrl[http://app.flyme.cn/apps/public/download.json?app_id=1913253]  fileName[1608718313971.apk]
+[2020-12-23 18:11:53.968] connect success
+[2020-12-23 18:11:53.970] read success, status:200
+[2020-12-23 18:11:53.983] 2020-12-23 18:11:53,983 [http-app-a-8080-2$1864038994] INFO  downFielZaLog - httpDownload~ saveFilePath[/data1/devupload/web/apkdoanload/1608718313971.apk]
+[2020-12-23 18:11:53.985] 2020-12-23 18:11:53,985 [http-app-a-8080-2$1864038994] INFO  downFielZaLog - httpDownload~ download and save file success!
+[2020-12-23 18:11:54.088] 2020-12-23 18:11:54,088 [http-app-a-8080-2$1864038994] INFO  syslog - clientMasterSpiderAppSaveUrl =====> http://192.168.238.160:8080/clientMasterSpiderAppSave.do
+[2020-12-23 18:11:54.950] 2020-12-23 18:11:54,950 [http-app-a-8080-2$1864038994] INFO  syslog - clientMasterSpiderAppSave resp reult =====> fail
+[2020-12-23 18:11:54.951] 下载、读取com.ishowedu.peiyin:fail
+[2020-12-23 18:11:54.951] 2020-12-23 18:11:54,951 [http-app-a-8080-2$1864038994] INFO  syslog - json data =====> {"apkDownloadUrl":"http://app.flyme.cn/apps/public/download.json?app_id=934008","id":5222717,"packageName":"com.ifreetalk.ftalk"}
+[2020-12-23 18:11:54.951] apkDownloadUrl:http://app.flyme.cn/apps/public/download.json?app_id=934008
+[2020-12-23 18:11:54.951] 2020-12-23 18:11:54,951 [http-app-a-8080-2$1864038994] INFO  syslog - http download file~ savePath[/data1/devupload/web/apkdoanload] apkDownloadUrl[http://app.flyme.cn/apps/public/download.json?app_id=934008] fileName[1608718314958.apk]
+[2020-12-23 18:11:54.951] 2020-12-23 18:11:54,951 [http-app-a-8080-2$1864038994] INFO  downFielZaLog - httpDownload~ savePath[/data1/devupload/web/apkdoanload]  downloadUrl[http://app.flyme.cn/apps/public/download.json?app_id=934008]  fileName[1608718314958.apk]
+[2020-12-23 18:11:54.951] connect success
+[2020-12-23 18:11:54.952] read success, status:200
+[2020-12-23 18:11:54.970] 2020-12-23 18:11:54,970 [http-app-a-8080-2$1864038994] INFO  downFielZaLog - httpDownload~ saveFilePath[/data1/devupload/web/apkdoanload/1608718314958.apk]
+[2020-12-23 18:11:54.971] 2020-12-23 18:11:54,971 [http-app-a-8080-2$1864038994] INFO  downFielZaLog - httpDownload~ download and save file success!
+[2020-12-23 18:11:55.075] 2020-12-23 18:11:55,075 [http-app-a-8080-2$1864038994] INFO  syslog - clientMasterSpiderAppSaveUrl =====> http://192.168.238.160:8080/clientMasterSpiderAppSave.do
+[2020-12-23 18:11:55.183] 2020-12-23 18:11:55,183 [http-app-a-8080-2$1864038994] INFO  syslog - clientMasterSpiderAppSave resp reult =====> fail
+[2020-12-23 18:11:55.183] 下载、读取com.ifreetalk.ftalk:fail
+[2020-12-23 18:11:55.183] 2020-12-23 18:11:55,183 [http-app-a-8080-2$1864038994] INFO  syslog - json data =====> {"apkDownloadUrl":"http://app.flyme.cn/apps/public/download.json?app_id=1893548","id":5222712,"packageName":"com.tencent.qt.sns"}
+[2020-12-23 18:11:55.183] apkDownloadUrl:http://app.flyme.cn/apps/public/download.json?app_id=1893548
+[2020-12-23 18:11:55.183] 2020-12-23 18:11:55,183 [http-app-a-8080-2$1864038994] INFO  syslog - http download file~ savePath[/data1/devupload/web/apkdoanload] apkDownloadUrl[http://app.flyme.cn/apps/public/download.json?app_id=1893548] fileName[1608718315191.apk]
+[2020-12-23 18:11:55.183] 2020-12-23 18:11:55,183 [http-app-a-8080-2$1864038994] INFO  downFielZaLog - httpDownload~ savePath[/data1/devupload/web/apkdoanload]  downloadUrl[http://app.flyme.cn/apps/public/download.json?app_id=1893548]  fileName[1608718315191.apk]
+[2020-12-23 18:11:55.183] connect success
+[2020-12-23 18:11:55.184] read success, status:200
+[2020-12-23 18:11:55.198] 2020-12-23 18:11:55,198 [http-app-a-8080-2$1864038994] INFO  downFielZaLog - httpDownload~ saveFilePath[/data1/devupload/web/apkdoanload/1608718315191.apk]
+[2020-12-23 18:11:55.200] 2020-12-23 18:11:55,200 [http-app-a-8080-2$1864038994] INFO  downFielZaLog - httpDownload~ download and save file success!
+[2020-12-23 18:11:55.303] 2020-12-23 18:11:55,303 [http-app-a-8080-2$1864038994] INFO  syslog - clientMasterSpiderAppSaveUrl =====> http://192.168.238.160:8080/clientMasterSpiderAppSave.do
+[2020-12-23 18:11:55.415] 2020-12-23 18:11:55,415 [http-app-a-8080-2$1864038994] INFO  syslog - clientMasterSpiderAppSave resp reult =====> fail
+[2020-12-23 18:11:55.415] 下载、读取com.tencent.qt.sns:fail
+[2020-12-23 18:11:55.415] 2020-12-23 18:11:55,415 [http-app-a-8080-2$1864038994] INFO  syslog - json data =====> {"apkDownloadUrl":"http://app.flyme.cn/games/public/download.json?app_id=1855042","id":5221181,"packageName":"com.cctv.cctv5ultimate"}
+[2020-12-23 18:11:55.415] apkDownloadUrl:http://app.flyme.cn/games/public/download.json?app_id=1855042
+[2020-12-23 18:11:55.415] 2020-12-23 18:11:55,415 [http-app-a-8080-2$1864038994] INFO  syslog - http download file~ savePath[/data1/devupload/web/apkdoanload] apkDownloadUrl[http://app.flyme.cn/games/public/download.json?app_id=1855042] fileName[1608718315423.apk]
+[2020-12-23 18:11:55.415] 2020-12-23 18:11:55,415 [http-app-a-8080-2$1864038994] INFO  downFielZaLog - httpDownload~ savePath[/data1/devupload/web/apkdoanload]  downloadUrl[http://app.flyme.cn/games/public/download.json?app_id=1855042]  fileName[1608718315423.apk]
+[2020-12-23 18:11:55.415] connect success
+[2020-12-23 18:11:55.416] read success, status:200
+[2020-12-23 18:11:55.433] 2020-12-23 18:11:55,433 [http-app-a-8080-2$1864038994] INFO  downFielZaLog - httpDownload~ saveFilePath[/data1/devupload/web/apkdoanload/1608718315423.apk]
+[2020-12-23 18:11:55.435] 2020-12-23 18:11:55,435 [http-app-a-8080-2$1864038994] INFO  downFielZaLog - httpDownload~ download and save file success!
+[2020-12-23 18:11:55.539] 2020-12-23 18:11:55,539 [http-app-a-8080-2$1864038994] INFO  syslog - clientMasterSpiderAppSaveUrl =====> http://192.168.238.160:8080/clientMasterSpiderAppSave.do
+[2020-12-23 18:11:55.658] 2020-12-23 18:11:55,658 [http-app-a-8080-2$1864038994] INFO  syslog - clientMasterSpiderAppSave resp reult =====> fail
+[2020-12-23 18:11:55.658] 下载、读取com.cctv.cctv5ultimate:fail
+[2020-12-23 18:11:55.659] 2020-12-23 18:11:55,659 [http-app-a-8080-2$1864038994] INFO  syslog - json data =====> {"apkDownloadUrl":"http://app.flyme.cn/games/public/download.json?app_id=1967418","id":5221178,"packageName":"cn.xiaochuankeji.tieba"}
+[2020-12-23 18:11:55.659] apkDownloadUrl:http://app.flyme.cn/games/public/download.json?app_id=1967418
+[2020-12-23 18:11:55.659] 2020-12-23 18:11:55,659 [http-app-a-8080-2$1864038994] INFO  syslog - http download file~ savePath[/data1/devupload/web/apkdoanload] apkDownloadUrl[http://app.flyme.cn/games/public/download.json?app_id=1967418] fileName[1608718315666.apk]
+[2020-12-23 18:11:55.659] 2020-12-23 18:11:55,659 [http-app-a-8080-2$1864038994] INFO  downFielZaLog - httpDownload~ savePath[/data1/devupload/web/apkdoanload]  downloadUrl[http://app.flyme.cn/games/public/download.json?app_id=1967418]  fileName[1608718315666.apk]
+[2020-12-23 18:11:55.659] connect success
+[2020-12-23 18:11:55.660] read success, status:200
+[2020-12-23 18:11:55.677] 2020-12-23 18:11:55,677 [http-app-a-8080-2$1864038994] INFO  downFielZaLog - httpDownload~ saveFilePath[/data1/devupload/web/apkdoanload/1608718315666.apk]
+[2020-12-23 18:11:55.679] 2020-12-23 18:11:55,678 [http-app-a-8080-2$1864038994] INFO  downFielZaLog - httpDownload~ download and save file success!
+[2020-12-23 18:11:55.782] 2020-12-23 18:11:55,782 [http-app-a-8080-2$1864038994] INFO  syslog - clientMasterSpiderAppSaveUrl =====> http://192.168.238.160:8080/clientMasterSpiderAppSave.do
+[2020-12-23 18:11:55.902] 2020-12-23 18:11:55,902 [http-app-a-8080-2$1864038994] INFO  syslog - clientMasterSpiderAppSave resp reult =====> fail
+[2020-12-23 18:11:55.902] 下载、读取cn.xiaochuankeji.tieba:fail
+[2020-12-23 18:11:55.903] 2020-12-23 18:11:55,903 [http-app-a-8080-2$1864038994] INFO  syslog - json data =====> {"apkDownloadUrl":"http://app.flyme.cn/games/public/download.json?app_id=282010","id":5221176,"packageName":"cn.wps.moffice_eng"}
+[2020-12-23 18:11:55.903] apkDownloadUrl:http://app.flyme.cn/games/public/download.json?app_id=282010
+[2020-12-23 18:11:55.903] 2020-12-23 18:11:55,903 [http-app-a-8080-2$1864038994] INFO  syslog - http download file~ savePath[/data1/devupload/web/apkdoanload] apkDownloadUrl[http://app.flyme.cn/games/public/download.json?app_id=282010] fileName[1608718315912.apk]
+[2020-12-23 18:11:55.903] 2020-12-23 18:11:55,903 [http-app-a-8080-2$1864038994] INFO  downFielZaLog - httpDownload~ savePath[/data1/devupload/web/apkdoanload]  downloadUrl[http://app.flyme.cn/games/public/download.json?app_id=282010]  fileName[1608718315912.apk]
+[2020-12-23 18:11:55.903] connect success
+[2020-12-23 18:11:55.904] read success, status:200
+[2020-12-23 18:11:55.917] 2020-12-23 18:11:55,917 [http-app-a-8080-2$1864038994] INFO  downFielZaLog - httpDownload~ saveFilePath[/data1/devupload/web/apkdoanload/1608718315912.apk]
+[2020-12-23 18:11:55.919] 2020-12-23 18:11:55,919 [http-app-a-8080-2$1864038994] INFO  downFielZaLog - httpDownload~ download and save file success!
+[2020-12-23 18:11:56.023] 2020-12-23 18:11:56,023 [http-app-a-8080-2$1864038994] INFO  syslog - clientMasterSpiderAppSaveUrl =====> http://192.168.238.160:8080/clientMasterSpiderAppSave.do
+[2020-12-23 18:11:56.135] 2020-12-23 18:11:56,135 [http-app-a-8080-2$1864038994] INFO  syslog - clientMasterSpiderAppSave resp reult =====> fail
+[2020-12-23 18:11:56.135] 下载、读取cn.wps.moffice_eng:fail
+[2020-12-23 18:11:56.135] 2020-12-23 18:11:56,135 [http-app-a-8080-2$1864038994] INFO  syslog - json data =====> {"apkDownloadUrl":"http://app.flyme.cn/games/public/download.json?app_id=1999566","id":5221174,"packageName":"com.dou_pai.DouPai"}
+[2020-12-23 18:11:56.135] apkDownloadUrl:http://app.flyme.cn/games/public/download.json?app_id=1999566
+[2020-12-23 18:11:56.135] 2020-12-23 18:11:56,135 [http-app-a-8080-2$1864038994] INFO  syslog - http download file~ savePath[/data1/devupload/web/apkdoanload] apkDownloadUrl[http://app.flyme.cn/games/public/download.json?app_id=1999566] fileName[1608718316140.apk]
+[2020-12-23 18:11:56.135] 2020-12-23 18:11:56,135 [http-app-a-8080-2$1864038994] INFO  downFielZaLog - httpDownload~ savePath[/data1/devupload/web/apkdoanload]  downloadUrl[http://app.flyme.cn/games/public/download.json?app_id=1999566]  fileName[1608718316140.apk]
+[2020-12-23 18:11:56.135] connect success
+[2020-12-23 18:11:56.136] read success, status:200
+[2020-12-23 18:11:56.153] 2020-12-23 18:11:56,153 [http-app-a-8080-2$1864038994] INFO  downFielZaLog - httpDownload~ saveFilePath[/data1/devupload/web/apkdoanload/1608718316140.apk]
+[2020-12-23 18:11:56.155] 2020-12-23 18:11:56,155 [http-app-a-8080-2$1864038994] INFO  downFielZaLog - httpDownload~ download and save file success!
+[2020-12-23 18:11:56.259] 2020-12-23 18:11:56,258 [http-app-a-8080-2$1864038994] INFO  syslog - clientMasterSpiderAppSaveUrl =====> http://192.168.238.160:8080/clientMasterSpiderAppSave.do
+[2020-12-23 18:11:56.402] 2020-12-23 18:11:56,402 [http-app-a-8080-2$1864038994] INFO  syslog - clientMasterSpiderAppSave resp reult =====> fail
+[2020-12-23 18:11:56.402] 下载、读取com.dou_pai.DouPai:fail
+[2020-12-23 18:11:56.403] 2020-12-23 18:11:56,403 [http-app-a-8080-2$1864038994] INFO  syslog - json data =====> {"apkDownloadUrl":"http://app.flyme.cn/games/public/download.json?app_id=888353","id":5221172,"packageName":"com.meitu.meiyancamera"}
+[2020-12-23 18:11:56.403] apkDownloadUrl:http://app.flyme.cn/games/public/download.json?app_id=888353
+[2020-12-23 18:11:56.403] 2020-12-23 18:11:56,403 [http-app-a-8080-2$1864038994] INFO  syslog - http download file~ savePath[/data1/devupload/web/apkdoanload] apkDownloadUrl[http://app.flyme.cn/games/public/download.json?app_id=888353] fileName[1608718316409.apk]
+[2020-12-23 18:11:56.403] 2020-12-23 18:11:56,403 [http-app-a-8080-2$1864038994] INFO  downFielZaLog - httpDownload~ savePath[/data1/devupload/web/apkdoanload]  downloadUrl[http://app.flyme.cn/games/public/download.json?app_id=888353]  fileName[1608718316409.apk]
+[2020-12-23 18:11:56.403] connect success
+[2020-12-23 18:11:56.404] read success, status:200
+[2020-12-23 18:11:56.421] 2020-12-23 18:11:56,421 [http-app-a-8080-2$1864038994] INFO  downFielZaLog - httpDownload~ saveFilePath[/data1/devupload/web/apkdoanload/1608718316409.apk]
+[2020-12-23 18:11:56.423] 2020-12-23 18:11:56,423 [http-app-a-8080-2$1864038994] INFO  downFielZaLog - httpDownload~ download and save file success!
+[2020-12-23 18:11:56.526] 2020-12-23 18:11:56,526 [http-app-a-8080-2$1864038994] INFO  syslog - clientMasterSpiderAppSaveUrl =====> http://192.168.238.160:8080/clientMasterSpiderAppSave.do
+[2020-12-23 18:11:56.646] 2020-12-23 18:11:56,646 [http-app-a-8080-2$1864038994] INFO  syslog - clientMasterSpiderAppSave resp reult =====> fail
+[2020-12-23 18:11:56.646] 下载、读取com.meitu.meiyancamera:fail
+[2020-12-23 18:11:56.647] 2020-12-23 18:11:56,647 [http-app-a-8080-2$1864038994] INFO  syslog - json data =====> {"apkDownloadUrl":"http://app.flyme.cn/games/public/download.json?app_id=1915280","id":5221171,"packageName":"com.yiban.app"}
+[2020-12-23 18:11:56.647] apkDownloadUrl:http://app.flyme.cn/games/public/download.json?app_id=1915280
+[2020-12-23 18:11:56.647] 2020-12-23 18:11:56,647 [http-app-a-8080-2$1864038994] INFO  syslog - http download file~ savePath[/data1/devupload/web/apkdoanload] apkDownloadUrl[http://app.flyme.cn/games/public/download.json?app_id=1915280] fileName[1608718316655.apk]
+[2020-12-23 18:11:56.647] 2020-12-23 18:11:56,647 [http-app-a-8080-2$1864038994] INFO  downFielZaLog - httpDownload~ savePath[/data1/devupload/web/apkdoanload]  downloadUrl[http://app.flyme.cn/games/public/download.json?app_id=1915280]  fileName[1608718316655.apk]
+[2020-12-23 18:11:56.647] connect success
+[2020-12-23 18:11:56.648] read success, status:200
+[2020-12-23 18:11:56.663] 2020-12-23 18:11:56,663 [http-app-a-8080-2$1864038994] INFO  downFielZaLog - httpDownload~ saveFilePath[/data1/devupload/web/apkdoanload/1608718316655.apk]
+[2020-12-23 18:11:56.664] 2020-12-23 18:11:56,664 [http-app-a-8080-2$1864038994] INFO  downFielZaLog - httpDownload~ download and save file success!
+[2020-12-23 18:11:56.768] 2020-12-23 18:11:56,768 [http-app-a-8080-2$1864038994] INFO  syslog - clientMasterSpiderAppSaveUrl =====> http://192.168.238.160:8080/clientMasterSpiderAppSave.do
+[2020-12-23 18:11:56.891] 2020-12-23 18:11:56,890 [http-app-a-8080-2$1864038994] INFO  syslog - clientMasterSpiderAppSave resp reult =====> fail
+[2020-12-23 18:11:56.891] 下载、读取com.yiban.app:fail
+[2020-12-23 18:11:56.891] 2020-12-23 18:11:56,891 [http-app-a-8080-2$1864038994] INFO  syslog - json data =====> {"apkDownloadUrl":"http://app.flyme.cn/games/public/download.json?app_id=1849738","id":5195152,"packageName":"com.android.dazhihui"}
+[2020-12-23 18:11:56.891] apkDownloadUrl:http://app.flyme.cn/games/public/download.json?app_id=1849738
+[2020-12-23 18:11:56.891] 2020-12-23 18:11:56,891 [http-app-a-8080-2$1864038994] INFO  syslog - http download file~ savePath[/data1/devupload/web/apkdoanload] apkDownloadUrl[http://app.flyme.cn/games/public/download.json?app_id=1849738] fileName[1608718316891.apk]
+[2020-12-23 18:11:56.891] 2020-12-23 18:11:56,891 [http-app-a-8080-2$1864038994] INFO  downFielZaLog - httpDownload~ savePath[/data1/devupload/web/apkdoanload]  downloadUrl[http://app.flyme.cn/games/public/download.json?app_id=1849738]  fileName[1608718316891.apk]
+[2020-12-23 18:11:56.891] connect success
+[2020-12-23 18:11:56.892] read success, status:200
+[2020-12-23 18:11:56.905] 2020-12-23 18:11:56,905 [http-app-a-8080-2$1864038994] INFO  downFielZaLog - httpDownload~ saveFilePath[/data1/devupload/web/apkdoanload/1608718316891.apk]
+[2020-12-23 18:11:56.907] 2020-12-23 18:11:56,907 [http-app-a-8080-2$1864038994] INFO  downFielZaLog - httpDownload~ download and save file success!
+[2020-12-23 18:11:57.011] 2020-12-23 18:11:57,011 [http-app-a-8080-2$1864038994] INFO  syslog - clientMasterSpiderAppSaveUrl =====> http://192.168.238.160:8080/clientMasterSpiderAppSave.do
+[2020-12-23 18:11:57.139] 2020-12-23 18:11:57,139 [http-app-a-8080-2$1864038994] INFO  syslog - clientMasterSpiderAppSave resp reult =====> fail
+[2020-12-23 18:11:57.139] 下载、读取com.android.dazhihui:fail
+[2020-12-23 18:11:57.139] 所用秒数：105
+[2020-12-23 18:11:57.139] 2020-12-23 18:11:57,139 [http-app-a-8080-2$1864038994] WARN  org.gelivable.web.EnvFilter - /intf/downloadApk.jsp,105055,DR0DU0CR0CU0,192.168.10.40
+[2020-12-23 18:11:57.139] 
+[2020-12-23 18:12:03.952] 2020-12-23 18:12:03,952 [http-app-a-8080-2$988034052] INFO  org.gelivable.web.EnvFilter - /util/monitorUnrarCommand.jsp,22,DR0DU0CR0CU0,192.168.10.41
+[2020-12-23 18:12:03.952] 
+[2020-12-23 18:13:04.503] 2020-12-23 18:13:04,503 [http-app-a-8080-2$1864038994] INFO  syslog - clientPCMasterSpiderUrl =====> http://192.168.238.160:8080/getClientPCMasterSpider.do?total=500&siteType=2
+[2020-12-23 18:13:04.514] 2020-12-23 18:13:04,514 [http-app-a-8080-2$1864038994] INFO  org.gelivable.web.EnvFilter - /intf/downloadXiXiPcFile.jsp,12,DR0DU0CR0CU0,192.168.244.52
+[2020-12-23 18:13:04.514] 
+[2020-12-23 18:13:05.465] 2020-12-23 18:13:05,465 [http-app-a-8080-2$1129151460] INFO  org.gelivable.web.EnvFilter - /util/monitorUnrarCommand.jsp,22,DR0DU0CR0CU0,192.168.11.238
+[2020-12-23 18:13:05.465] 
+[2020-12-23 18:14:03.425] 2020-12-23 18:14:03,425 [http-app-a-8080-3$63393030] INFO  org.gelivable.web.EnvFilter - /util/monitorUnrarCommand.jsp,22,DR0DU0CR0CU0,192.168.11.231
+[2020-12-23 18:14:03.425] 
+[2020-12-23 18:14:04.152] 2020-12-23 18:14:04,151 [http-app-a-8080-3$1129151460] INFO  syslog - clientPCMasterSpiderUrl =====> http://192.168.238.160:8080/getClientPCMasterSpider.do?total=50&siteType=24
+[2020-12-23 18:14:04.524] 2020-12-23 18:14:04,524 [http-app-a-8080-3$1129151460] INFO  syslog - json data =====> {"downloadUrl":"http://175.6.244.211:88/uploads/userup2/2719/antted_video_1.0.0-ba<x>se-web.zip","fileSize":"19 MB","id":4603341,"name":"Antted视频系统","needDownloadFlag":1,"pcSoftStatus":0,"resource":"http://down.admin5.com/php/142558.html","tempFileName":""}
+[2020-12-23 18:14:04.826] HttpClient, httpGet is not ok! statusCode: 404
+[2020-12-23 18:14:04.827] 下载pc物理文件异常
+[2020-12-23 18:14:04.827] HttpClient, httpPost~ error! errmsg: null
+[2020-12-23 18:14:04.830] 2020-12-23 18:14:04,829 [http-app-a-8080-3$1129151460] ERROR syslog - clientPCMasterSpiderUpdate1 occur error!
+[2020-12-23 18:14:04.830] java.lang.IndexOutOfBoundsException: Index: 0, Size: 0
+[2020-12-23 18:14:04.830] 	at java.util.ArrayList.rangeCheck(ArrayList.java:604)
+[2020-12-23 18:14:04.830] 	at java.util.ArrayList.get(ArrayList.java:382)
+[2020-12-23 18:14:04.830] 	at cn.pconline.pcdlc.upload.util.SiteUtil.getDownLoadUrlForA5(SiteUtil.java:112)
+[2020-12-23 18:14:04.830] 	at _jsp._intf._downloadAFivePcFile__jsp._jspService(_downloadAFivePcFile__jsp.java:127)
+[2020-12-23 18:14:04.830] 	at com.caucho.jsp.JavaPage.service(JavaPage.java:61)
+[2020-12-23 18:14:04.830] 	at com.caucho.jsp.Page.pageservice(Page.java:587)
+[2020-12-23 18:14:04.830] 	at com.caucho.server.dispatch.PageFilterChain.doFilter(PageFilterChain.java:195)
+[2020-12-23 18:14:04.830] 	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:88)
+[2020-12-23 18:14:04.830] 	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+[2020-12-23 18:14:04.830] 	at com.caucho.server.dispatch.FilterFilterChain.doFilter(FilterFilterChain.java:87)
+[2020-12-23 18:14:04.830] 	at org.gelivable.web.EnvFilter.doFilter(EnvFilter.java:60)
+[2020-12-23 18:14:04.830] 	at com.caucho.server.dispatch.FilterFilterChain.doFilter(FilterFilterChain.java:87)
+[2020-12-23 18:14:04.830] 	at org.gelivable.web.gzip.GZIPFilter.doFilter(GZIPFilter.java:85)
+[2020-12-23 18:14:04.830] 	at org.gelivable.web.gzip.Filter.doFilter(Filter.java:72)
+[2020-12-23 18:14:04.830] 	at com.caucho.server.dispatch.FilterFilterChain.doFilter(FilterFilterChain.java:87)
+[2020-12-23 18:14:04.830] 	at com.caucho.server.webapp.WebAppFilterChain.doFilter(WebAppFilterChain.java:187)
+[2020-12-23 18:14:04.830] 	at com.caucho.server.dispatch.ServletInvocation.service(ServletInvocation.java:265)
+[2020-12-23 18:14:04.830] 	at com.caucho.server.http.HttpRequest.handleRequest(HttpRequest.java:273)
+[2020-12-23 18:14:04.830] 	at com.caucho.server.port.TcpConnection.run(TcpConnection.java:682)
+[2020-12-23 18:14:04.830] 	at com.caucho.util.ThreadPool$Item.runTasks(ThreadPool.java:743)
+[2020-12-23 18:14:04.830] 	at com.caucho.util.ThreadPool$Item.run(ThreadPool.java:662)
+[2020-12-23 18:14:04.830] 	at java.lang.Thread.run(Thread.java:722)
+[2020-12-23 18:14:04.830] 2020-12-23 18:14:04,830 [http-app-a-8080-3$1129151460] INFO  syslog - json data =====> {"downloadUrl":"http://175.6.244.211:88/uploads/userup2/2719/antted_portal_1.0.0-ba<x>se-web.zip","fileSize":"19 MB","id":4593881,"name":"Antted门户信息系统","needDownloadFlag":1,"pcSoftStatus":0,"resource":"http://down.admin5.com/php/142537.html","tempFileName":""}
+[2020-12-23 18:14:05.123] HttpClient, httpGet is not ok! statusCode: 404
+[2020-12-23 18:14:05.123] 下载pc物理文件异常
+[2020-12-23 18:14:05.123] HttpClient, httpPost~ error! errmsg: null
+[2020-12-23 18:14:05.126] 2020-12-23 18:14:05,125 [http-app-a-8080-3$1129151460] ERROR syslog - clientPCMasterSpiderUpdate1 occur error!
+[2020-12-23 18:14:05.126] java.lang.IndexOutOfBoundsException: Index: 0, Size: 0
+[2020-12-23 18:14:05.126] 	at java.util.ArrayList.rangeCheck(ArrayList.java:604)
+[2020-12-23 18:14:05.126] 	at java.util.ArrayList.get(ArrayList.java:382)
+[2020-12-23 18:14:05.126] 	at cn.pconline.pcdlc.upload.util.SiteUtil.getDownLoadUrlForA5(SiteUtil.java:112)
+[2020-12-23 18:14:05.126] 	at _jsp._intf._downloadAFivePcFile__jsp._jspService(_downloadAFivePcFile__jsp.java:127)
+[2020-12-23 18:14:05.126] 	at com.caucho.jsp.JavaPage.service(JavaPage.java:61)
+[2020-12-23 18:14:05.126] 	at com.caucho.jsp.Page.pageservice(Page.java:587)
+[2020-12-23 18:14:05.126] 	at com.caucho.server.dispatch.PageFilterChain.doFilter(PageFilterChain.java:195)
+[2020-12-23 18:14:05.126] 	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:88)
+[2020-12-23 18:14:05.126] 	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+[2020-12-23 18:14:05.126] 	at com.caucho.server.dispatch.FilterFilterChain.doFilter(FilterFilterChain.java:87)
+[2020-12-23 18:14:05.126] 	at org.gelivable.web.EnvFilter.doFilter(EnvFilter.java:60)
+[2020-12-23 18:14:05.126] 	at com.caucho.server.dispatch.FilterFilterChain.doFilter(FilterFilterChain.java:87)
+[2020-12-23 18:14:05.126] 	at org.gelivable.web.gzip.GZIPFilter.doFilter(GZIPFilter.java:85)
+[2020-12-23 18:14:05.126] 	at org.gelivable.web.gzip.Filter.doFilter(Filter.java:72)
+[2020-12-23 18:14:05.126] 	at com.caucho.server.dispatch.FilterFilterChain.doFilter(FilterFilterChain.java:87)
+[2020-12-23 18:14:05.126] 	at com.caucho.server.webapp.WebAppFilterChain.doFilter(WebAppFilterChain.java:187)
+[2020-12-23 18:14:05.126] 	at com.caucho.server.dispatch.ServletInvocation.service(ServletInvocation.java:265)
+[2020-12-23 18:14:05.126] 	at com.caucho.server.http.HttpRequest.handleRequest(HttpRequest.java:273)
+[2020-12-23 18:14:05.126] 	at com.caucho.server.port.TcpConnection.run(TcpConnection.java:682)
+[2020-12-23 18:14:05.126] 	at com.caucho.util.ThreadPool$Item.runTasks(ThreadPool.java:743)
+[2020-12-23 18:14:05.126] 	at com.caucho.util.ThreadPool$Item.run(ThreadPool.java:662)
+[2020-12-23 18:14:05.126] 	at java.lang.Thread.run(Thread.java:722)
+[2020-12-23 18:14:05.126] 2020-12-23 18:14:05,126 [http-app-a-8080-3$1129151460] INFO  syslog - json data =====> {"downloadUrl":"http://175.6.244.211:88/uploads/userup2/2719/antted_help-center_1.0.0-ba<x>se-web.zip","fileSize":"19 MB","id":4584746,"name":"Antted帮助中心系统","needDownloadFlag":1,"pcSoftStatus":0,"resource":"http://down.admin5.com/php/142490.html","tempFileName":""}
+[2020-12-23 18:14:05.341] HttpClient, httpGet is not ok! statusCode: 404
+[2020-12-23 18:14:05.341] 下载pc物理文件异常
+[2020-12-23 18:14:05.341] HttpClient, httpPost~ error! errmsg: null
+[2020-12-23 18:14:05.344] 2020-12-23 18:14:05,343 [http-app-a-8080-3$1129151460] ERROR syslog - clientPCMasterSpiderUpdate1 occur error!
+[2020-12-23 18:14:05.344] java.lang.IndexOutOfBoundsException: Index: 0, Size: 0
+[2020-12-23 18:14:05.344] 	at java.util.ArrayList.rangeCheck(ArrayList.java:604)
+[2020-12-23 18:14:05.344] 	at java.util.ArrayList.get(ArrayList.java:382)
+[2020-12-23 18:14:05.344] 	at cn.pconline.pcdlc.upload.util.SiteUtil.getDownLoadUrlForA5(SiteUtil.java:112)
+[2020-12-23 18:14:05.344] 	at _jsp._intf._downloadAFivePcFile__jsp._jspService(_downloadAFivePcFile__jsp.java:127)
+[2020-12-23 18:14:05.344] 	at com.caucho.jsp.JavaPage.service(JavaPage.java:61)
+[2020-12-23 18:14:05.344] 	at com.caucho.jsp.Page.pageservice(Page.java:587)
+[2020-12-23 18:14:05.344] 	at com.caucho.server.dispatch.PageFilterChain.doFilter(PageFilterChain.java:195)
+[2020-12-23 18:14:05.344] 	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:88)
+[2020-12-23 18:14:05.344] 	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+[2020-12-23 18:14:05.344] 	at com.caucho.server.dispatch.FilterFilterChain.doFilter(FilterFilterChain.java:87)
+[2020-12-23 18:14:05.344] 	at org.gelivable.web.EnvFilter.doFilter(EnvFilter.java:60)
+[2020-12-23 18:14:05.344] 	at com.caucho.server.dispatch.FilterFilterChain.doFilter(FilterFilterChain.java:87)
+[2020-12-23 18:14:05.344] 	at org.gelivable.web.gzip.GZIPFilter.doFilter(GZIPFilter.java:85)
+[2020-12-23 18:14:05.344] 	at org.gelivable.web.gzip.Filter.doFilter(Filter.java:72)
+[2020-12-23 18:14:05.344] 	at com.caucho.server.dispatch.FilterFilterChain.doFilter(FilterFilterChain.java:87)
+[2020-12-23 18:14:05.344] 	at com.caucho.server.webapp.WebAppFilterChain.doFilter(WebAppFilterChain.java:187)
+[2020-12-23 18:14:05.344] 	at com.caucho.server.dispatch.ServletInvocation.service(ServletInvocation.java:265)
+[2020-12-23 18:14:05.344] 	at com.caucho.server.http.HttpRequest.handleRequest(HttpRequest.java:273)
+[2020-12-23 18:14:05.344] 	at com.caucho.server.port.TcpConnection.run(TcpConnection.java:682)
+[2020-12-23 18:14:05.344] 	at com.caucho.util.ThreadPool$Item.runTasks(ThreadPool.java:743)
+[2020-12-23 18:14:05.344] 	at com.caucho.util.ThreadPool$Item.run(ThreadPool.java:662)
+[2020-12-23 18:14:05.344] 	at java.lang.Thread.run(Thread.java:722)
+[2020-12-23 18:14:05.344] 2020-12-23 18:14:05,344 [http-app-a-8080-3$1129151460] INFO  syslog - json data =====> {"downloadUrl":"http://175.6.244.211:88/uploads/userup2/1838/DouPHP_SHOP_1.5_Release_20190703.rar","fileSize":"3.5 MB","id":4486382,"name":"DouPHP轻量级商城管理系统","needDownloadFlag":1,"pcSoftStatus":0,"resource":"http://down.admin5.com/php/142343.html","tempFileName":""}
+[2020-12-23 18:14:05.538] HttpClient, httpGet is not ok! statusCode: 404
+[2020-12-23 18:14:05.539] 下载pc物理文件异常
+[2020-12-23 18:14:05.539] HttpClient, httpPost~ error! errmsg: null
+[2020-12-23 18:14:05.542] 2020-12-23 18:14:05,541 [http-app-a-8080-3$1129151460] ERROR syslog - clientPCMasterSpiderUpdate1 occur error!
+[2020-12-23 18:14:05.542] java.lang.IndexOutOfBoundsException: Index: 0, Size: 0
+[2020-12-23 18:14:05.542] 	at java.util.ArrayList.rangeCheck(ArrayList.java:604)
+[2020-12-23 18:14:05.542] 	at java.util.ArrayList.get(ArrayList.java:382)
+[2020-12-23 18:14:05.542] 	at cn.pconline.pcdlc.upload.util.SiteUtil.getDownLoadUrlForA5(SiteUtil.java:112)
+[2020-12-23 18:14:05.542] 	at _jsp._intf._downloadAFivePcFile__jsp._jspService(_downloadAFivePcFile__jsp.java:127)
+[2020-12-23 18:14:05.542] 	at com.caucho.jsp.JavaPage.service(JavaPage.java:61)
+[2020-12-23 18:14:05.542] 	at com.caucho.jsp.Page.pageservice(Page.java:587)
+[2020-12-23 18:14:05.542] 	at com.caucho.server.dispatch.PageFilterChain.doFilter(PageFilterChain.java:195)
+[2020-12-23 18:14:05.542] 	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:88)
+[2020-12-23 18:14:05.542] 	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+[2020-12-23 18:14:05.542] 	at com.caucho.server.dispatch.FilterFilterChain.doFilter(FilterFilterChain.java:87)
+[2020-12-23 18:14:05.542] 	at org.gelivable.web.EnvFilter.doFilter(EnvFilter.java:60)
+[2020-12-23 18:14:05.542] 	at com.caucho.server.dispatch.FilterFilterChain.doFilter(FilterFilterChain.java:87)
+[2020-12-23 18:14:05.542] 	at org.gelivable.web.gzip.GZIPFilter.doFilter(GZIPFilter.java:85)
+[2020-12-23 18:14:05.542] 	at org.gelivable.web.gzip.Filter.doFilter(Filter.java:72)
+[2020-12-23 18:14:05.542] 	at com.caucho.server.dispatch.FilterFilterChain.doFilter(FilterFilterChain.java:87)
+[2020-12-23 18:14:05.542] 	at com.caucho.server.webapp.WebAppFilterChain.doFilter(WebAppFilterChain.java:187)
+[2020-12-23 18:14:05.542] 	at com.caucho.server.dispatch.ServletInvocation.service(ServletInvocation.java:265)
+[2020-12-23 18:14:05.542] 	at com.caucho.server.http.HttpRequest.handleRequest(HttpRequest.java:273)
+[2020-12-23 18:14:05.542] 	at com.caucho.server.port.TcpConnection.run(TcpConnection.java:682)
+[2020-12-23 18:14:05.542] 	at com.caucho.util.ThreadPool$Item.runTasks(ThreadPool.java:743)
+[2020-12-23 18:14:05.542] 	at com.caucho.util.ThreadPool$Item.run(ThreadPool.java:662)
+[2020-12-23 18:14:05.542] 	at java.lang.Thread.run(Thread.java:722)
+[2020-12-23 18:14:05.542] 2020-12-23 18:14:05,542 [http-app-a-8080-3$1129151460] INFO  syslog - json data =====> {"downloadUrl":"http://175.6.244.211:88/uploads/userup2/2719/antted-a5.zip","fileSize":"38 MB","id":4271832,"name":"有擎企业系统","needDownloadFlag":1,"pcSoftStatus":0,"resource":"http://down.admin5.com/php/142146.html","tempFileName":""}
+[2020-12-23 18:14:05.774] HttpClient, httpGet is not ok! statusCode: 404
+[2020-12-23 18:14:05.774] 下载pc物理文件异常
+[2020-12-23 18:14:05.774] HttpClient, httpPost~ error! errmsg: null
+[2020-12-23 18:14:05.777] 2020-12-23 18:14:05,776 [http-app-a-8080-3$1129151460] ERROR syslog - clientPCMasterSpiderUpdate1 occur error!
+[2020-12-23 18:14:05.777] java.lang.IndexOutOfBoundsException: Index: 0, Size: 0
+[2020-12-23 18:14:05.777] 	at java.util.ArrayList.rangeCheck(ArrayList.java:604)
+[2020-12-23 18:14:05.777] 	at java.util.ArrayList.get(ArrayList.java:382)
+[2020-12-23 18:14:05.777] 	at cn.pconline.pcdlc.upload.util.SiteUtil.getDownLoadUrlForA5(SiteUtil.java:112)
+[2020-12-23 18:14:05.777] 	at _jsp._intf._downloadAFivePcFile__jsp._jspService(_downloadAFivePcFile__jsp.java:127)
+[2020-12-23 18:14:05.777] 	at com.caucho.jsp.JavaPage.service(JavaPage.java:61)
+[2020-12-23 18:14:05.777] 	at com.caucho.jsp.Page.pageservice(Page.java:587)
+[2020-12-23 18:14:05.777] 	at com.caucho.server.dispatch.PageFilterChain.doFilter(PageFilterChain.java:195)
+[2020-12-23 18:14:05.777] 	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:88)
+[2020-12-23 18:14:05.777] 	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+[2020-12-23 18:14:05.777] 	at com.caucho.server.dispatch.FilterFilterChain.doFilter(FilterFilterChain.java:87)
+[2020-12-23 18:14:05.777] 	at org.gelivable.web.EnvFilter.doFilter(EnvFilter.java:60)
+[2020-12-23 18:14:05.777] 	at com.caucho.server.dispatch.FilterFilterChain.doFilter(FilterFilterChain.java:87)
+[2020-12-23 18:14:05.777] 	at org.gelivable.web.gzip.GZIPFilter.doFilter(GZIPFilter.java:85)
+[2020-12-23 18:14:05.777] 	at org.gelivable.web.gzip.Filter.doFilter(Filter.java:72)
+[2020-12-23 18:14:05.777] 	at com.caucho.server.dispatch.FilterFilterChain.doFilter(FilterFilterChain.java:87)
+[2020-12-23 18:14:05.777] 	at com.caucho.server.webapp.WebAppFilterChain.doFilter(WebAppFilterChain.java:187)
+[2020-12-23 18:14:05.777] 	at com.caucho.server.dispatch.ServletInvocation.service(ServletInvocation.java:265)
+[2020-12-23 18:14:05.777] 	at com.caucho.server.http.HttpRequest.handleRequest(HttpRequest.java:273)
+[2020-12-23 18:14:05.777] 	at com.caucho.server.port.TcpConnection.run(TcpConnection.java:682)
+[2020-12-23 18:14:05.777] 	at com.caucho.util.ThreadPool$Item.runTasks(ThreadPool.java:743)
+[2020-12-23 18:14:05.777] 	at com.caucho.util.ThreadPool$Item.run(ThreadPool.java:662)
+[2020-12-23 18:14:05.777] 	at java.lang.Thread.run(Thread.java:722)
+[2020-12-23 18:14:05.777] 2020-12-23 18:14:05,777 [http-app-a-8080-3$1129151460] INFO  syslog - json data =====> {"downloadUrl":"http://downadmin5-112.xzcheng.com/uploads/userup/1184/%5B%B7%C2%C5%A3%C9%CC%CD%F8%BD%A8%D5%BE%CF%B5%CD%B3%5D%D3%AA%CF%FA%D0%CD%CD%F8%D5%BE%D6%D0%D3%A2%CE%C4%CB%AB%D3%EF%B4%F8%D2%C6%B6%AF%B0%E6%D4%B4%C2%EB.zip","fileSize":"7.97 MB","id":1596640,"name":"仿牛商网建站系统营销型网站中英文双语带移动版源码","needDownloadFlag":1,"pcSoftStatus":0,"resource":"http://down.admin5.com/asp/134986.html","tempFileName":""}
+[2020-12-23 18:14:05.993] HttpClient, httpGet is not ok! statusCode: 404
+[2020-12-23 18:14:05.993] 下载pc物理文件异常
+[2020-12-23 18:14:05.993] HttpClient, httpPost~ error! errmsg: null
+[2020-12-23 18:14:05.997] 2020-12-23 18:14:05,995 [http-app-a-8080-3$1129151460] ERROR syslog - clientPCMasterSpiderUpdate1 occur error!
+[2020-12-23 18:14:05.997] java.lang.IndexOutOfBoundsException: Index: 0, Size: 0
+[2020-12-23 18:14:05.997] 	at java.util.ArrayList.rangeCheck(ArrayList.java:604)
+[2020-12-23 18:14:05.997] 	at java.util.ArrayList.get(ArrayList.java:382)
+[2020-12-23 18:14:05.997] 	at cn.pconline.pcdlc.upload.util.SiteUtil.getDownLoadUrlForA5(SiteUtil.java:112)
+[2020-12-23 18:14:05.997] 	at _jsp._intf._downloadAFivePcFile__jsp._jspService(_downloadAFivePcFile__jsp.java:127)
+[2020-12-23 18:14:05.997] 	at com.caucho.jsp.JavaPage.service(JavaPage.java:61)
+[2020-12-23 18:14:05.997] 	at com.caucho.jsp.Page.pageservice(Page.java:587)
+[2020-12-23 18:14:05.997] 	at com.caucho.server.dispatch.PageFilterChain.doFilter(PageFilterChain.java:195)
+[2020-12-23 18:14:05.997] 	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:88)
+[2020-12-23 18:14:05.997] 	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+[2020-12-23 18:14:05.997] 	at com.caucho.server.dispatch.FilterFilterChain.doFilter(FilterFilterChain.java:87)
+[2020-12-23 18:14:05.997] 	at org.gelivable.web.EnvFilter.doFilter(EnvFilter.java:60)
+[2020-12-23 18:14:05.997] 	at com.caucho.server.dispatch.FilterFilterChain.doFilter(FilterFilterChain.java:87)
+[2020-12-23 18:14:05.997] 	at org.gelivable.web.gzip.GZIPFilter.doFilter(GZIPFilter.java:85)
+[2020-12-23 18:14:05.997] 	at org.gelivable.web.gzip.Filter.doFilter(Filter.java:72)
+[2020-12-23 18:14:05.997] 	at com.caucho.server.dispatch.FilterFilterChain.doFilter(FilterFilterChain.java:87)
+[2020-12-23 18:14:05.997] 	at com.caucho.server.webapp.WebAppFilterChain.doFilter(WebAppFilterChain.java:187)
+[2020-12-23 18:14:05.997] 	at com.caucho.server.dispatch.ServletInvocation.service(ServletInvocation.java:265)
+[2020-12-23 18:14:05.997] 	at com.caucho.server.http.HttpRequest.handleRequest(HttpRequest.java:273)
+[2020-12-23 18:14:05.997] 	at com.caucho.server.port.TcpConnection.run(TcpConnection.java:682)
+[2020-12-23 18:14:05.997] 	at com.caucho.util.ThreadPool$Item.runTasks(ThreadPool.java:743)
+[2020-12-23 18:14:05.997] 	at com.caucho.util.ThreadPool$Item.run(ThreadPool.java:662)
+[2020-12-23 18:14:05.997] 	at java.lang.Thread.run(Thread.java:722)
+[2020-12-23 18:14:05.997] 2020-12-23 18:14:05,997 [http-app-a-8080-3$1129151460] INFO  syslog - json data =====> {"downloadUrl":"http://175.6.244.211:88/uploads/userup2/1106/rwcms-a5.zip","fileSize":"22MB","id":4159247,"name":"软文CMS","needDownloadFlag":1,"pcSoftStatus":0,"resource":"http://down.admin5.com/php/142055.html","tempFileName":""}
+[2020-12-23 18:14:06.221] HttpClient, httpGet is not ok! statusCode: 404
+[2020-12-23 18:14:06.221] 下载pc物理文件异常
+[2020-12-23 18:14:06.222] HttpClient, httpPost~ error! errmsg: null
+[2020-12-23 18:14:06.224] 2020-12-23 18:14:06,224 [http-app-a-8080-3$1129151460] ERROR syslog - clientPCMasterSpiderUpdate1 occur error!
+[2020-12-23 18:14:06.224] java.lang.IndexOutOfBoundsException: Index: 0, Size: 0
+[2020-12-23 18:14:06.224] 	at java.util.ArrayList.rangeCheck(ArrayList.java:604)
+[2020-12-23 18:14:06.224] 	at java.util.ArrayList.get(ArrayList.java:382)
+[2020-12-23 18:14:06.224] 	at cn.pconline.pcdlc.upload.util.SiteUtil.getDownLoadUrlForA5(SiteUtil.java:112)
+[2020-12-23 18:14:06.224] 	at _jsp._intf._downloadAFivePcFile__jsp._jspService(_downloadAFivePcFile__jsp.java:127)
+[2020-12-23 18:14:06.224] 	at com.caucho.jsp.JavaPage.service(JavaPage.java:61)
+[2020-12-23 18:14:06.224] 	at com.caucho.jsp.Page.pageservice(Page.java:587)
+[2020-12-23 18:14:06.224] 	at com.caucho.server.dispatch.PageFilterChain.doFilter(PageFilterChain.java:195)
+[2020-12-23 18:14:06.224] 	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:88)
+[2020-12-23 18:14:06.224] 	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+[2020-12-23 18:14:06.224] 	at com.caucho.server.dispatch.FilterFilterChain.doFilter(FilterFilterChain.java:87)
+[2020-12-23 18:14:06.224] 	at org.gelivable.web.EnvFilter.doFilter(EnvFilter.java:60)
+[2020-12-23 18:14:06.224] 	at com.caucho.server.dispatch.FilterFilterChain.doFilter(FilterFilterChain.java:87)
+[2020-12-23 18:14:06.224] 	at org.gelivable.web.gzip.GZIPFilter.doFilter(GZIPFilter.java:85)
+[2020-12-23 18:14:06.224] 	at org.gelivable.web.gzip.Filter.doFilter(Filter.java:72)
+[2020-12-23 18:14:06.224] 	at com.caucho.server.dispatch.FilterFilterChain.doFilter(FilterFilterChain.java:87)
+[2020-12-23 18:14:06.224] 	at com.caucho.server.webapp.WebAppFilterChain.doFilter(WebAppFilterChain.java:187)
+[2020-12-23 18:14:06.224] 	at com.caucho.server.dispatch.ServletInvocation.service(ServletInvocation.java:265)
+[2020-12-23 18:14:06.224] 	at com.caucho.server.http.HttpRequest.handleRequest(HttpRequest.java:273)
+[2020-12-23 18:14:06.224] 	at com.caucho.server.port.TcpConnection.run(TcpConnection.java:682)
+[2020-12-23 18:14:06.224] 	at com.caucho.util.ThreadPool$Item.runTasks(ThreadPool.java:743)
+[2020-12-23 18:14:06.224] 	at com.caucho.util.ThreadPool$Item.run(ThreadPool.java:662)
+[2020-12-23 18:14:06.224] 	at java.lang.Thread.run(Thread.java:722)
+[2020-12-23 18:14:06.224] 2020-12-23 18:14:06,224 [http-app-a-8080-3$1129151460] INFO  syslog - json data =====> {"downloadUrl":"http://175.6.244.211:88/uploads/userup2/1495/FireShop_火商商城系统_V1.0.1_190619.rar","fileSize":"36.8 MB","id":4388571,"name":"FireShop 火商商城系统","needDownloadFlag":1,"pcSoftStatus":0,"resource":"http://down.admin5.com/asp/142274.html"}
+[2020-12-23 18:14:06.445] HttpClient, httpGet is not ok! statusCode: 404
+[2020-12-23 18:14:06.445] 下载pc物理文件异常
+[2020-12-23 18:14:06.445] HttpClient, httpPost~ error! errmsg: null
+[2020-12-23 18:14:06.448] 2020-12-23 18:14:06,448 [http-app-a-8080-3$1129151460] ERROR syslog - clientPCMasterSpiderUpdate1 occur error!
+[2020-12-23 18:14:06.448] java.lang.IndexOutOfBoundsException: Index: 0, Size: 0
+[2020-12-23 18:14:06.448] 	at java.util.ArrayList.rangeCheck(ArrayList.java:604)
+[2020-12-23 18:14:06.448] 	at java.util.ArrayList.get(ArrayList.java:382)
+[2020-12-23 18:14:06.448] 	at cn.pconline.pcdlc.upload.util.SiteUtil.getDownLoadUrlForA5(SiteUtil.java:112)
+[2020-12-23 18:14:06.448] 	at _jsp._intf._downloadAFivePcFile__jsp._jspService(_downloadAFivePcFile__jsp.java:127)
+[2020-12-23 18:14:06.448] 	at com.caucho.jsp.JavaPage.service(JavaPage.java:61)
+[2020-12-23 18:14:06.448] 	at com.caucho.jsp.Page.pageservice(Page.java:587)
+[2020-12-23 18:14:06.448] 	at com.caucho.server.dispatch.PageFilterChain.doFilter(PageFilterChain.java:195)
+[2020-12-23 18:14:06.448] 	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:88)
+[2020-12-23 18:14:06.448] 	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+[2020-12-23 18:14:06.448] 	at com.caucho.server.dispatch.FilterFilterChain.doFilter(FilterFilterChain.java:87)
+[2020-12-23 18:14:06.448] 	at org.gelivable.web.EnvFilter.doFilter(EnvFilter.java:60)
+[2020-12-23 18:14:06.448] 	at com.caucho.server.dispatch.FilterFilterChain.doFilter(FilterFilterChain.java:87)
+[2020-12-23 18:14:06.448] 	at org.gelivable.web.gzip.GZIPFilter.doFilter(GZIPFilter.java:85)
+[2020-12-23 18:14:06.448] 	at org.gelivable.web.gzip.Filter.doFilter(Filter.java:72)
+[2020-12-23 18:14:06.448] 	at com.caucho.server.dispatch.FilterFilterChain.doFilter(FilterFilterChain.java:87)
+[2020-12-23 18:14:06.448] 	at com.caucho.server.webapp.WebAppFilterChain.doFilter(WebAppFilterChain.java:187)
+[2020-12-23 18:14:06.448] 	at com.caucho.server.dispatch.ServletInvocation.service(ServletInvocation.java:265)
+[2020-12-23 18:14:06.448] 	at com.caucho.server.http.HttpRequest.handleRequest(HttpRequest.java:273)
+[2020-12-23 18:14:06.448] 	at com.caucho.server.port.TcpConnection.run(TcpConnection.java:682)
+[2020-12-23 18:14:06.448] 	at com.caucho.util.ThreadPool$Item.runTasks(ThreadPool.java:743)
+[2020-12-23 18:14:06.448] 	at com.caucho.util.ThreadPool$Item.run(ThreadPool.java:662)
+[2020-12-23 18:14:06.448] 	at java.lang.Thread.run(Thread.java:722)
+[2020-12-23 18:14:06.448] 2020-12-23 18:14:06,448 [http-app-a-8080-3$1129151460] INFO  syslog - json data =====> {"downloadUrl":"http://175.6.244.211:88/code/201109/hibernate-validator-Final_A5.zip","fileSize":"12.7 MB","id":4034921,"name":"Hibernate Validator 开源框架","needDownloadFlag":1,"pcSoftStatus":0,"resource":"http://down.admin5.com/qita/Hibernate Validator.html"}
+[2020-12-23 18:14:06.450] HttpClient, httpGet~ error! errmsg: Illegal character in path at index 37: http://down.admin5.com/qita/Hibernate Validator.html
+[2020-12-23 18:14:06.451] 下载pc物理文件异常
+[2020-12-23 18:14:06.452] HttpClient, httpPost~ error! errmsg: null
+[2020-12-23 18:14:06.454] 2020-12-23 18:14:06,453 [http-app-a-8080-3$1129151460] ERROR syslog - clientPCMasterSpiderUpdate1 occur error!
+[2020-12-23 18:14:06.454] java.lang.IndexOutOfBoundsException: Index: 0, Size: 0
+[2020-12-23 18:14:06.454] 	at java.util.ArrayList.rangeCheck(ArrayList.java:604)
+[2020-12-23 18:14:06.454] 	at java.util.ArrayList.get(ArrayList.java:382)
+[2020-12-23 18:14:06.454] 	at cn.pconline.pcdlc.upload.util.SiteUtil.getDownLoadUrlForA5(SiteUtil.java:112)
+[2020-12-23 18:14:06.454] 	at _jsp._intf._downloadAFivePcFile__jsp._jspService(_downloadAFivePcFile__jsp.java:127)
+[2020-12-23 18:14:06.454] 	at com.caucho.jsp.JavaPage.service(JavaPage.java:61)
+[2020-12-23 18:14:06.454] 	at com.caucho.jsp.Page.pageservice(Page.java:587)
+[2020-12-23 18:14:06.454] 	at com.caucho.server.dispatch.PageFilterChain.doFilter(PageFilterChain.java:195)
+[2020-12-23 18:14:06.454] 	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:88)
+[2020-12-23 18:14:06.454] 	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+[2020-12-23 18:14:06.454] 	at com.caucho.server.dispatch.FilterFilterChain.doFilter(FilterFilterChain.java:87)
+[2020-12-23 18:14:06.454] 	at org.gelivable.web.EnvFilter.doFilter(EnvFilter.java:60)
+[2020-12-23 18:14:06.454] 	at com.caucho.server.dispatch.FilterFilterChain.doFilter(FilterFilterChain.java:87)
+[2020-12-23 18:14:06.454] 	at org.gelivable.web.gzip.GZIPFilter.doFilter(GZIPFilter.java:85)
+[2020-12-23 18:14:06.454] 	at org.gelivable.web.gzip.Filter.doFilter(Filter.java:72)
+[2020-12-23 18:14:06.454] 	at com.caucho.server.dispatch.FilterFilterChain.doFilter(FilterFilterChain.java:87)
+[2020-12-23 18:14:06.454] 	at com.caucho.server.webapp.WebAppFilterChain.doFilter(WebAppFilterChain.java:187)
+[2020-12-23 18:14:06.454] 	at com.caucho.server.dispatch.ServletInvocation.service(ServletInvocation.java:265)
+[2020-12-23 18:14:06.454] 	at com.caucho.server.http.HttpRequest.handleRequest(HttpRequest.java:273)
+[2020-12-23 18:14:06.454] 	at com.caucho.server.port.TcpConnection.run(TcpConnection.java:682)
+[2020-12-23 18:14:06.454] 	at com.caucho.util.ThreadPool$Item.runTasks(ThreadPool.java:743)
+[2020-12-23 18:14:06.454] 	at com.caucho.util.ThreadPool$Item.run(ThreadPool.java:662)
+[2020-12-23 18:14:06.454] 	at java.lang.Thread.run(Thread.java:722)
+[2020-12-23 18:14:06.454] 2020-12-23 18:14:06,454 [http-app-a-8080-3$1129151460] INFO  syslog - json data =====> {"downloadUrl":"http://downadmin5-112.xzcheng.com/uploads/userup/1191/ga4.zip","fileSize":"11.08 MB","id":1578669,"name":"宁志公安+签收功能网站管理系统","needDownloadFlag":1,"pcSoftStatus":0,"resource":"http://down.admin5.com/asp/58203.html","tempFileName":""}
+[2020-12-23 18:14:06.690] HttpClient, httpGet is not ok! statusCode: 404
+[2020-12-23 18:14:06.691] 下载pc物理文件异常
+[2020-12-23 18:14:06.691] HttpClient, httpPost~ error! errmsg: null
+[2020-12-23 18:14:06.693] 2020-12-23 18:14:06,693 [http-app-a-8080-3$1129151460] ERROR syslog - clientPCMasterSpiderUpdate1 occur error!
+[2020-12-23 18:14:06.693] java.lang.IndexOutOfBoundsException: Index: 0, Size: 0
+[2020-12-23 18:14:06.693] 	at java.util.ArrayList.rangeCheck(ArrayList.java:604)
+[2020-12-23 18:14:06.693] 	at java.util.ArrayList.get(ArrayList.java:382)
+[2020-12-23 18:14:06.693] 	at cn.pconline.pcdlc.upload.util.SiteUtil.getDownLoadUrlForA5(SiteUtil.java:112)
+[2020-12-23 18:14:06.693] 	at _jsp._intf._downloadAFivePcFile__jsp._jspService(_downloadAFivePcFile__jsp.java:127)
+[2020-12-23 18:14:06.693] 	at com.caucho.jsp.JavaPage.service(JavaPage.java:61)
+[2020-12-23 18:14:06.693] 	at com.caucho.jsp.Page.pageservice(Page.java:587)
+[2020-12-23 18:14:06.693] 	at com.caucho.server.dispatch.PageFilterChain.doFilter(PageFilterChain.java:195)
+[2020-12-23 18:14:06.693] 	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:88)
+[2020-12-23 18:14:06.693] 	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+[2020-12-23 18:14:06.693] 	at com.caucho.server.dispatch.FilterFilterChain.doFilter(FilterFilterChain.java:87)
+[2020-12-23 18:14:06.693] 	at org.gelivable.web.EnvFilter.doFilter(EnvFilter.java:60)
+[2020-12-23 18:14:06.693] 	at com.caucho.server.dispatch.FilterFilterChain.doFilter(FilterFilterChain.java:87)
+[2020-12-23 18:14:06.693] 	at org.gelivable.web.gzip.GZIPFilter.doFilter(GZIPFilter.java:85)
+[2020-12-23 18:14:06.693] 	at org.gelivable.web.gzip.Filter.doFilter(Filter.java:72)
+[2020-12-23 18:14:06.693] 	at com.caucho.server.dispatch.FilterFilterChain.doFilter(FilterFilterChain.java:87)
+[2020-12-23 18:14:06.693] 	at com.caucho.server.webapp.WebAppFilterChain.doFilter(WebAppFilterChain.java:187)
+[2020-12-23 18:14:06.693] 	at com.caucho.server.dispatch.ServletInvocation.service(ServletInvocation.java:265)
+[2020-12-23 18:14:06.693] 	at com.caucho.server.http.HttpRequest.handleRequest(HttpRequest.java:273)
+[2020-12-23 18:14:06.693] 	at com.caucho.server.port.TcpConnection.run(TcpConnection.java:682)
+[2020-12-23 18:14:06.693] 	at com.caucho.util.ThreadPool$Item.runTasks(ThreadPool.java:743)
+[2020-12-23 18:14:06.693] 	at com.caucho.util.ThreadPool$Item.run(ThreadPool.java:662)
+[2020-12-23 18:14:06.693] 	at java.lang.Thread.run(Thread.java:722)
+[2020-12-23 18:14:06.694] 2020-12-23 18:14:06,694 [http-app-a-8080-3$1129151460] INFO  syslog - json data =====> {"downloadUrl":"http://downadmin5-112.xzcheng.com/code/200912/%B2%BF%B6%D3%CD%F8%D5%BE%B9%DC%C0%ED%CF%B5%CD%B3.rar","fileSize":"2.41 MB","id":1590530,"name":"部队网站管理系统","needDownloadFlag":1,"pcSoftStatus":0,"resource":"http://down.admin5.com/asp/28454.html","tempFileName":""}
+[2020-12-23 18:14:06.921] HttpClient, httpGet is not ok! statusCode: 404
+[2020-12-23 18:14:06.921] 下载pc物理文件异常
+[2020-12-23 18:14:06.922] HttpClient, httpPost~ error! errmsg: null
+[2020-12-23 18:14:06.924] 2020-12-23 18:14:06,924 [http-app-a-8080-3$1129151460] ERROR syslog - clientPCMasterSpiderUpdate1 occur error!
+[2020-12-23 18:14:06.924] java.lang.IndexOutOfBoundsException: Index: 0, Size: 0
+[2020-12-23 18:14:06.924] 	at java.util.ArrayList.rangeCheck(ArrayList.java:604)
+[2020-12-23 18:14:06.924] 	at java.util.ArrayList.get(ArrayList.java:382)
+[2020-12-23 18:14:06.924] 	at cn.pconline.pcdlc.upload.util.SiteUtil.getDownLoadUrlForA5(SiteUtil.java:112)
+[2020-12-23 18:14:06.924] 	at _jsp._intf._downloadAFivePcFile__jsp._jspService(_downloadAFivePcFile__jsp.java:127)
+[2020-12-23 18:14:06.924] 	at com.caucho.jsp.JavaPage.service(JavaPage.java:61)
+[2020-12-23 18:14:06.924] 	at com.caucho.jsp.Page.pageservice(Page.java:587)
+[2020-12-23 18:14:06.924] 	at com.caucho.server.dispatch.PageFilterChain.doFilter(PageFilterChain.java:195)
+[2020-12-23 18:14:06.924] 	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:88)
+[2020-12-23 18:14:06.924] 	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+[2020-12-23 18:14:06.924] 	at com.caucho.server.dispatch.FilterFilterChain.doFilter(FilterFilterChain.java:87)
+[2020-12-23 18:14:06.924] 	at org.gelivable.web.EnvFilter.doFilter(EnvFilter.java:60)
+[2020-12-23 18:14:06.924] 	at com.caucho.server.dispatch.FilterFilterChain.doFilter(FilterFilterChain.java:87)
+[2020-12-23 18:14:06.924] 	at org.gelivable.web.gzip.GZIPFilter.doFilter(GZIPFilter.java:85)
+[2020-12-23 18:14:06.924] 	at org.gelivable.web.gzip.Filter.doFilter(Filter.java:72)
+[2020-12-23 18:14:06.924] 	at com.caucho.server.dispatch.FilterFilterChain.doFilter(FilterFilterChain.java:87)
+[2020-12-23 18:14:06.924] 	at com.caucho.server.webapp.WebAppFilterChain.doFilter(WebAppFilterChain.java:187)
+[2020-12-23 18:14:06.924] 	at com.caucho.server.dispatch.ServletInvocation.service(ServletInvocation.java:265)
+[2020-12-23 18:14:06.924] 	at com.caucho.server.http.HttpRequest.handleRequest(HttpRequest.java:273)
+[2020-12-23 18:14:06.924] 	at com.caucho.server.port.TcpConnection.run(TcpConnection.java:682)
+[2020-12-23 18:14:06.924] 	at com.caucho.util.ThreadPool$Item.runTasks(ThreadPool.java:743)
+[2020-12-23 18:14:06.924] 	at com.caucho.util.ThreadPool$Item.run(ThreadPool.java:662)
+[2020-12-23 18:14:06.924] 	at java.lang.Thread.run(Thread.java:722)
+[2020-12-23 18:14:06.924] 2020-12-23 18:14:06,924 [http-app-a-8080-3$1129151460] INFO  syslog - json data =====> {"downloadUrl":"http://175.6.244.211:88/uploads/userup/2556/tpt-blog_a5.zip","fileSize":"2.43MB","id":1555254,"name":"Tpt-Blog博客管理系统","needDownloadFlag":1,"pcSoftStatus":0,"resource":"http://down.admin5.com/php/Tpt-Blog.html","tempFileName":""}
+[2020-12-23 18:14:07.252] HttpClient, httpGet is not ok! statusCode: 404
+[2020-12-23 18:14:07.252] 下载pc物理文件异常
+[2020-12-23 18:14:07.289] HttpClient, httpPost~ error! errmsg: null
+[2020-12-23 18:14:07.292] 2020-12-23 18:14:07,292 [http-app-a-8080-3$1129151460] ERROR syslog - clientPCMasterSpiderUpdate1 occur error!
+[2020-12-23 18:14:07.292] java.lang.IndexOutOfBoundsException: Index: 0, Size: 0
+[2020-12-23 18:14:07.292] 	at java.util.ArrayList.rangeCheck(ArrayList.java:604)
+[2020-12-23 18:14:07.292] 	at java.util.ArrayList.get(ArrayList.java:382)
+[2020-12-23 18:14:07.292] 	at cn.pconline.pcdlc.upload.util.SiteUtil.getDownLoadUrlForA5(SiteUtil.java:112)
+[2020-12-23 18:14:07.292] 	at _jsp._intf._downloadAFivePcFile__jsp._jspService(_downloadAFivePcFile__jsp.java:127)
+[2020-12-23 18:14:07.292] 	at com.caucho.jsp.JavaPage.service(JavaPage.java:61)
+[2020-12-23 18:14:07.292] 	at com.caucho.jsp.Page.pageservice(Page.java:587)
+[2020-12-23 18:14:07.292] 	at com.caucho.server.dispatch.PageFilterChain.doFilter(PageFilterChain.java:195)
+[2020-12-23 18:14:07.292] 	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:88)
+[2020-12-23 18:14:07.292] 	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+[2020-12-23 18:14:07.292] 	at com.caucho.server.dispatch.FilterFilterChain.doFilter(FilterFilterChain.java:87)
+[2020-12-23 18:14:07.292] 	at org.gelivable.web.EnvFilter.doFilter(EnvFilter.java:60)
+[2020-12-23 18:14:07.292] 	at com.caucho.server.dispatch.FilterFilterChain.doFilter(FilterFilterChain.java:87)
+[2020-12-23 18:14:07.292] 	at org.gelivable.web.gzip.GZIPFilter.doFilter(GZIPFilter.java:85)
+[2020-12-23 18:14:07.292] 	at org.gelivable.web.gzip.Filter.doFilter(Filter.java:72)
+[2020-12-23 18:14:07.292] 	at com.caucho.server.dispatch.FilterFilterChain.doFilter(FilterFilterChain.java:87)
+[2020-12-23 18:14:07.292] 	at com.caucho.server.webapp.WebAppFilterChain.doFilter(WebAppFilterChain.java:187)
+[2020-12-23 18:14:07.292] 	at com.caucho.server.dispatch.ServletInvocation.service(ServletInvocation.java:265)
+[2020-12-23 18:14:07.292] 	at com.caucho.server.http.HttpRequest.handleRequest(HttpRequest.java:273)
+[2020-12-23 18:14:07.292] 	at com.caucho.server.port.TcpConnection.run(TcpConnection.java:682)
+[2020-12-23 18:14:07.292] 	at com.caucho.util.ThreadPool$Item.runTasks(ThreadPool.java:743)
+[2020-12-23 18:14:07.292] 	at com.caucho.util.ThreadPool$Item.run(ThreadPool.java:662)
+[2020-12-23 18:14:07.292] 	at java.lang.Thread.run(Thread.java:722)
+[2020-12-23 18:14:07.293] 2020-12-23 18:14:07,293 [http-app-a-8080-3$1129151460] INFO  syslog - json data =====> {"downloadUrl":"http://218.65.30.34:84/code/201109/phpvod_gbk_php5.2.x.zip","fileSize":"2.02 MB","id":1551691,"name":"PHPvod 视频点播系统","needDownloadFlag":1,"pcSoftStatus":0,"resource":"http://down.admin5.com/php/105166.html","tempFileName":""}
+[2020-12-23 18:14:07.493] HttpClient, httpGet is not ok! statusCode: 404
+[2020-12-23 18:14:07.494] 下载pc物理文件异常
+[2020-12-23 18:14:07.494] HttpClient, httpPost~ error! errmsg: null
+[2020-12-23 18:14:07.497] 2020-12-23 18:14:07,496 [http-app-a-8080-3$1129151460] ERROR syslog - clientPCMasterSpiderUpdate1 occur error!
+[2020-12-23 18:14:07.497] java.lang.IndexOutOfBoundsException: Index: 0, Size: 0
+[2020-12-23 18:14:07.497] 	at java.util.ArrayList.rangeCheck(ArrayList.java:604)
+[2020-12-23 18:14:07.497] 	at java.util.ArrayList.get(ArrayList.java:382)
+[2020-12-23 18:14:07.497] 	at cn.pconline.pcdlc.upload.util.SiteUtil.getDownLoadUrlForA5(SiteUtil.java:112)
+[2020-12-23 18:14:07.497] 	at _jsp._intf._downloadAFivePcFile__jsp._jspService(_downloadAFivePcFile__jsp.java:127)
+[2020-12-23 18:14:07.497] 	at com.caucho.jsp.JavaPage.service(JavaPage.java:61)
+[2020-12-23 18:14:07.497] 	at com.caucho.jsp.Page.pageservice(Page.java:587)
+[2020-12-23 18:14:07.497] 	at com.caucho.server.dispatch.PageFilterChain.doFilter(PageFilterChain.java:195)
+[2020-12-23 18:14:07.497] 	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:88)
+[2020-12-23 18:14:07.497] 	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+[2020-12-23 18:14:07.497] 	at com.caucho.server.dispatch.FilterFilterChain.doFilter(FilterFilterChain.java:87)
+[2020-12-23 18:14:07.497] 	at org.gelivable.web.EnvFilter.doFilter(EnvFilter.java:60)
+[2020-12-23 18:14:07.497] 	at com.caucho.server.dispatch.FilterFilterChain.doFilter(FilterFilterChain.java:87)
+[2020-12-23 18:14:07.497] 	at org.gelivable.web.gzip.GZIPFilter.doFilter(GZIPFilter.java:85)
+[2020-12-23 18:14:07.497] 	at org.gelivable.web.gzip.Filter.doFilter(Filter.java:72)
+[2020-12-23 18:14:07.497] 	at com.caucho.server.dispatch.FilterFilterChain.doFilter(FilterFilterChain.java:87)
+[2020-12-23 18:14:07.497] 	at com.caucho.server.webapp.WebAppFilterChain.doFilter(WebAppFilterChain.java:187)
+[2020-12-23 18:14:07.497] 	at com.caucho.server.dispatch.ServletInvocation.service(ServletInvocation.java:265)
+[2020-12-23 18:14:07.497] 	at com.caucho.server.http.HttpRequest.handleRequest(HttpRequest.java:273)
+[2020-12-23 18:14:07.497] 	at com.caucho.server.port.TcpConnection.run(TcpConnection.java:682)
+[2020-12-23 18:14:07.497] 	at com.caucho.util.ThreadPool$Item.runTasks(ThreadPool.java:743)
+[2020-12-23 18:14:07.497] 	at com.caucho.util.ThreadPool$Item.run(ThreadPool.java:662)
+[2020-12-23 18:14:07.497] 	at java.lang.Thread.run(Thread.java:722)
+[2020-12-23 18:14:07.497] 2020-12-23 18:14:07,497 [http-app-a-8080-3$1129151460] INFO  syslog - json data =====> {"downloadUrl":"http://175.6.244.211:88/uploads/userup/1760/eml+v1.0.zip","fileSize":"1MB","id":1553605,"name":"EML企业通讯录管理系统","needDownloadFlag":1,"pcSoftStatus":0,"resource":"http://down.admin5.com/php/102965.html","tempFileName":""}
+[2020-12-23 18:14:07.693] HttpClient, httpGet is not ok! statusCode: 404
+[2020-12-23 18:14:07.694] 下载pc物理文件异常
+[2020-12-23 18:14:07.694] HttpClient, httpPost~ error! errmsg: null
+[2020-12-23 18:14:07.696] 2020-12-23 18:14:07,696 [http-app-a-8080-3$1129151460] ERROR syslog - clientPCMasterSpiderUpdate1 occur error!
+[2020-12-23 18:14:07.696] java.lang.IndexOutOfBoundsException: Index: 0, Size: 0
+[2020-12-23 18:14:07.696] 	at java.util.ArrayList.rangeCheck(ArrayList.java:604)
+[2020-12-23 18:14:07.696] 	at java.util.ArrayList.get(ArrayList.java:382)
+[2020-12-23 18:14:07.696] 	at cn.pconline.pcdlc.upload.util.SiteUtil.getDownLoadUrlForA5(SiteUtil.java:112)
+[2020-12-23 18:14:07.696] 	at _jsp._intf._downloadAFivePcFile__jsp._jspService(_downloadAFivePcFile__jsp.java:127)
+[2020-12-23 18:14:07.696] 	at com.caucho.jsp.JavaPage.service(JavaPage.java:61)
+[2020-12-23 18:14:07.696] 	at com.caucho.jsp.Page.pageservice(Page.java:587)
+[2020-12-23 18:14:07.696] 	at com.caucho.server.dispatch.PageFilterChain.doFilter(PageFilterChain.java:195)
+[2020-12-23 18:14:07.696] 	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:88)
+[2020-12-23 18:14:07.696] 	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+[2020-12-23 18:14:07.696] 	at com.caucho.server.dispatch.FilterFilterChain.doFilter(FilterFilterChain.java:87)
+[2020-12-23 18:14:07.696] 	at org.gelivable.web.EnvFilter.doFilter(EnvFilter.java:60)
+[2020-12-23 18:14:07.696] 	at com.caucho.server.dispatch.FilterFilterChain.doFilter(FilterFilterChain.java:87)
+[2020-12-23 18:14:07.696] 	at org.gelivable.web.gzip.GZIPFilter.doFilter(GZIPFilter.java:85)
+[2020-12-23 18:14:07.696] 	at org.gelivable.web.gzip.Filter.doFilter(Filter.java:72)
+[2020-12-23 18:14:07.696] 	at com.caucho.server.dispatch.FilterFilterChain.doFilter(FilterFilterChain.java:87)
+[2020-12-23 18:14:07.696] 	at com.caucho.server.webapp.WebAppFilterChain.doFilter(WebAppFilterChain.java:187)
+[2020-12-23 18:14:07.696] 	at com.caucho.server.dispatch.ServletInvocation.service(ServletInvocation.java:265)
+[2020-12-23 18:14:07.696] 	at com.caucho.server.http.HttpRequest.handleRequest(HttpRequest.java:273)
+[2020-12-23 18:14:07.696] 	at com.caucho.server.port.TcpConnection.run(TcpConnection.java:682)
+[2020-12-23 18:14:07.696] 	at com.caucho.util.ThreadPool$Item.runTasks(ThreadPool.java:743)
+[2020-12-23 18:14:07.696] 	at com.caucho.util.ThreadPool$Item.run(ThreadPool.java:662)
+[2020-12-23 18:14:07.696] 	at java.lang.Thread.run(Thread.java:722)
+[2020-12-23 18:14:07.696] 所用秒数：3
+[2020-12-23 18:14:07.696] 2020-12-23 18:14:07,696 [http-app-a-8080-3$1129151460] INFO  org.gelivable.web.EnvFilter - /intf/downloadAFivePcFile.jsp,3546,DR0DU0CR0CU0,192.168.10.41
+[2020-12-23 18:14:07.696] 
+[2020-12-23 18:15:03.563] 2020-12-23 18:15:03,563 [http-app-a-8080-10$677720141] INFO  org.gelivable.web.EnvFilter - /util/monitorUnrarCommand.jsp,22,DR0DU0CR0CU0,192.168.11.231
+[2020-12-23 18:15:03.563] 
+[2020-12-23 18:15:04.797] 2020-12-23 18:15:04,797 [http-app-a-8080-10$63393030] INFO  generalFile - clientPCMasterSpiderUrl =====> http://192.168.238.160:8080/findFileNotExistsPCMaster4Update.do?total=500
+[2020-12-23 18:15:04.862] 所用秒数：0
+[2020-12-23 18:15:04.862] 2020-12-23 18:15:04,862 [http-app-a-8080-3$1864038994] INFO  org.gelivable.web.EnvFilter - /intf/downloadPptFile.jsp,36,DR0DU0CR0CU0,192.168.244.52
+[2020-12-23 18:15:04.862] 
+[2020-12-23 18:15:04.886] 2020-12-23 18:15:04,886 [http-app-a-8080-10$63393030] INFO  org.gelivable.web.EnvFilter - /intf/generalFileDownload.jsp,90,DR0DU0CR0CU0,192.168.244.52
+[2020-12-23 18:15:04.886] 
+[2020-12-23 18:15:07.675] contrKeyName31downloading
+[2020-12-23 18:15:07.746] []
+[2020-12-23 18:15:07.746] 所用秒数：0
+[2020-12-23 18:15:07.746] 2020-12-23 18:15:07,746 [http-app-a-8080-3$988034052] INFO  org.gelivable.web.EnvFilter - /intf/downloadCommonPcFile.jsp,71,DR0DU0CR0CU0,192.168.10.40
+[2020-12-23 18:15:07.746] 
+[2020-12-23 18:16:03.750] 2020-12-23 18:16:03,750 [http-app-a-8080-3$1129151460] INFO  syslog - clientPCMasterSpiderUrl =====> http://192.168.238.160:8080/getClientPCMasterSpider.do?total=500&siteType=8
+[2020-12-23 18:16:03.793] 2020-12-23 18:16:03,793 [http-app-a-8080-3$1129151460] INFO  org.gelivable.web.EnvFilter - /intf/downloadFeiFanPcFile.jsp,44,DR0DU0CR0CU0,192.168.11.231
+[2020-12-23 18:16:03.793] 
+[2020-12-23 18:16:05.061] 2020-12-23 18:16:05,061 [http-app-a-8080-3$988034052] INFO  syslog - clientPCMasterSpiderUrl =====> http://192.168.238.160:8080/getClientPCMasterSpider.do?total=500&siteType=26
+[2020-12-23 18:16:05.109] 2020-12-23 18:16:05,109 [http-app-a-8080-3$988034052] INFO  org.gelivable.web.EnvFilter - /intf/downloadBrushes8File.jsp,55,DR0DU0CR0CU0,192.168.244.52
+[2020-12-23 18:16:05.109] 
+[2020-12-23 18:16:05.917] 2020-12-23 18:16:05,917 [http-app-a-8080-3$1129151460] INFO  org.gelivable.web.EnvFilter - /util/monitorUnrarCommand.jsp,22,DR0DU0CR0CU0,192.168.11.238
+[2020-12-23 18:16:05.917] 
+[2020-12-23 18:17:04.633] 2020-12-23 18:17:04,633 [http-app-a-8080-3$988034052] INFO  org.gelivable.web.EnvFilter - /util/monitorUnrarCommand.jsp,24,DR0DU0CR0CU0,192.168.10.41
+[2020-12-23 18:17:04.633] 
