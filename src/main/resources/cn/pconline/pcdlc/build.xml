@@ -71,6 +71,13 @@
 			<arg value="cn.pconline.pcdlc.spider.model.android.AndroidYYBModel" />
 		</java>
 	</target>
+	<target name="yybWapSpider">
+		<echo message="miSpider  starting... " />
+		<java classname="cn.pconline.pcdlc.spider.task.android.shop.BaseAndroidSpider">
+			<classpath refid="classpath" />
+			<arg value="cn.pconline.pcdlc.spider.model.android.AndroidYYBWapModel" />
+		</java>
+	</target>
 	<target name="batchUpdateMiSpiderDataStatus">
 		<echo message="batchUpdateMiSpiderDataStatus  starting... " />
 		<java classname="cn.pconline.pcdlc.spider.task.android.shop.BatchUpdateSpiderDataStatus">
