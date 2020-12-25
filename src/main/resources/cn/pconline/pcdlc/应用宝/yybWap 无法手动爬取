@@ -1,0 +1,9 @@
+===== 2020-12-25 start =====
+select * from dl_spider_data_android where package_name = 'com.tencent.tmgp.jxqy2'
+
+got_data_date - 2020-12-04 17:09:22
+update_date - 2020-12-04 17:09:22
+
+https://a.app.qq.com/o/simple.jsp?pkgname=com.tencent.tmgp.jxqy2
+===== 2020-12-25 start =====
+
