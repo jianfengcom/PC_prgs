@@ -1,5 +1,24 @@
 没有收到E卡的人, 现在开始捡漏
 
+峯:49189886
+http://bestactivity.pconline.com.cn/intf/accountEcard/note.jsp?passportId=
+
+# todo
+1486843	東啊
+7213859	客家男孩
+8946593	king_big_star
+23254439	badflavor
+27223514	loser奶茶
+49522174	undefined
+49522216
+49522218	undefined
+49522227	云
+49844572	mb49844572
+50397375
+50701582	wx50701582
+50702744	wx50702744
+50703042	wx50703042
+
 wx50702744
 50702744
 原passportId: 49521725
@@ -60,3 +79,45 @@ http://bestactivity.pconline.com.cn/intf/accountEcard/login_success.jsp?openId=o
 http://bestactivity.pconline.com.cn/intf/accountEcard/login_success.jsp?openId=oAzmN5WUvEyWWwwS2qJJY7Y5PHlg&passportId=50701874&headIcon=https://i7.3conline.com/images/upload/upc/face/50/70/18/74/50701874_100x100&name=wx50701874
 
 http://bestactivity.pconline.com.cn/intf/accountEcard/login_success.jsp?openId=oAzmN5ZgZDpCPUm0Pvxf2mdIBOFU&passportId=50701691&headIcon=https://i7.3conline.com/images/upload/upc/face/50/70/16/91/50701691_100x100&name=wx50701691
+
+# todo
+SELECT passport_id, name FROM pcbest_account_ecard WHERE name LIKE 'wx________'
+AND CONCAT('wx', passport_id) != name
+
+1
+14968378
+wx47602272
+2
+45752924
+wx47455905
+3
+49521747
+wx50643601
+4
+49521749
+wx50643566
+5
+49521807
+wx50644665
+6
+49521827
+wx50644677
+7
+49521857
+wx50644659
+8
+49521886
+wx50647090
+9
+49521910
+wx50648079
+10
+49521969
+wx50652055
+11
+49522029
+wx50657820
+12
+49522199
+wx50704770
+
