@@ -121,3 +121,14 @@ wx50657820
 49522199
 wx50704770
 
+
+# done
+wx50704829
+mb50191750
+
+SELECT * FROM pcbest_ecard WHERE passport_id = 50704829
+SELECT * FROM pcbest_ecard WHERE passport_id = 50191750
+
+SELECT * FROM pcbest_account_ecard_share WHERE share_id = 'oAzmN5QW-gaE8TfzLLZUeWRSNTgw'
+SELECT * FROM pcbest_account_ecard_share WHERE share_id = 'oAzmN5R8L8-hMAZbHGGc0M1rtAws'
+
