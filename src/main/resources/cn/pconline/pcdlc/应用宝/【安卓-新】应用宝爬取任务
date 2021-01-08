@@ -1,0 +1,17 @@
+
+     [java] 2021-01-07 19:21:51,246 [pool-43-thread-1] INFO  cn.pconline.framework.spider.util.PcSimpleProxyProvider - 获取到的ip地址为:192.168.57.76:1080
+     [java] 2021-01-07 19:21:51,252 [pool-43-thread-1] INFO  us.codecraft.webmagic.downloader.HttpClientDownloader - downloading page success https://a.app.qq.com/o/simple.jsp?pkgname=com.websolutions.pandagamesfree
+     [java] 2021-01-07 19:21:51,253 [pool-43-thread-1] ERROR us.codecraft.webmagic.Spider - process request Request{url='https://a.app.qq.com/o/simple.jsp?pkgname=com.websolutions.pandagamesfree', method='null', extras=null, priority=0, headers={}, cookies={}} error
+     [java] java.lang.NullPointerException
+     [java] 2021-01-07 19:21:51,256 [pool-43-thread-1] INFO  cn.pconline.framework.spider.util.PcSimpleProxyProvider - 获取到的ip地址为:192.168.57.22:1080
+     [java] 2021-01-07 19:21:51,261 [pool-43-thread-1] INFO  us.codecraft.webmagic.downloader.HttpClientDownloader - downloading page success https://a.app.qq.com/o/simple.jsp?pkgname=kr.psyren.monkeypanda
+     [java] 2021-01-07 19:21:51,262 [pool-43-thread-1] ERROR us.codecraft.webmagic.Spider - process request Request{url='https://a.app.qq.com/o/simple.jsp?pkgname=kr.psyren.monkeypanda', method='null', extras=null, priority=0, headers={}, cookies={}} error
+     [java] java.lang.NullPointerException
+     [java] 2021-01-07 19:21:51,265 [pool-43-thread-1] INFO  cn.pconline.framework.spider.util.PcSimpleProxyProvider - 获取到的ip地址为:192.168.57.15:1080
+     [java] 2021-01-07 19:21:51,498 [pool-43-thread-1] INFO  us.codecraft.webmagic.downloader.HttpClientDownloader - downloading page success https://a.app.qq.com/o/simple.jsp?pkgname=com.nar.cutepanda
+     [java] 2021-01-07 19:21:51,500 [pool-43-thread-1] ERROR us.codecraft.webmagic.Spider - process request Request{url='https://a.app.qq.com/o/simple.jsp?pkgname=com.nar.cutepanda', method='null', extras=null, priority=0, headers={}, cookies={}} error
+     [java] java.lang.NullPointerException
+     [java] 2021-01-07 19:21:51,504 [pool-43-thread-1] INFO  cn.pconline.framework.spider.util.PcSimpleProxyProvider - 获取到的ip地址为:192.168.57.15:1080
+     [java] 2021-01-07 19:21:51,669 [pool-43-thread-1] INFO  us.codecraft.webmagic.downloader.HttpClientDownloader - downloading page success https://a.app.qq.com/o/simple.jsp?pkgname=com.partykidsmobile.android_pandatruck
+     [java] 2021-01-07 19:21:51,670 [pool-43-thread-1] ERROR us.codecraft.webmagic.Spider - process request Request{url='https://a.app.qq.com/o/simple.jsp?pkgname=com.partykidsmobile.android_pandatruck', method='null', extras=null, priority=0, headers={}, cookies={}} error
+     [java] java.lang.NullPointerException
