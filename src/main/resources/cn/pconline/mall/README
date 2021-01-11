@@ -1,5 +1,12 @@
+#
 http://mall.pconline.com.cn/admin/login
+local.pconline.com.cn:8080/admin/login
 
+# mysql - mall
+192.168.75.99   3307
+pc_baidu_mall/pc_baidu_mall
 
-本地
-localhost:8080//mall.pconline.com.cn/admin/login
+# 原型图 - 后台
+http://192.168.16.240/#g=1&p=%E5%90%8E%E5%8F%B0%E3%80%90%E6%80%A7%E8%83%BD%E5%A4%A9%E6%A2%AF%E5%9B%BE%E7%AE%A1%E7%90%86%E3%80%91
+
+# 原型图 - 前台
