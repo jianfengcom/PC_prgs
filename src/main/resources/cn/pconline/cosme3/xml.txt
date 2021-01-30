@@ -1,0 +1,23 @@
+--xml 生成接口
+localhost:8080/interface/rss/create_rssTop_sitemap.jsp
+
+--结果
+https://cosme.pclady.com.cn/xml/rss/rss_cosme_top/sitemap.xml
+
+--参考页面
+https://cosme.pclady.com.cn/products_hot/bi1_sm1_brand.html
+https://cosme.pclady.com.cn/brand/brand_rank.jsp?bid=1&sid=1
+local.pconline.com.cn:8080
+
+--BigSort SmallSort
+select id from cs_big_sort where 1=1 and status > -1
+select id from cs_small_sort where status >= 0 and bigSortId = ?
+
+--流量接口
+http://t-productta.pconline.com.cn:9002/pclady/group/count?groupField=brandId&orderBy=2&pageNo=1&pageSize=10
+
+
+
+
+
+
