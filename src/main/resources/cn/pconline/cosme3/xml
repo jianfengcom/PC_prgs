@@ -16,6 +16,12 @@ select id from cs_small_sort where status >= 0 and bigSortId = ?
 --流量接口
 http://t-productta.pconline.com.cn:9002/pclady/group/count?groupField=brandId&orderBy=2&pageNo=1&pageSize=10
 
+--机器
+--192.168.241.186
+/data/web/xml/rss/rss_cosme_top/sitemap.xml
+--192.168.240.185
+/data/static/cosme/xml/rss/rss_cosme_top/sitemap.xml
+
 
 
 
