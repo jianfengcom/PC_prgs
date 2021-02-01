@@ -13,8 +13,16 @@ local.pconline.com.cn:8080
 select id from cs_big_sort where 1=1 and status > -1
 select id from cs_small_sort where status >= 0 and bigSortId = ?
 
---流量接口
+--流量接口 - 大类
+--qa
 http://t-productta.pconline.com.cn:9002/pclady/group/count?groupField=brandId&orderBy=2&pageNo=1&pageSize=10
+--线上 20210201
+http://192.168.241.47:9002/pclady/group/count?groupField=brandId&orderBy=2&pageNo=1&pageSize=10&bigTypeId=2&startYmd=20210125&endYmd=20210131
+
+--流量接口 - 小类
+--qa
+--线上
+https://cosme.pclady.com.cn/api/brandTop/getBySmallSortId.do?smallSortId=17
 
 --机器
 --192.168.241.186
